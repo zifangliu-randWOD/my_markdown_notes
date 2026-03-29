@@ -1,0 +1,74 @@
+# Training Program Vault
+
+## What This Is
+An Obsidian vault containing a 24-week Oly-First Periodized CrossFit training program, designed March 2026. The program runs from 2026-03-30 to 2026-09-20.
+
+## Athlete Quick Reference
+- 181cm, 92kg, 31M, right-dominant
+- 4+ years bodybuilding, 2+ years CrossFit, self-coached
+- Trains Mon-Fri ~1hr + 15-20min accessory, rest weekends
+
+### Current PRs (at program start, March 2026)
+- Back Squat: 190kg (low bar) | Front Squat: 160kg | Deadlift: 200kg
+- Snatch: 105kg | Clean: 140kg | Jerk: ~120kg
+- Bench: 110kg | Fran: 4:30
+
+### Target PRs
+- Back Squat: 200+ | Front Squat: 170+ | Snatch: 120 | C&J: 140+
+- Unlock: ring muscle-ups, handstand walk
+
+### Known Physical Limiters
+- **Left knee patellar tracking issue**: pain with vertical torso/knee-forward positions under heavy load. Manageable with tempo and foot positioning. Likely VMO/quad imbalance. Left side clearly weaker than right.
+- **Thoracic mobility restriction**: bilateral, worse on left. Limits front rack position — elbows can't get high enough under heavy load, left arm more rigid. Directly caps jerk dip mechanics and clean receiving position.
+- **Snatch efficiency gap**: 55% snatch-to-squat ratio (105/190). Positional/timing improvements are the biggest lever, not raw strength.
+
+### Priority Stack
+1. Olympic lifting numbers (primary driver)
+2. Squat strength (supports everything)
+3. Left knee / asymmetry rehab (background, non-negotiable)
+4. Gymnastics unlocks (secondary)
+5. Conditioning (maintained, not focused)
+
+## Program Design
+- **Approach**: Oly-First Periodization — "Position Before Load, Load Before Speed"
+- **Phase 1 (Wk 1-8)**: Positional Foundation — technique volume, hypertrophy, rehab ramp-up
+- **Phase 2 (Wk 9-16)**: Strength-Speed — heavier Oly, squat intensity climbs
+- **Phase 3 (Wk 17-24)**: Peaking & Expression — heavy singles, test weeks
+- **Deload weeks**: 4, 8, 12, 16, 20
+- **Test weeks**: 8, 16, 24
+- Percentages recalculated after each test week based on new maxes
+
+## Vault Structure
+```
+Training Program/
+├── 00 - Program Overview.md        ← Hub file: philosophy, macrocycle, links
+├── Phase 1 - Weeks 1-4.md          ← Week-by-week with tracking
+├── Phase 1 - Weeks 5-8.md
+├── Phase 2 - Week 9.md
+├── Phase 2 - Weeks 10-11.md
+├── Phase 2 - Weeks 12-13.md
+├── Phase 2 - Weeks 14-15.md
+├── Phase 2 - Week 16.md
+├── Phase 3 - Week 17.md
+├── Phase 3 - Weeks 18-19.md
+├── Phase 3 - Weeks 20-21.md
+├── Phase 3 - Weeks 22-24.md
+├── Protocols & Reference.md        ← Mobility library, gymnastics progressions, PR log
+└── YYYY-MM-DD Day - Movement.md    ← Daily training notes (user creates as needed)
+```
+
+## How to Help the Athlete
+- **Program updates**: check current week/phase, read the relevant phase file, understand what's been done and what's coming. Check daily notes for RPE, knee status, and reflection notes.
+- **Performance diagnosis**: compare test week results (Weeks 8, 16, 24) in `Protocols & Reference.md` PR log. Check snatch daily max log for trends. Look at weekly reflections for patterns.
+- **Training compliance**: daily notes have checkboxes — count completed vs planned. Weekly reflections capture what was missed and why.
+- **Knee/mobility assessment**: each daily note tracks left knee feel (1-5) and front rack feel. The PR log in Protocols & Reference has a knee pain tracker table across weeks.
+- **Adjusting the program**: if the athlete asks to modify, understand which phase/week they're in, what their recent test results were, and what their reflections say. Adjust percentages, volume, or exercise selection accordingly. Never change the priority stack without discussion.
+
+## Conventions
+- All percentages reference current test maxes (updated after Weeks 8, 16, 24)
+- Daily notes use frontmatter: date, week, phase, day, training, tags
+- Checkboxes (`- [ ]`) for completion tracking (obsidian-tasks compatible)
+- Callout blocks (`> [!note]`) for weekly reflections
+- RPE scale: 1-10 (10 = max effort)
+- Knee pain scale: 1-5 (5 = no pain)
+- Front rack feel: 1-5 (5 = no restriction)

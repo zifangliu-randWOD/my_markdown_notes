@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73e14e0d536b60dc",
+        "id": "d531159284b33a82",
         "type": "tabs",
         "children": [
           {
-            "id": "a0c85e0902d7e9b2",
+            "id": "908a4bfb8c0b0903",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4f7ed7c3896b1862",
@@ -196,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -217,13 +203,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3944b2b679678154",
+  "active": "908a4bfb8c0b0903",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Welcome.md",
-    "2026-03-07.md",
-    "Untitled.base",
+    "CLAUDE.md",
+    "Training Program/2026-03-30 Mon - Snatch Complex + Back Squat.md",
+    "Training Program/00 - Program Overview.md",
+    "Training Program/Protocols & Reference.md",
+    "Training Program/Phase 1 - Weeks 1-4.md",
+    "Training Program/2026-03-31 Tue - Jerk + Strict Press + Ring MU.md",
     "Untitled.md",
+    "Training Program - Oly First Periodization.md",
+    "Training Program/Phase 3 - Weeks 22-24.md",
+    "Training Program/Phase 3 - Weeks 20-21.md",
+    "Training Program/Phase 3 - Weeks 18-19.md",
+    "Training Program/Phase 3 - Week 17.md",
+    "Training Program/Phase 2 - Week 16.md",
+    "Training Program/Phase 2 - Weeks 14-15.md",
+    "Training Program/Phase 2 - Weeks 12-13.md",
+    "Training Program/Phase 2 - Weeks 10-11.md",
+    "Training Program/Phase 2 - Week 9.md",
+    "Training Program/Phase 1 - Weeks 5-8.md",
+    "Training Program",
+    "2026-03-29.md",
+    "Protocols & Reference.md",
+    "Phase 1 - Weeks 1-4.md",
+    "Phase 1 - Weeks 5-8.md",
+    "Phase 3 - Weeks 22-24.md",
+    "Phase 3 - Weeks 20-21.md",
+    "Phase 3 - Weeks 18-19.md",
+    "Phase 3 - Week 17.md",
+    "firebase-debug.log",
+    "Untitled.canvas",
+    "Untitled.base",
     "Untitled",
     "Untitled 1"
   ]
