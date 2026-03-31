@@ -41,9 +41,10 @@
 - Focus: consistent pull path, patient off the floor
 
 **Secondary: Back Squat**
-- 4 x 6 @ 70% (133 kg)
+- 4 x 6 @ 60% (115 kg)
 - Tempo: 3 seconds down, 1 second pause at bottom, explode up
-- Focus: even weight distribution left/right, vertical shins at bottom
+- Focus: even weight distribution left/right, find consistent bar position
+- *Adjusted from 70% (133 kg) — tempo adds ~10-15% effective load; 133 kg was RPE 8-9 with failed reps on Day 1*
 
 **Accessory Window (15-20 min):**
 - Peterson step-downs: 3 x 10 each leg (bodyweight or light DB)
@@ -219,7 +220,7 @@
 - Rest 2:00
 
 **Secondary: Back Squat**
-- 4 x 6 @ 72% (137 kg)
+- 4 x 6 @ 62% (118 kg)
 - Tempo: 3-1-0
 
 **Accessory Window:**
@@ -245,7 +246,7 @@
 - Push jerk: 5 x 3 @ 72% (86 kg)
 
 **Secondary: Strict Press**
-- 4 x 6 @ +2 kg from Week 1
+- 4 x 6 @ 52 kg (+2 kg from Week 1 working weight of 50 kg)
 
 **Gymnastics Skill: Ring MU Progressions**
 - Deep ring dips: 3 x 6
@@ -385,7 +386,7 @@
 - Rest 2:00-2:30
 
 **Secondary: Back Squat**
-- 5 x 5 @ 75% (143 kg)
+- 5 x 5 @ 65% (124 kg)
 - Tempo: 3-1-0
 
 **Accessory Window:**
@@ -551,7 +552,7 @@
 - Snatch from floor: 3 x 2 @ 70% (73 kg) — focus on speed and positions only
 
 **Secondary: Back Squat**
-- 3 x 5 @ 65% (124 kg) — easy, no grinders
+- 3 x 5 @ 55% (105 kg) — easy, no grinders
 
 **Accessory Window:**
 - Peterson step-downs: 3 x 10 each (maintain, don't increase)

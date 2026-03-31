@@ -54,7 +54,8 @@ Training Program/
 ├── Phase 3 - Weeks 20-21.md
 ├── Phase 3 - Weeks 22-24.md
 ├── Protocols & Reference.md        ← Mobility library, gymnastics progressions, PR log
-└── YYYY-MM-DD Day - Movement.md    ← Daily training notes (user creates as needed)
+└── Week N/                          ← Daily training notes organized by week
+    └── YYYY-MM-DD Day - Movement.md
 ```
 
 ## How to Help the Athlete
@@ -64,6 +65,19 @@ Training Program/
 - **Knee/mobility assessment**: each daily note tracks left knee feel (1-5) and front rack feel. The PR log in Protocols & Reference has a knee pain tracker table across weeks.
 - **Adjusting the program**: if the athlete asks to modify, understand which phase/week they're in, what their recent test results were, and what their reflections say. Adjust percentages, volume, or exercise selection accordingly. Never change the priority stack without discussion.
 
+### Post-Workout Review Process
+When the athlete shares a daily note with workout results (completed checkboxes, filled tracking tables, and log entries), perform this review automatically:
+
+1. **Fix grammar and formatting** — clean up notes, fix table data (correct weights, add missing rows for extra sets), standardize language. Preserve the athlete's intent and observations.
+2. **Adjust future programming if needed** — if weights were too heavy/light (RPE off target by 2+ points) or new limiters appeared, update upcoming sessions in the phase file. Note what was changed and why.
+3. **Add Coach's Review** (`> [!note] Coach's Review — Day N`) at the bottom of the daily note:
+   - Analyze each lift's performance vs expectations (RPE target vs actual, completed vs prescribed)
+   - Note emerging patterns across sessions (e.g., consistent weight overestimation, left-right asymmetry trends)
+   - Flag concerns about knee status, mobility, or recovery
+   - Summarize what was adjusted and what to watch for in upcoming sessions
+   - Keep it honest and specific — reference actual numbers, not generic encouragement
+4. **Cross-reference recent sessions** — check the last 2-3 daily notes for trends (is RPE trending up/down? Is knee status stable? Are the same issues recurring?)
+
 ## Conventions
 - All percentages reference current test maxes (updated after Weeks 8, 16, 24)
 - Daily notes use frontmatter: date, week, phase, day, training, tags
@@ -72,3 +86,13 @@ Training Program/
 - RPE scale: 1-10 (10 = max effort)
 - Knee pain scale: 1-5 (5 = no pain)
 - Front rack feel: 1-5 (5 = no restriction)
+
+### Daily Note Template Requirements
+Every daily training note must include:
+- A **Day Focus tip** (`> [!tip]`) at the top — 2-3 sentences framing the session's intent and what to focus on
+- **Coaching callout blocks** (`> [!info]-` collapsed) after each section (warm-up, each primary/secondary lift, gymnastics skill, accessories) containing:
+  - **Why** this movement is in the program, tied to the athlete's specific limiters and goals
+  - **How to execute** with detailed cues and setup instructions
+  - **Athlete-specific notes** referencing left knee, thoracic restriction, or other relevant limiters
+  - **Expected RPE/feel** at the prescribed load so the athlete can self-calibrate
+- These callouts use the collapsed format (`> [!info]-`) so they don't clutter the page but are always available for reference

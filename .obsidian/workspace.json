@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d531159284b33a82",
+        "id": "ec1190ba4b8a18c1",
         "type": "tabs",
         "children": [
           {
-            "id": "908a4bfb8c0b0903",
+            "id": "2a1f5c202da55a02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Training Program/Week 1/2026-03-31 Tue - Jerk + Strict Press + Ring MU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-03-31 Tue - Jerk + Strict Press + Ring MU"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 386.5
   },
   "right": {
     "id": "4f7ed7c3896b1862",
@@ -182,11 +196,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,35 +217,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "908a4bfb8c0b0903",
+  "active": "2a1f5c202da55a02",
   "lastOpenFiles": [
     "CLAUDE.md",
-    "Training Program/2026-03-30 Mon - Snatch Complex + Back Squat.md",
-    "Training Program/00 - Program Overview.md",
-    "Training Program/Protocols & Reference.md",
+    "Training Program/Week 1/2026-04-02 Thu - Front Squat + OHS + Metcon.md",
+    "Training Program/Week 1/2026-04-01 Wed - Clean & Deadlift.md",
+    "Training Program/Week 1/2026-03-31 Tue - Jerk + Strict Press + Ring MU.md",
     "Training Program/Phase 1 - Weeks 1-4.md",
     "Training Program/2026-03-31 Tue - Jerk + Strict Press + Ring MU.md",
+    "Training Program/Week 1/2026-03-30 Mon - Snatch Complex + Back Squat.md",
+    "Training Program/Week 1/2026-04-03 Fri - Snatch + C&J + HS Walk.md",
+    "Training Program/Week 1",
+    "Training Program/2026-03-30 Mon - Snatch Complex + Back Squat.md",
+    "Training Program/Protocols & Reference.md",
     "Untitled.md",
+    "Training Program/Phase 3 - Weeks 18-19.md",
+    "Training Program/Phase 1 - Weeks 5-8.md",
+    "Training Program/00 - Program Overview.md",
     "Training Program - Oly First Periodization.md",
     "Training Program/Phase 3 - Weeks 22-24.md",
     "Training Program/Phase 3 - Weeks 20-21.md",
-    "Training Program/Phase 3 - Weeks 18-19.md",
     "Training Program/Phase 3 - Week 17.md",
     "Training Program/Phase 2 - Week 16.md",
     "Training Program/Phase 2 - Weeks 14-15.md",
     "Training Program/Phase 2 - Weeks 12-13.md",
     "Training Program/Phase 2 - Weeks 10-11.md",
     "Training Program/Phase 2 - Week 9.md",
-    "Training Program/Phase 1 - Weeks 5-8.md",
     "Training Program",
     "2026-03-29.md",
     "Protocols & Reference.md",
     "Phase 1 - Weeks 1-4.md",
-    "Phase 1 - Weeks 5-8.md",
-    "Phase 3 - Weeks 22-24.md",
-    "Phase 3 - Weeks 20-21.md",
-    "Phase 3 - Weeks 18-19.md",
-    "Phase 3 - Week 17.md",
     "firebase-debug.log",
     "Untitled.canvas",
     "Untitled.base",
