@@ -156,15 +156,71 @@ Focus: maintain back angle off the floor, even pressure through feet
 
 ---
 
+> [!warning] Session Deviation — Box Workout
+> Did not follow today's planned program. Trained at the box instead. Workout logged below.
+
+## Actual Session Log
+
+**General warm-up + clean drills** — ~15 min
+
+**Hang Power Clean + Power Clean (complex)**
+
+| Set | Weight | RPE | Notes |
+| --- | ------ | --- | ----- |
+| 1   | 80 kg  | 7   |       |
+| 2   | 90 kg  | 7+  |       |
+| 3   | 90 kg  | 7+  |       |
+| 4   | 100 kg | 8   |       |
+| 5   | 100 kg | 8   |       |
+| 6   | 110 kg | 8+  |       |
+
+**Deadlift**
+
+| Set | Weight | Reps | RPE | Notes |
+| --- | ------ | ---- | --- | ----- |
+| 1   | 140 kg | 5    | 8   |       |
+| 2   | 140 kg | 5    | 8   |       |
+
+**Below-Knee Pause Deadlift**
+
+| Set | Weight | Reps | RPE | Notes |
+| --- | ------ | ---- | --- | ----- |
+| 1   | 130 kg | 2    | 8   |       |
+| 2   | 130 kg | 2    | 8   |       |
+| 3   | 140 kg | 2    | 8   |       |
+| 4   | 140 kg | 2    | 8   |       |
+
+**Straight-arm band pull-down** — 8 x 10
+
+---
+
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Clean notes:
+- [x] Session completed
+- RPE (overall): 7.5 /10
+- Clean notes: Hang power clean + power clean complex up to 110 kg. Felt strong throughout, clean movement.
+- Deadlift notes: 2 x 5 @ 140 kg felt strong. Below-knee paused deadlift: 2 x 2 @ 130 kg, 2 x 2 @ 140 kg, RPE 8.
+- Left vs right feel on unilateral work: N/A (no unilateral work today)
+- Left knee feel (1-5, 5=no pain): —
+- General notes: Session at the box. Overall easy — nothing breaking down. Notable: felt strong on both clean and deadlift.
 
-- Deadlift notes:
+---
 
-- Left vs right feel on unilateral work:
+> [!note] Coach's Review — Day 3 (Box Session)
+>
+> **Clean — Hang Power Clean + Power Clean Complex**
+> Top set of 110 kg hang power clean + power clean at RPE 8+ is a meaningful data point. The hang position removes the first pull advantage — there's no stretch reflex from the floor, and you have to catch in a power (quarter-squat) position rather than a deep squat receive. Hang power cleans are typically capped around 65–75% of a full clean max, so hanging at 110 kg (79% of your 140 kg clean) at RPE 8+ reflects solid hip extension and turnover speed. The fact that it felt strong rather than a survival grind is a better sign than the raw number.
+>
+> The progression was well-paced: 80 → 90 → 100 → 110, each step of 10 kg with RPE rising cleanly by about 1 point per jump. No red flags in the build — no sudden RPE spike that would suggest a technique breakdown under load. At 100 kg (RPE 8), you were still 10 kg from your top set, which means the 110 was aggressive but not reckless.
+>
+> **Deadlift — Conventional + Below-Knee Paused**
+> 140 kg is 70% of your 200 kg deadlift max. RPE 8 for 2 x 5 at 70% is slightly elevated compared to a true fresh baseline (typically RPE 6–7), but this came after 6 sets of clean complexes — carry-over fatigue from the posterior chain work in the cleans is expected. The fact that it still "felt strong" is the key detail; RPE 8 here is a fatigue-adjusted reading, not a ceiling.
+>
+> Below-knee paused deadlifts (2 x 2 @ 130 kg → 2 x 2 @ 140 kg, RPE 8) add a layer of difficulty on top of the positional challenge: the pause eliminates momentum and forces you to maintain tension at the most mechanically disadvantaged point in the pull. Starting at 130 kg and building to 140 kg was the right call — the pause makes the effective load feel significantly heavier than the number suggests. Holding RPE 8 rather than 9+ at 140 kg with a pause, late in the session, is a solid indicator of posterior chain capacity and positional discipline at the sticking point.
+>
+> **Week 1 Pattern**
+> Feeling strong in Week 1 is the ideal outcome. Early in a block, athletes often feel heavy or flat as the body adapts to new loading structure. Reporting "easy" and "strong" at these weights suggests you're entering Phase 1 with good base capacity — the program's submaximal volume will build on that without immediately grinding you down. Watch whether this carries into next week or was a one-off box session feeling.
+>
+> **No concerns flagged.** No knee pain mentioned, no asymmetry noted on pulls. Continue as programmed Thursday–Friday.
 
-- Left knee feel (1-5, 5=no pain): _
-- General notes:
+

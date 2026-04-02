@@ -297,11 +297,13 @@
 **Warm-up:** Same as Week 1
 
 **Primary: Front Squat**
-- 4 x 6 @ 72% (115 kg)
+- 4 x 6 @ 65% (104 kg)
 - Tempo: 3-0-0
+- *Adjusted from 72% (115 kg) — Week 1 at 70% (112 kg) was RPE 8+ with failed reps; tempo adds ~10-15% effective load. Athlete settled at 100-105 kg as working range.*
 
 **Secondary: Overhead Squat**
 - 4 x 5 @ 63% of snatch (66 kg)
+- Grip cue: soft hands, hard shoulders — don't death-grip the bar. Widen grip by 1-2 finger widths if wrist pressure persists.
 
 **Metcon (12-15 min):**
 - AMRAP 12 min:
@@ -464,8 +466,9 @@
 **Warm-up:** Same protocol
 
 **Primary: Front Squat**
-- 5 x 5 @ 75% (120 kg)
+- 5 x 5 @ 67% (107 kg)
 - Tempo: 3-0-0
+- *Adjusted from 75% (120 kg) — consistent pattern: tempo front squats at 70%+ exceed target RPE. Building from Week 2's 104 kg.*
 
 **Secondary: Overhead Squat**
 - 4 x 5 @ 65% of snatch (68 kg)
