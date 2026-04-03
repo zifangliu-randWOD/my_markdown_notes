@@ -191,24 +191,32 @@
 ---
 
 > [!note] Week 1 Reflection
-> **Overall feel:**
+> **Overall feel:** Good baseline week. Oly lifts on target; strength work was miscalibrated high but self-corrected within each session. 5/5 sessions completed.
 >
-> **What went well:**
+> **What went well:** Snatch drive position migrating higher (complex work paying off). Push jerk right on target at RPE 6. Clean felt strong all week. No missed Oly lifts.
 >
-> **What needs attention:**
+> **What needs attention:** Tempo squat calibration (resolved — all reduced to 60-65%). Jerk dip confidence. Jerk grip development (narrow grip identified as limiter). Wednesday unilateral work missed (off-program box session).
 >
-> **Left knee status:**
+> **Left knee status:** Stable 4-5/5. Jerk dip is the specific provocative position. No lingering post-session pain. Rehab exercises completed 2x/week as prescribed.
 >
-> **Front rack / thoracic progress:**
+> **Front rack / thoracic progress:** Baseline established. Not limiting at 70-75% loads. Shows up under fatigue (front squat bar slide on later reps) and in jerk grip limitation.
 >
-> **Adjustments for next week:**
+> **Adjustments for next week:** Tempo squat loads reduced to 60-62%. Strict press recalibrated to 52 kg. Snatch squat-receive cue added. Jerk grip exploration during warm-ups.
+>
+> See [[Week 1 - Summary & Diagnosis]] for full analysis.
 
 ---
 
 ## Week 2 — Building Volume
 
 > [!info] Week 2 Targets
-> Oly intensity: 72-77% | Squat intensity: 72% | Focus: add 1 set or 2-3% to key lifts
+> Oly intensity: 72-77% | Squat intensity: 60-62% | Focus: add 1 set or 2-3% to Oly lifts, keep tempo squats at calibrated loads
+>
+> **Week 1 adjustments applied:**
+> - Tempo squat loads reduced (70% was RPE 8-9; now targeting 60-62% for RPE 6-7)
+> - Strict press working weight recalibrated to 52 kg (from 60 kg base)
+> - Snatch working sets: cue squat-receiving even when power snatching is possible
+> - Jerk warm-ups: experiment with grip 1 inch wider than clean grip on light sets
 
 ### Monday — Snatch Complex + Back Squat
 
@@ -218,13 +226,15 @@
 - Complex: Pause snatch (2 sec at knee) + Snatch from floor + OHS
 - 6 sets x 1 complex @ 72% (76 kg)
 - Rest 2:00
+- **New cue:** On the snatch from floor, intentionally ride the bar down into a full overhead squat catch even if you could power it. Build the receiving position habit.
 
 **Secondary: Back Squat**
-- 4 x 6 @ 62% (118 kg)
+- 4 x 6 @ 60% (115 kg)
 - Tempo: 3-1-0
+- *Week 1 at 60% (115 kg) after dropping from 133 kg was still RPE 8-9. If 115 kg still feels like RPE 8+, drop to 110 kg. The goal is RPE 6-7 with perfect positions.*
 
 **Accessory Window:**
-- Peterson step-downs: 3 x 10 each leg (add light DB if Week 1 was easy)
+- Peterson step-downs: 3 x 10 each leg (add light DB — Week 1 was bodyweight)
 - Spanish squat iso hold: 3 x 35 sec
 - Thoracic extension over foam roller: 3 x 10 breaths
 
@@ -241,16 +251,19 @@
 ### Tuesday — Jerk + Strict Press + Ring MU Skill
 
 **Warm-up:** Same as Week 1
+- **Added:** During push press warm-up, try 2-3 reps with grip 1 inch wider than clean grip. Note how the dip and overhead position feel at the wider width. This is exploratory — not a commitment to switch.
 
 **Primary: Jerk from Rack**
 - Push jerk: 5 x 3 @ 72% (86 kg)
+- **Dip cue from Week 1:** The dip is slow/tentative due to knee apprehension. Don't force speed — focus on a vertical torso and consistent depth. Speed comes from confidence, and confidence comes from pain-free repetitions. As the dip feels safer, tempo will naturally increase.
 
 **Secondary: Strict Press**
-- 4 x 6 @ 52 kg (+2 kg from Week 1 working weight of 50 kg)
+- 4 x 6 @ 52 kg
+- *Recalibrated: Week 1 showed 50 kg is the working weight for sets of 6 (60 kg was RPE 8-9). Building +2 kg from 50 kg.*
 
 **Gymnastics Skill: Ring MU Progressions**
 - Deep ring dips: 3 x 6
-- False grip hang: 3 x 20 sec
+- False grip hang: 3 x 20 sec (Week 1 identified grip as the limiter — this is the priority)
 - Banded ring MU transitions: 3 x 3 (lighter band if possible)
 
 **Accessory Window:**
@@ -261,7 +274,7 @@
 **Tracking:**
 - [ ] Completed
 - RPE: _ /10
-- Jerk notes:
+- Jerk notes (dip feel, grip experiment):
 - Ring MU progress:
 - General notes:
 
@@ -277,9 +290,10 @@
 **Secondary: Deadlift**
 - Clean-grip deadlift: 4 x 5 @ 77% (154 kg)
 - Tempo: 3-0-3
+- *Monitor RPE: if tempo deadlifts follow the same pattern as tempo squats (RPE 8+ at prescribed %), drop to 140-145 kg.*
 
 **Accessory Window:**
-- Bulgarian split squat: 3 x 10 each leg
+- Bulgarian split squat: 3 x 10 each leg (**do not skip** — Wednesday unilateral work was missed in Week 1)
 - Single-leg RDL: 3 x 10 each leg
 - Banded hip flexor stretch: 2 x 45 sec each
 
@@ -288,6 +302,7 @@
 - RPE: _ /10
 - Clean notes:
 - Deadlift notes:
+- Left vs right feel on unilateral work:
 - General notes:
 
 ---
@@ -299,11 +314,12 @@
 **Primary: Front Squat**
 - 4 x 6 @ 65% (104 kg)
 - Tempo: 3-0-0
-- *Adjusted from 72% (115 kg) — Week 1 at 70% (112 kg) was RPE 8+ with failed reps; tempo adds ~10-15% effective load. Athlete settled at 100-105 kg as working range.*
+- *Adjusted from 72% (115 kg) — Week 1 at 70% (112 kg) was RPE 8+ with failed reps; tempo adds ~10-15% effective load. Athlete settled at 100-105 kg as working range. Target RPE 6-7.*
+- **Cue from Week 1:** "Elbows UP" before every rep, not just at the start of the set. Bar slides forward when thoracic extensors fatigue — this is the cue to fight it.
 
 **Secondary: Overhead Squat**
 - 4 x 5 @ 63% of snatch (66 kg)
-- Grip cue: soft hands, hard shoulders — don't death-grip the bar. Widen grip by 1-2 finger widths if wrist pressure persists.
+- **Grip cue from Week 1:** Soft hands, hard shoulders — don't death-grip the bar. Widen grip by 1-2 finger widths if wrist pressure persists. Bar should rest on the heel of the palm, not across the middle. Shakiness during descent is normal and will improve with practice.
 
 **Metcon (12-15 min):**
 - AMRAP 12 min:
@@ -333,9 +349,11 @@
 **Primary: Snatch**
 - Work to comfortable heavy single @ 77% (81 kg), then:
 - 5 x 2 @ 72-75% (76-79 kg)
+- **Cue from Week 1:** Intentionally ride the bar down into a squat receive on working sets, even if you can power snatch it. Building this habit now prepares for heavier loads later.
 
 **Secondary: Clean & Jerk**
 - 4 x (1+1) @ 72% (95 kg working weight)
+- **Jerk grip:** Try moving hands 1 inch wider than clean grip on sets 3-4. If it feels unstable, return to clean grip. This is exploration, not commitment.
 
 **Gymnastics Skill: HS Walk Progressions**
 - Wall-facing handstand hold: 3 x 35 sec
@@ -343,15 +361,15 @@
 - Freestanding HS kick-up: 5 attempts (try to hold 3 sec)
 
 **Accessory Window:**
-- Peterson step-downs: 3 x 10 each (add light DB)
+- Peterson step-downs: 3 x 10 each (add light DB — Week 1 was bodyweight, time to progress)
 - Pigeon stretch: 2 x 45 sec each
 - 90/90 hip rotation: 2 x 8 each
 
 **Tracking:**
 - [ ] Completed
 - RPE: _ /10
-- Snatch notes:
-- C&J notes:
+- Snatch notes (did you squat-receive?):
+- C&J notes (grip experiment?):
 - HS walk progress:
 - Left knee end-of-week feel (1-5):
 - General notes:

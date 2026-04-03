@@ -21,10 +21,10 @@ tags:
 
 ## Warm-up (10 min)
 
-- [ ] Snatch grip RDL x 5
-- [ ] Hang snatch high pull x 5
-- [ ] Snatch balance x 5
-- [ ] Clean & jerk with empty bar x 3
+- [x] Snatch grip RDL x 5 ✅ 2026-04-03
+- [x] Hang snatch high pull x 5 ✅ 2026-04-03
+- [x] Snatch balance x 5 ✅ 2026-04-03
+- [x] Clean & jerk with empty bar x 3 ✅ 2026-04-03
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -53,18 +53,17 @@ Work to a comfortable heavy single @ 75% (79 kg), then:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 79 kg  | 1    |     |       |
+| 1   | 79 kg  | 1    | 7.5 | Power snatched. Drive position higher than expected — almost to hip crease, slightly lower than optimal but better than before. |
 
 **Working Sets**
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   |   kg   | 2    |     |       |
-| 2   |   kg   | 2    |     |       |
-| 3   |   kg   | 2    |     |       |
-| 4   |   kg   | 2    |     |       |
-| 5   |   kg   | 2    |     |       |
-
+| 1   | 75 kg  | 2    | 7   |       |
+| 2   | 75 kg  | 2    | 7   |       |
+| 3   | 75 kg  | 2    | 7   |       |
+| 4   | 75 kg  | 2    | 7   |       |
+| 5   | 75 kg  | 2    | 7   | All power snatched. Drive felt consistent with heavy single — good and as expected. |
 > [!info]- Snatch (Full Lifts) — Mechanism & Coaching Notes (click to expand)
 >
 > **Why full snatches today?**
@@ -95,11 +94,15 @@ Work to a comfortable heavy single @ 75% (79 kg), then:
 
 | Set | Weight | Made? | Notes |
 | --- | ------ | ----- | ----- |
-| 1   | 93 kg  |       |       |
-| 2   | 93 kg  |       |       |
-| 3   | 93 kg  |       |       |
-| 4   | 93 kg  |       |       |
+| 1   | 93 kg  | yes   |       |
+| 2   | 93 kg  | yes   |       |
+| 3   | 93 kg  | yes   |       |
+| 4   | 93 kg  | yes   | All sets made. RPE 7–7.5 overall. Clean felt easy; push jerk was the harder component. |
 
+**Athlete notes on C&J:**
+1. **Front rack → jerk grip transition:** Kept hands in the same clean-grip position for the jerk (elbows high, hands close). Many athletes widen their grip and adopt a more vertical forearm position for the jerk — this reduces the distance the bar needs to travel and aligns the forearms with the vertical drive force. I can't do this adjustment currently. Is my narrow-grip approach wrong, or should I aim toward the wider grip over time?
+   - Follow-up: the narrow grip means the overhead lockout position has the hands close together — about one fist-width outside each shoulder. Is this a problem?
+2. **Dip quality:** Dip felt slow and tentative (partly from fear of knee pain). Drive was explosive as expected, but the dip-drive connection isn't smooth yet. Accepting this as part of the progression.
 > [!info]- Clean & Jerk — Mechanism & Coaching Notes (click to expand)
 >
 > **Why C&J today?**
@@ -124,9 +127,9 @@ Work to a comfortable heavy single @ 75% (79 kg), then:
 
 ## Gymnastics Skill: Handstand Walk Progressions (5-10 min)
 
-- [ ] Wall-facing handstand hold: 3 x 30 sec
-- [ ] Wall walk with shoulder taps: 3 x 5 each hand
-- [ ] Freestanding handstand kick-up attempts: 5 attempts
+- [x] Wall-facing handstand hold: 3 x 30 sec ✅ 2026-04-03
+- [x] Wall walk with shoulder taps: 3 x 5 each hand ✅ 2026-04-03
+- [x] Freestanding handstand kick-up attempts: 5 attempts ✅ 2026-04-03
 
 > [!info]- Handstand Walk Progressions — Coaching Notes (click to expand)
 >
@@ -149,9 +152,9 @@ Work to a comfortable heavy single @ 75% (79 kg), then:
 
 ## Accessory Window (15-20 min)
 
-- [ ] Peterson step-downs: 3 x 10 each leg
-- [ ] Pigeon stretch: 2 x 45 sec each side
-- [ ] 90/90 hip rotation: 2 x 8 each side
+- [x] Peterson step-downs: 3 x 10 each leg ✅ 2026-04-03
+- [x] Pigeon stretch: 2 x 45 sec each side ✅ 2026-04-03
+- [x] 90/90 hip rotation: 2 x 8 each side ✅ 2026-04-03
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -168,13 +171,46 @@ Work to a comfortable heavy single @ 75% (79 kg), then:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Left knee end-of-week feel (1-5, 5=no pain): _
-- Snatch notes (positions, speed):
+- [x] Session completed ✅ 2026-04-03
+- RPE (overall): 7 /10
+- Left knee end-of-week feel (1-5, 5=no pain): 4 (mild pain during jerk dip, no sustained pain post-session)
+- Snatch notes (positions, speed): Power snatched everything including the 79 kg single. Drive position migrating higher toward hip crease — improvement from Monday. Speed under the bar was good; didn't need to squat-receive at these weights.
+- C&J notes: Clean portion easy at 93 kg. Push jerk dip is the limiter — slow and hesitant. Grip transition question (see notes above). All 4 sets made.
+- HS walk progress: All progressions completed. Wall holds and shoulder taps felt solid. Freestanding kick-ups still inconsistent.
+- General notes: Solid end-of-week session. Snatch felt the best it has all week. Jerk needs the most work going forward — dip confidence and grip strategy are the two areas to develop.
 
-- C&J notes:
+---
 
-- HS walk progress:
-
-- General notes:
+> [!note] Coach's Review — Day 5
+>
+> **Snatch — Power Snatching Everything Is Both Good and Something to Watch**
+> Power snatching 79 kg (75%) at RPE 7.5 and all working sets at 75 kg at RPE 7 — that's the right effort range. The fact that you power snatched everything tells us two things: (1) your hip extension and pull are strong enough at these weights that you don't need to get under the bar, and (2) you're likely not practicing the receiving position in a full squat. At 75% this is fine — we *want* speed and power here. But as weights climb in coming weeks (80%+), the inability to pull yourself under will become the limiter. Something to cue in Week 2: on working sets, intentionally ride the bar down into an overhead squat catch even if you could power it. This builds the motor pattern you'll need at heavier loads.
+>
+> **Drive Position Migrating Higher — This Is the Complex Work Paying Off**
+> You noted the explosive position is shifting higher toward the hip crease, tracking from Monday's complex work. This is exactly what we wanted. The higher contact point means a more vertical bar path and more efficient transfer of hip extension into the bar. "Almost to hip crease but slightly lower" is actually fine for most lifters — true hip crease contact is more common in taller lifters. The key metric is: does the bar travel straight up after contact, or does it loop forward? If it goes straight up (which the easy power snatches suggest), your contact point is working.
+>
+> **Clean & Jerk — Answering Your Two Questions**
+>
+> *1. Narrow grip (clean grip) for the jerk — wrong or acceptable?*
+> **Your current approach is not wrong, but the wider grip is what you should aim for over time.** Here's why:
+> - **Narrow grip (clean position):** Hands are closer together, forearms angled inward. This means the force you apply to the bar during the drive has a lateral component — some energy goes sideways, not up. The bar also has to travel further overhead because your hands start lower (elbows are higher but hands are closer to your neck). However, the advantage is you don't need to re-grip after the clean, which is simpler.
+> - **Wider grip (jerk position):** Hands move 2-4 inches wider, forearms become more vertical. This aligns the pressing force with gravity — more efficient transfer of leg drive into the bar. The bar travels less distance because your hands start wider and higher on the shoulders. The overhead receiving position is also more stable with a wider base.
+>
+> **The reason you can't do it yet is likely your thoracic restriction.** Widening the grip requires more shoulder external rotation and thoracic extension to keep the elbows forward in the dip. Your left side's restriction makes this harder. As your thoracic mobility improves over Phase 1, the wider grip will become accessible. For now: **keep the clean grip for jerks, but during warm-up sets, experiment with moving your hands 1 inch wider each session.** Don't force it at working weight — just explore the wider position with light loads.
+>
+> The narrow overhead lockout (one fist outside each shoulder) is not ideal but not dangerous at current loads. It becomes a problem at heavier weights because the narrower base is less stable overhead. This will self-correct as you gradually widen the grip.
+>
+> *2. Slow/tentative dip — is this just part of the process?*
+> **Yes, but let's be specific about what's happening.** The dip is where your two main limiters converge: the left knee creates apprehension about loading in a knees-forward position, and the thoracic restriction limits how upright your torso stays during the dip. Your body is protecting itself — the slow dip is a subconscious strategy to avoid pain. This is normal in Week 1.
+>
+> The path forward is progressive confidence building: as the knee rehab work (Peterson step-downs, Spanish squats) builds patellar tendon tolerance, and as the thoracic mobility improves, the dip will naturally become faster because your body will trust the position. You don't fix a slow dip by forcing speed — you fix it by making the position safer and more familiar. Tuesday's push jerk work at 84 kg (RPE 6) is the right stimulus: enough load to practice the pattern, light enough that the dip doesn't feel threatening. We'll keep building from here.
+>
+> **Knee Status — End of Week**
+> 4/5 with pain only during the jerk dip, no sustained post-session pain. This is consistent with the pattern this week: knee at 4/5 Monday, 5/5 Thursday, 4/5 today. The jerk dip is the specific provocative position — knees forward under load with the torso trying to stay vertical. As noted above, this improves as the rehab work builds capacity. The fact that there's no lingering pain after sessions is a positive sign — the tendon is irritated during loading but recovering between sessions. That's the sweet spot for rehab.
+>
+> **Week 1 Friday Summary**
+> This was the strongest session of the week from a movement quality standpoint. Snatches felt crisp, cleans were easy, and you identified specific technical questions about jerk mechanics that show good self-awareness. The main development priorities coming out of today:
+> 1. Practice squat-receiving snatches even when you can power them (preparation for heavier loads)
+> 2. Gradually widen jerk grip as thoracic mobility permits
+> 3. Trust the dip — confidence comes from rehab progress, not willpower
+> 4. Continue filming to track drive position migration
