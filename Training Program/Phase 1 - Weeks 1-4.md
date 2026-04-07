@@ -386,8 +386,9 @@
 - Rest 2:00-2:30
 
 **Secondary: Back Squat**
-- 5 x 5 @ 65% (124 kg)
+- 5 x 5 @ 58% (110 kg)
 - Tempo: 3-1-0
+- *Adjusted from 65% (124 kg): Week 2 at 115 kg was still RPE 8-8.5 vs target 6-7. Breathing strategy change should also help (see Week 2 Tue coach's notes). Re-evaluate after implementing new breathing cue.*
 
 **Accessory Window:**
 - Peterson step-downs: 3 x 12 each leg (with DB)
