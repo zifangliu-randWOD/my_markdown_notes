@@ -1,8 +1,8 @@
 ---
-date: 2026-04-07
+date: 2026-04-09
 week: 2
 phase: 1
-day: Tuesday
+day: Thursday
 training: Jerk + Strict Press + Ring MU Skill
 tags:
   - training
@@ -10,12 +10,12 @@ tags:
   - week-2
 ---
 
-# Tuesday — Week 2: Jerk + Strict Press + Ring MU Skill
+# Thursday — Week 2: Jerk + Strict Press + Ring MU Skill
 
 [[00 - Program Overview]] | [[Phase 1 - Weeks 1-4]]
 
 > [!tip] Day Focus
-> This is your **overhead day, Week 2 edition.** Push jerk goes up 2 kg (84 → 86 kg) — a small jump that keeps RPE in the right zone while building progressive exposure. The big addition this week is **jerk grip exploration**: during warm-up, try widening your grip 1 inch beyond your clean grip and see how the dip and overhead position feel. This addresses the grip question you raised on Friday. Strict press is recalibrated to 52 kg — a manageable load that lets you complete all 4x6 with quality. Ring MU work continues building the false grip that was identified as the current limiter.
+> Your **overhead day**, moved to Thursday this week due to the compressed 4-day schedule. Yesterday was cleans and deadlifts — your posterior chain and legs may carry some residual fatigue. The jerk dip might feel heavier than usual because of that; if RPE climbs above 7, drop to 82 kg rather than fighting through. Push jerk goes up 2 kg from Week 1 (84 → 86 kg). The big addition this week is **jerk grip exploration**: during warm-up, try widening your grip 1 inch beyond your clean grip and see how the dip and overhead position feel. This addresses the grip question you raised on Friday. Strict press is recalibrated to 52 kg. Ring MU work continues building the false grip that was identified as the current limiter.
 
 ---
 
@@ -43,7 +43,7 @@ tags:
 > Dip and drive with empty bar. Standard clean grip. Focus on vertical dip, torso upright, fast lockout.
 >
 > **NEW — Grip Exploration: Push Press x 5 with Wider Grip**
-> After your standard push press warm-up, move your hands out about 1 inch wider on each side (total ~2 inches wider than clean grip). Do 5 push presses at this width. Pay attention to:
+> After your standard push press warm-up, move your hands out about 1 inch on each side (total ~2 inches wider than clean grip). Do 5 push presses at this width. Pay attention to:
 > - Does the dip feel different? (It should feel slightly more natural — the wider grip allows the forearms to be more vertical)
 > - Does the lockout overhead feel more or less stable? (Wider = wider base overhead, which should be *more* stable)
 > - Does your left shoulder resist the wider position? (If yes, that's the thoracic restriction — note it but don't force it)
@@ -60,6 +60,7 @@ tags:
 Push jerk: 5 x 3 @ 72% (86 kg)
 Focus: vertical dip, elbows forward, fast lockout
 If knee pain in dip: slow dip tempo to 2 sec, reduce load 5-10%
+*Note: yesterday's cleans and deadlifts may leave residual leg fatigue. If the dip feels unusually heavy or slow, drop to 82 kg (5% reduction). The priority is dip quality, not load.*
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
@@ -74,6 +75,9 @@ If knee pain in dip: slow dip tempo to 2 sec, reduce load 5-10%
 > **Week 2 progression:**
 > From 84 kg to 86 kg — a 2.4% jump. This is intentionally small. Week 1 at 84 kg was RPE 6 across all 5 sets, which is ideal. At 86 kg, RPE should land around 6-6.5. The dip-drive mechanics are the same; you're just asking the body to produce slightly more force.
 >
+> **Compressed week consideration:**
+> This session is one day later than usual (Thursday instead of Tuesday), and it follows yesterday's clean and deadlift work. Your quads, glutes, and lower back may carry residual fatigue from yesterday's tempo deadlifts and clean pulls. This can make the jerk dip feel heavier or slower than expected — that's accumulated fatigue, not a technique regression. If sets 1-2 feel like RPE 7+, drop to 82 kg for the remaining sets. Better to drill good dip mechanics at a lighter weight than grind through heavy dips with compromised form.
+>
 > **Dip — Week 1 feedback integration:**
 > On Friday you noted the dip felt "slow and tentative, partly from fear of pain." This is the key development area for your jerk. Here's the approach for Week 2:
 > - **Don't force speed.** A controlled, vertical dip at moderate speed is better than a fast, forward-leaning dip.
@@ -84,7 +88,7 @@ If knee pain in dip: slow dip tempo to 2 sec, reduce load 5-10%
 > **If you explored the wider grip during warm-up and it felt good:**
 > Try it on sets 4 or 5 only. Keep sets 1-3 at your familiar clean grip so you have a performance baseline to compare against. Note whether the wider grip changes your dip feel, drive efficiency, or lockout stability.
 >
-> **Expected RPE at 86 kg:** RPE 6-6.5. If it's 7+, check the bar path — is it traveling straight up, or is it drifting forward? Forward drift = dip quality issue, not strength issue.
+> **Expected RPE at 86 kg:** RPE 6-6.5 (may be 7 due to yesterday's session). If it's 7.5+, check the bar path — is it traveling straight up, or is it drifting forward? Forward drift = dip quality issue, not strength issue.
 
 ---
 
@@ -167,7 +171,7 @@ Focus: full lockout overhead, no excessive back lean
 - [ ] Session completed
 - RPE (overall): _ /10
 - Left arm front rack feel (1-5, 5=no restriction):
-- Jerk notes (dip feel, grip experiment results):
+- Jerk notes (dip feel, grip experiment results, any fatigue from yesterday?):
 - Strict press notes:
 - Ring MU progression notes (false grip improvement?):
 - General notes:

@@ -1,8 +1,8 @@
 ---
-date: 2026-04-06
+date: 2026-04-07
 week: 2
 phase: 1
-day: Monday
+day: Tuesday
 training: Snatch Complex + Back Squat
 tags:
   - training
@@ -10,12 +10,12 @@ tags:
   - week-2
 ---
 
-# Monday — Week 2: Snatch Complex + Back Squat
+# Tuesday — Week 2: Snatch Complex + Back Squat
 
 [[00 - Program Overview]] | [[Phase 1 - Weeks 1-4]]
 
 > [!tip] Day Focus
-> Week 2 starts with a new snatch complex variation — **pause snatch at the knee** replaces the hang snatch above knee. The pause forces you to hold the exact position where most snatches go wrong: the transition from first to second pull. You also get an extra set (6 vs 5) as volume builds. The weight is only 3 kg heavier than Week 1 (76 vs 73 kg) — that tiny jump lets you focus on the new positional demand, not the load. On back squats, we stay conservative at 115 kg after Week 1's recalibration. **New cue for all snatches this week: ride the bar down into a full overhead squat catch, even if you can power it.**
+> Week 2 starts on Tuesday this week — Monday was a holiday, so sessions are compressed into a 4-day block (Tue–Fri). Today's session is unchanged: **pause snatch at the knee** replaces the hang snatch above knee. The pause forces you to hold the exact position where most snatches go wrong: the transition from first to second pull. You also get an extra set (6 vs 5) as volume builds. The weight is only 3 kg heavier than Week 1 (76 vs 73 kg) — that tiny jump lets you focus on the new positional demand, not the load. On back squats, we stay conservative at 115 kg after Week 1's recalibration. **New cue for all snatches this week: ride the bar down into a full overhead squat catch, even if you can power it.**
 
 ---
 

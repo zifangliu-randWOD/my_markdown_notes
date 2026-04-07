@@ -207,10 +207,12 @@
 
 ---
 
-## Week 2 — Building Volume
+## Week 2 — Building Volume (Compressed: Tue–Fri)
 
 > [!info] Week 2 Targets
 > Oly intensity: 72-77% | Squat intensity: 60-62% | Focus: add 1 set or 2-3% to Oly lifts, keep tempo squats at calibrated loads
+>
+> **Schedule change:** Monday 4/6 is a holiday — Week 2 compressed into 4 sessions (Tue–Fri). Thursday's session (front squat + OHS + metcon) is dropped. 3x3 front squat added to Wednesday as compensation. All Oly lift sessions preserved.
 >
 > **Week 1 adjustments applied:**
 > - Tempo squat loads reduced (70% was RPE 8-9; now targeting 60-62% for RPE 6-7)
@@ -218,7 +220,7 @@
 > - Snatch working sets: cue squat-receiving even when power snatching is possible
 > - Jerk warm-ups: experiment with grip 1 inch wider than clean grip on light sets
 
-### Monday — Snatch Complex + Back Squat
+### Tuesday — Snatch Complex + Back Squat
 
 **Warm-up:** Same as Week 1
 
@@ -248,10 +250,50 @@
 
 ---
 
-### Tuesday — Jerk + Strict Press + Ring MU Skill
+### Wednesday — Clean & Deadlift (+Front Squat)
+
+**Warm-up:** Same as Week 1
+
+**Primary: Clean Work**
+- Power clean + Squat clean: 5 x (1+1) @ 72% (101 kg)
+
+**Secondary: Deadlift**
+- Clean-grip deadlift: 4 x 5 @ 77% (154 kg)
+- Tempo: 3-0-3
+- *Monitor RPE: if tempo deadlifts follow the same pattern as tempo squats (RPE 8+ at prescribed %), drop to 140-145 kg.*
+
+**Added: Front Squat (Compensation for Dropped Thursday)**
+- 3 x 3 @ 62% (100 kg) — no tempo
+- *Reduced-volume top-up to keep front squat patterning alive. Do these after deadlifts, before accessories.*
+
+**Accessory Window:**
+- Bulgarian split squat: 3 x 10 each leg (**do not skip** — Wednesday unilateral work was missed in Week 1)
+- Single-leg RDL: 3 x 10 each leg
+- Banded hip flexor stretch: 2 x 45 sec each
+
+**Tracking:**
+- [ ] Completed
+- RPE: _ /10
+- Clean notes:
+- Deadlift notes:
+- Front squat notes:
+- Left vs right feel on unilateral work:
+- General notes:
+
+---
+
+### ~~Thursday — Front Squat + OHS + Metcon~~ DROPPED
+
+> [!warning] Session Dropped — Compressed Week
+> Thursday's session (front squat 4x6 @ 104 kg + OHS 4x5 @ 66 kg + AMRAP metcon) is dropped to accommodate the 4-day compressed schedule. Front squat partially compensated with 3x3 @ 100 kg on Wednesday. OHS covered by Tuesday's snatch complex (includes OHS). Metcon is lowest priority — acceptable loss for one week.
+
+---
+
+### Thursday — Jerk + Strict Press + Ring MU Skill
 
 **Warm-up:** Same as Week 1
 - **Added:** During push press warm-up, try 2-3 reps with grip 1 inch wider than clean grip. Note how the dip and overhead position feel at the wider width. This is exploratory — not a commitment to switch.
+- *Note: yesterday's cleans and deadlifts may leave residual leg fatigue — if jerk dip feels heavy, drop to 82 kg.*
 
 **Primary: Jerk from Rack**
 - Push jerk: 5 x 3 @ 72% (86 kg)
@@ -274,70 +316,8 @@
 **Tracking:**
 - [ ] Completed
 - RPE: _ /10
-- Jerk notes (dip feel, grip experiment):
+- Jerk notes (dip feel, grip experiment, fatigue from yesterday?):
 - Ring MU progress:
-- General notes:
-
----
-
-### Wednesday — Clean & Deadlift
-
-**Warm-up:** Same as Week 1
-
-**Primary: Clean Work**
-- Power clean + Squat clean: 5 x (1+1) @ 72% (101 kg)
-
-**Secondary: Deadlift**
-- Clean-grip deadlift: 4 x 5 @ 77% (154 kg)
-- Tempo: 3-0-3
-- *Monitor RPE: if tempo deadlifts follow the same pattern as tempo squats (RPE 8+ at prescribed %), drop to 140-145 kg.*
-
-**Accessory Window:**
-- Bulgarian split squat: 3 x 10 each leg (**do not skip** — Wednesday unilateral work was missed in Week 1)
-- Single-leg RDL: 3 x 10 each leg
-- Banded hip flexor stretch: 2 x 45 sec each
-
-**Tracking:**
-- [ ] Completed
-- RPE: _ /10
-- Clean notes:
-- Deadlift notes:
-- Left vs right feel on unilateral work:
-- General notes:
-
----
-
-### Thursday — Front Squat + OHS + Metcon
-
-**Warm-up:** Same as Week 1
-
-**Primary: Front Squat**
-- 4 x 6 @ 65% (104 kg)
-- Tempo: 3-0-0
-- *Adjusted from 72% (115 kg) — Week 1 at 70% (112 kg) was RPE 8+ with failed reps; tempo adds ~10-15% effective load. Athlete settled at 100-105 kg as working range. Target RPE 6-7.*
-- **Cue from Week 1:** "Elbows UP" before every rep, not just at the start of the set. Bar slides forward when thoracic extensors fatigue — this is the cue to fight it.
-
-**Secondary: Overhead Squat**
-- 4 x 5 @ 63% of snatch (66 kg)
-- **Grip cue from Week 1:** Soft hands, hard shoulders — don't death-grip the bar. Widen grip by 1-2 finger widths if wrist pressure persists. Bar should rest on the heel of the palm, not across the middle. Shakiness during descent is normal and will improve with practice.
-
-**Metcon (12-15 min):**
-- AMRAP 12 min:
-  - 10 KB swings (32 kg)
-  - 8 box jumps (24")
-  - 6 burpees
-
-**Accessory Window:**
-- Thoracic extension over bench: 3 x 10 breaths
-- Ankle dorsiflexion: 2 x 30 sec each
-- Banded overhead distraction: 2 x 30 sec each
-
-**Tracking:**
-- [ ] Completed
-- RPE: _ /10
-- Front squat notes:
-- OHS notes:
-- Metcon score:
 - General notes:
 
 ---
