@@ -21,11 +21,11 @@ tags:
 
 ## Warm-up (10 min)
 
-- [ ] Hip circles (10 each direction, each leg)
-- [ ] Banded good mornings x 15
-- [ ] Clean grip deadlift to knee x 5
-- [ ] Hang muscle clean x 5
-- [ ] Front squat with empty bar x 5
+- [x] Hip circles (10 each direction, each leg) ✅ 2026-04-08
+- [x] Banded good mornings x 15 ✅ 2026-04-08
+- [x] Clean grip deadlift to knee x 5 ✅ 2026-04-08
+- [x] Hang muscle clean x 5 ✅ 2026-04-08
+- [x] Front squat with empty bar x 5 ✅ 2026-04-08
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -52,13 +52,16 @@ Power clean + Squat clean: 5 x (1+1) @ 72% (101 kg)
 - Rest 2:00 between sets
 - Focus: smooth pull, elbows through fast in the catch
 
-| Set | Weight | Made? | Notes |
-| --- | ------ | ----- | ----- |
-| 1   | 101 kg |       |       |
-| 2   | 101 kg |       |       |
-| 3   | 101 kg |       |       |
-| 4   | 101 kg |       |       |
-| 5   | 101 kg |       |       |
+**Off-program:** Box session — 2x(hang power clean + full power clean) complex, ascending weight. No squat cleans.
+
+| Set | Weight | Made? | RPE | Notes |
+| --- | ------ | ----- | --- | ----- |
+| 1   | 80 kg  | Yes   | 6.5 |       |
+| 2   | 90 kg  | Yes   | 7   |       |
+| 3   | 90 kg  | Yes   | 7   |       |
+| 4   | 100 kg | Yes   | 8   |       |
+| 5   | 100 kg | Yes   | 8   |       |
+| 6   | 110 kg | Yes   | 8.5 |       |
 
 > [!info]- Power Clean + Squat Clean Complex — Mechanism & Coaching Notes (click to expand)
 >
@@ -96,12 +99,16 @@ Power clean + Squat clean: 5 x (1+1) @ 72% (101 kg)
 Focus: maintain back angle off the floor, even pressure through feet
 *Week 1 tempo squats were RPE 8-9 at prescribed percentages. The same pattern may repeat here. If 154 kg tempo pulls hit RPE 8+ by set 2, drop to 140-145 kg. No value in grinding tempo work — positional quality is the goal.*
 
+**Adjusted:** 3x4 tempo @ 150 kg, then 3x paused below-knee @ 150 kg (no belt).
+
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 154 kg | /5   |     |       |
-| 2   | 154 kg | /5   |     |       |
-| 3   | 154 kg | /5   |     |       |
-| 4   | 154 kg | /5   |     |       |
+| 1   | 150 kg | 4/4  | 8   | Tempo 3-up, 3-down |
+| 2   | 150 kg | 4/4  | 8+  | Tempo 3-up, 3-down |
+| 3   | 150 kg | 4/4  | 8+  | Tempo 3-up, 3-down |
+| 4   | 150 kg | —    | 9   | Paused below-knee clean DL |
+| 5   | 150 kg | —    | 9   | Paused below-knee clean DL |
+| 6   | 150 kg | —    | 9   | Paused below-knee clean DL |
 
 > [!info]- Clean-Grip Deadlift (Tempo) — Mechanism & Coaching Notes (click to expand)
 >
@@ -136,11 +143,11 @@ Focus: maintain back angle off the floor, even pressure through feet
 Focus: elbows high, upright torso, maintain front rack position
 *This is a reduced-volume top-up to keep front squat patterning alive this week. The full front squat session (4x6 @ 104 kg) is dropped; this covers the minimum effective stimulus.*
 
+**Skipped** — not performed during box session. Front squat moved to Thursday.
+
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 100 kg | /3   |     |       |
-| 2   | 100 kg | /3   |     |       |
-| 3   | 100 kg | /3   |     |       |
+| —   | —      | —    | —   | Moved to Thursday |
 
 > [!info]- Front Squat Compensation — Coaching Notes (click to expand)
 >
@@ -164,9 +171,10 @@ Focus: elbows high, upright torso, maintain front rack position
 
 ## Accessory Window (15-20 min)
 
-- [ ] Bulgarian split squat: 3 x 10 each leg (DB — 12-15 kg each hand)
-- [ ] Single-leg RDL: 3 x 10 each leg
-- [ ] Banded hip flexor stretch: 2 x 45 sec each side
+- [ ] ~~Bulgarian split squat: 3 x 10 each leg (DB — 12-15 kg each hand)~~ **Skipped — moved to Thursday**
+- [ ] ~~Single-leg RDL: 3 x 10 each leg~~ **Skipped**
+- [ ] ~~Banded hip flexor stretch: 2 x 45 sec each side~~ **Skipped**
+- [x] Tabata: alternating reverse hollow hold + elbow plank (core) ✅ 2026-04-08
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -193,11 +201,77 @@ Focus: elbows high, upright torso, maintain front rack position
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Left knee feel (1-5, 5=no pain):
-- Clean notes (elbow speed, left vs right rack feel):
-- Deadlift notes (tempo feel, did you need to drop weight?):
-- Front squat notes (compensation sets — how did they feel after deadlifts?):
-- Left vs right feel on unilateral work:
-- General notes:
+- [x] Session completed ✅ 2026-04-08
+- RPE (overall): 7.5 /10
+- Left knee feel (1-5, 5=no pain): 5 (no pain — no knee sleeve or belt used, still felt strong)
+- Clean notes (elbow speed, left vs right rack feel): Off-program box session. 6 sets of 2x(HPC + PC) ascending to 110 kg. Drive position felt strong, smooth throughout. No knee sleeves or belt — still felt braced and confident.
+- Deadlift notes (tempo feel, did you need to drop weight?): 3x4 tempo @ 150 kg (RPE 8+) + 3x paused below-knee @ 150 kg (RPE 9). Hard but not exhausting. No belt likely added 0.5+ RPE. Smooth positions throughout.
+- Front squat notes (compensation sets — how did they feel after deadlifts?): Skipped — not available in box session. Moved to Thursday.
+- Left vs right feel on unilateral work: No unilateral work done today.
+- General notes: Smooth session overall. Box is in a power clean cycle, which aligned well with the pulling focus. Bulgarian split squats, single-leg RDL, and hip flexor stretch all skipped — need to be added to Thursday or Friday. Core work (tabata hollow hold + plank) was a good addition.
+
+---
+
+> [!note] Coach's Review — Day 7 (Week 2 Wednesday)
+>
+> **Clean Work — Good Stimulus, Different Shape**
+> The box session gave you 6 sets of 2x(HPC + PC) ascending from 80 to 110 kg. The prescribed work was 5 sets of (power clean + squat clean) at flat 101 kg. Let's compare:
+>
+> | | Prescribed | Actual |
+> | --- | --- | --- |
+> | Format | PC + squat clean | HPC + full PC |
+> | Loading | Flat 101 kg | Ascending 80–110 kg |
+> | Top weight | 101 kg (72%) | 110 kg (78.5%) |
+> | Total reps | 10 (5x2) | 12 (6x2) |
+> | Squat clean? | Yes | No |
+>
+> The volume and intensity are comparable — actually slightly more total work in the box session. The higher top-end (110 kg at RPE 8.5) isn't a problem at this stage. What *is* missing is squat clean practice. Both Week 1 and Week 2 Wednesdays have been power-clean-only sessions. The squat clean component specifically trains the receiving position and front rack catch under load — the exact quality that bridges your power clean strength to your clean max. This isn't urgent at 72% loads, but as Phase 1 progresses and percentages climb, the squat clean practice gap will matter.
+>
+> **Positive finding:** No knee sleeve, no belt, and still felt strong and braced at 110 kg. This is a real signal. It means your brace and knee stability are functional without external support at these loads. That's confidence you can trust — the sleeves and belt are performance aids, not structural necessities. Consider doing more warm-up sets and lower-percentage work without them going forward to keep building this intrinsic stability.
+>
+> **Deadlifts — Tempo Tax Confirmed Again**
+> 150 kg tempo (3-0-3) at RPE 8+ and paused below-knee at RPE 9. The prescribed was 154 kg. You self-selected to 150 kg (smart) and it was still hard. The lack of belt likely added 0.5-1 RPE — intra-abdominal pressure from bracing alone is less than belt-assisted bracing, which increases perceived effort on the posterior chain. At 150 kg with belt, this would probably be RPE 7-7.5, which is closer to target.
+>
+> The paused below-knee deadlifts (RPE 9) are a harder variation than what was prescribed. You're getting more positional work from the pause than from straight tempo pulls. The combined volume (3x4 tempo + 3x pause) is different from 4x5 tempo but the total stimulus is comparable. No concerns here.
+>
+> **The Pattern: Wednesday Box Sessions**
+> This is the second consecutive Wednesday where the box session replaced the programmed workout. I'm not going to tell you to stop going to the box — that's your training environment and the power clean cycle aligns with the program's pulling focus. But here's what consistently gets dropped when this happens:
+>
+> | Skipped Item | Weeks Missed | Impact |
+> | --- | --- | --- |
+> | Squat clean practice | 2/2 | No deep receiving practice — all power cleans |
+> | Bulgarian split squats | 2/2 | **Left knee rehab stalled** — zero unilateral quad work in 2 weeks |
+> | Single-leg RDL | 2/2 | No unilateral posterior chain work |
+> | Front squat (this week) | 1/1 | Moved to Thursday — recoverable |
+>
+> The Bulgarian split squats are the critical miss. Peterson step-downs (done on Tue and Fri) target VMO at low load. Bulgarian split squats load the quad unilaterally at working weight — they expose and correct the left-right asymmetry under real training stress. Two weeks without them means the asymmetry correction hasn't started. **If you can only add one thing to the box session or do one thing after class, make it the Bulgarian split squats.** 3 sets, 10 reps each leg, 12-15 kg DBs. Takes 8 minutes.
+>
+> **Modifications for Thursday and Friday**
+>
+> Yes — here's what's been adjusted:
+>
+> **Thursday (Jerk + Strict Press + Ring MU):**
+> - Added: 3x3 front squat @ 100 kg after ring MU work, before accessories
+> - Added: Bulgarian split squats 3x10 each leg to the accessory block (MANDATORY)
+> - Existing jerk, press, and ring MU work unchanged
+> - Session will be ~10-15 min longer than originally planned
+>
+> **Friday (Snatch + C&J + HS Walk):**
+> - No changes. Friday already has Peterson step-downs in the accessories
+> - If you didn't get the Bulgarian split squats done Thursday, do them Friday instead of pigeon stretch
+>
+> **Cross-Session Trend Check**
+>
+> | Metric | Wk1 Mon | Wk1 Fri | Wk2 Tue | Wk2 Wed |
+> | --- | --- | --- | --- | --- |
+> | Oly RPE | 7-7.5 | 7 | 6.5 | 6.5–8.5 (ascending) |
+> | Strength RPE | 8-9 | — | 8-8.5 | 8-9 |
+> | Left knee | 4/5 | 4/5 | 4/5 | 5/5 |
+> | Squat receive? | No | No | Yes | No (box session) |
+> | BSS done? | Yes | Yes | — | No |
+>
+> **Patterns:**
+> - Olympic lifts are in a good place. Drive position strong, confidence growing. The ascending format today showed you can handle 110 kg (78.5%) smoothly — that's ahead of where the program has you.
+> - Strength/tempo work consistently lands RPE 8-9 regardless of load choice. Breathing fix (from yesterday's review) hasn't been tested yet on squats. Thursday's front squats at 100 kg with no tempo will be a useful data point.
+> - Left knee at 5/5 today is the best reading in 2 weeks. No sleeve, no belt, clean pulls to 110 kg — the knee handled it. The patellar tracking issue is specifically provocative in knee-forward positions (step-downs, jerk dip, squats), not in pulling. This is consistent and expected.
+> - The Wednesday box session pattern needs a plan. Either: (a) add BSS after class on Wednesdays, or (b) accept the box session and always compensate on Thursday. Option (a) is better — it's 8 minutes and keeps the rehab on track.

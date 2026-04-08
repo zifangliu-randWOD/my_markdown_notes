@@ -147,13 +147,43 @@ Focus: full lockout overhead, no excessive back lean
 
 ---
 
+## Added: Front Squat (Moved from Wednesday)
+
+3 x 3 @ 62% (100 kg) — No tempo
+Focus: elbows high, upright torso, maintain front rack position
+*Compensation for dropped Thursday front squat session. Was planned for Wednesday but skipped due to box session. Do these after ring MU work, before accessories.*
+
+| Set | Weight | Reps | RPE | Notes |
+| --- | ------ | ---- | --- | ----- |
+| 1   | 100 kg | /3   |     |       |
+| 2   | 100 kg | /3   |     |       |
+| 3   | 100 kg | /3   |     |       |
+
+> [!info]- Front Squat Compensation — Coaching Notes (click to expand)
+>
+> **Why this is here now:**
+> Wednesday's box session covered cleans and deadlifts but skipped the front squat compensation sets. Since this is the only remaining opportunity this week to get front squat work in (Friday is snatch + C&J day), it lands here. The jerk work provides a natural lead-in — you'll already be in the front rack and your legs are warm from the dip-drive.
+>
+> **Execution:**
+> - After ring MU work, load 100 kg in the rack
+> - Bar on front rack, elbows high. Full depth, vertical torso, drive up through mid-foot
+> - 3 reps per set — quick and clean. No tempo. These should feel like an extension of the jerk warm-up, not a separate grinding block
+> - RPE target: 6-7. If the jerks and presses have fatigued your legs more than expected, drop to 90 kg
+> - Order today: jerks → strict press → ring MU → front squats → accessories
+
+---
+
 ## Accessory Window (15-20 min)
 
+- [ ] **Bulgarian split squat: 3 x 10 each leg (DB — 12-15 kg each hand) — MANDATORY**
 - [ ] Banded front rack stretch: 2 x 45 sec each side
 - [ ] Prone Y-T-W raises: 3 x 10 each position
 - [ ] External rotation with band: 3 x 12 each arm
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
+>
+> **Bulgarian Split Squat 3x10 each leg — THIS CANNOT BE SKIPPED**
+> This has been missed both Wednesday sessions (Week 1 and Week 2). The left knee asymmetry correction depends on consistent unilateral quad work. Each leg works independently so you'll immediately feel which side is weaker. Hold 12-15 kg DBs. Left leg first, slight toe-out (15-20 degrees) to reduce patellar stress. If left knee pain appears at full depth, stop 2 inches higher — depth management, not avoidance.
 >
 > **Banded Front Rack Stretch 2x45 sec each side**
 > Same as Week 1. Band at elbow height, pulling your elbow into a deeper front rack position. Spend extra time on the left. This directly supports the jerk grip exploration — a more mobile front rack makes the wider jerk grip accessible over time.
