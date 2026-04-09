@@ -68,7 +68,7 @@ Focus: elbows high, upright torso, maintain front rack position
 > **Left knee consideration:**
 > Front squat is a knee-forward position. At 100 kg this should be well within tolerance (you've front squatted 160 kg). If the left knee talks, check foot position — slight toe-out (15-20 degrees) and a touch wider stance can reduce patellar stress.
 
-
+Note:  feel all good, no belt no knee sleeve but still feel smooth, no grinding, not particular pain on knee; there is just one slight concern, that at the bottom position of squat, the lumbar-pelvic region feel some constraint; and i actually want to discuss with you more on this points, so after you done the note lets talk more on this
 
 ---
 
@@ -77,14 +77,14 @@ Focus: elbows high, upright torso, maintain front rack position
 3 x 10 each leg (DB — 12-15 kg each hand)
 *Missed in Week 1 Wednesday and Week 2 Wednesday. This is the third scheduled opportunity and the left knee asymmetry correction depends on it. This cannot be pushed again.*
 
-| Set | Leg  | Weight     | Reps | RPE | Notes |
-| --- | ---- | ---------- | ---- | --- | ----- |
-| 1   | Left | 12-15 kg   | /10  |     |       |
-| 1   | Right| 12-15 kg   | /10  |     |       |
-| 2   | Left | 12-15 kg   | /10  |     |       |
-| 2   | Right| 12-15 kg   | /10  |     |       |
-| 3   | Left | 12-15 kg   | /10  |     |       |
-| 3   | Right| 12-15 kg   | /10  |     |       |
+| Set | Leg   | Weight   | Reps  | RPE | Notes |
+| --- | ----- | -------- | ----- | --- | ----- |
+| 1   | Left  | 12-15 kg | 10/10 | 6   |       |
+| 1   | Right | 12-15 kg | 10/10 | 6   |       |
+| 2   | Left  | 12-15 kg | 10/10 | 6   |       |
+| 2   | Right | 12-15 kg | 10/10 | 6   |       |
+| 3   | Left  | 12-15 kg | 10/10 | 6   |       |
+| 3   | Right | 12-15 kg | 10/10 | 6   |       |
 
 > [!info]- Bulgarian Split Squat — Coaching Notes (click to expand)
 >
@@ -109,6 +109,8 @@ Focus: elbows high, upright torso, maintain front rack position
 > **After front squats:**
 > Your quads are pre-fatigued from the 3x3 front squats. The BSS may feel harder than expected — that's fine. If 15 kg DBs push RPE above 8 on the left leg, drop to 10 kg. Volume (3x10) matters more than load here.
 
+note: used a pair of 12 kg kettlebell for this workout, slowed the speed on this movement, paid attention on alagining kneecap with toe direction; overall feel smooth, sore, but no pain, or grinding. 
+
 ---
 
 ## Single-Leg RDL
@@ -116,14 +118,14 @@ Focus: elbows high, upright torso, maintain front rack position
 3 x 10 each leg (DB — 10-15 kg, contralateral)
 *Missed from Wednesday AM accessories. Targets unilateral posterior chain and hip stability.*
 
-| Set | Leg  | Weight   | Reps | RPE | Notes |
-| --- | ---- | -------- | ---- | --- | ----- |
-| 1   | Left | 10-15 kg | /10  |     |       |
-| 1   | Right| 10-15 kg | /10  |     |       |
-| 2   | Left | 10-15 kg | /10  |     |       |
-| 2   | Right| 10-15 kg | /10  |     |       |
-| 3   | Left | 10-15 kg | /10  |     |       |
-| 3   | Right| 10-15 kg | /10  |     |       |
+| Set | Leg   | Weight   | Reps  | RPE | Notes |
+| --- | ----- | -------- | ----- | --- | ----- |
+| 1   | Left  | 10-15 kg | 10/10 | 6   |       |
+| 1   | Right | 10-15 kg | 10/10 | 6   |       |
+| 2   | Left  | 10-15 kg | 10/10 | 6   |       |
+| 2   | Right | 10-15 kg | 10/10 | 6   |       |
+| 3   | Left  | 10-15 kg | 10/10 | 6   |       |
+| 3   | Right | 10-15 kg | 10/10 | 6   |       |
 
 > [!info]- Single-Leg RDL — Coaching Notes (click to expand)
 >
@@ -142,6 +144,8 @@ Focus: elbows high, upright torso, maintain front rack position
 >
 > **Balance tip:** If balance is a major limiter, lightly touch a wall or rack with your free hand — balance, not support.
 
+note: used a pair of 12kg kettelbell again, free from any support; feel a little shaky (probably i havent do much balance training for a while); and a little har to form a straight leg behind me, my hamstring is a little tight, overall i feel smooth. 
+
 ---
 
 ## Banded Hip Flexor Stretch
@@ -149,8 +153,8 @@ Focus: elbows high, upright torso, maintain front rack position
 2 x 45 sec each side
 *Missed from Wednesday AM accessories. Supports squat depth and upright torso position.*
 
-- [ ] Left side: 2 x 45 sec
-- [ ] Right side: 2 x 45 sec
+- [x] Left side: 2 x 45 sec ✅ 2026-04-09
+- [x] Right side: 2 x 45 sec ✅ 2026-04-09
 
 > [!info]- Hip Flexor Stretch — Coaching Notes (click to expand)
 >
@@ -169,10 +173,12 @@ Focus: elbows high, upright torso, maintain front rack position
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Left knee feel (1-5, 5=no pain):
+- [x] Session completed ✅ 2026-04-09
+- RPE (overall): 6 /10
+- Left knee feel (1-5, 5=no pain): 5 
 - Front squat notes (how did they feel after this morning's pulling?):
 - BSS notes (left vs right difference?):
 - Single-leg RDL notes:
 - General notes:
+
+overall feel good, not grinding, and all good on form, volume, and left knee feeling. after you help me format todays note,  i want talk with you the discomfort i have with the lumbar-pelvic region; 
