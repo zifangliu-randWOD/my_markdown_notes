@@ -64,11 +64,12 @@ Training Program/
 - **Performance diagnosis**: compare test week results (Weeks 8, 16, 24) in `Protocols & Reference.md` PR log. Check snatch daily max log for trends. Look at weekly reflections for patterns.
 - **Training compliance**: daily notes have checkboxes — count completed vs planned. Weekly reflections capture what was missed and why.
 - **Knee/mobility assessment**: each daily note tracks left knee feel (1-5) and front rack feel. The PR log in Protocols & Reference has a knee pain tracker table across weeks.
-- **Adjusting the program**: if the athlete asks to modify, understand which phase/week they're in, what their recent test results were, and what their reflections say. Adjust percentages, volume, or exercise selection accordingly. Never change the priority stack without discussion.
+- **Adjusting the program**: if the athlete asks to modify, understand which phase/week they're in, what their recent test results were, and what their reflections say. Adjust percentages, volume, or exercise selection accordingly. Never change the priority stack without discussion. **When modifying exercises or progressions for future sessions, always propagate the change to the relevant phase file** (e.g., `Phase 1 - Weeks 1-4.md`) — this is the source of truth used to generate weekly sessions.
 
 ### Post-Workout Review Process
 When the athlete shares a daily note with workout results (completed checkboxes, filled tracking tables, and log entries), perform this review automatically:
 
+0. **Locate changes efficiently** — check `git diff` (unstaged) or `git diff --staged` (staged) first to see only what the athlete changed, rather than reading the full file. This saves tokens and focuses attention on the actual session data. Fall back to reading the full file only if the diff is empty or context is needed.
 1. **Fix grammar and formatting** — clean up notes, fix table data (correct weights, add missing rows for extra sets), standardize language. Preserve the athlete's intent and observations.
 2. **Adjust future programming if needed** — if weights were too heavy/light (RPE off target by 2+ points) or new limiters appeared, update upcoming sessions in the phase file. Note what was changed and why.
 3. **Add Coach's Review** (`> [!note] Coach's Review — Day N`) at the bottom of the daily note:

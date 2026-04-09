@@ -94,7 +94,12 @@ If knee pain in dip: slow dip tempo to 2 sec, reduce load 5-10%
 >
 > **Expected RPE at 86 kg:** RPE 6-6.5 (may be 7 due to yesterday's session). If it's 7.5+, check the bar path — is it traveling straight up, or is it drifting forward? Forward drift = dip quality issue, not strength issue.
 
-note: not so hard in terms of power, or strength; feel good in weight; couple things i noticed, 1. i feel not so confident in dip depth consistency, i dont have a reference for compare, i do feel some incosistency there, not sure how to optimize, 2. as for center of weight, during the push, i feel COM drift forward a little to the toe, and during dive and catch, thats do cause a little pain not so much on both knee, left feel more prominent, about 2-3/10 maybe; 3. i did tried a wide grip on sets 5, and moved about a pinky finger wider, feel all good; 4. during descending the bar, sometimes, i will feel it push be both down and backward, and i have to lean backward (torso) to catch it;
+**Athlete Notes:**
+Not hard in terms of power or strength — weight felt good. A few things noticed:
+1. **Dip depth consistency** — not confident it's consistent rep-to-rep. No reference to compare against. Feels inconsistent but unsure how to optimize.
+2. **COM forward drift** — during the push phase, centre of mass drifts forward toward toes. During the dip and catch, this causes mild bilateral knee pain (left more prominent, ~2-3/10).
+3. **Wide grip experiment** — tried wider grip on set 5, moved about a pinky finger wider. Felt good.
+4. **Bar descent** — on the way down, bar sometimes pushes both down and backward, requiring a backward torso lean to absorb it.
 
 
 ---
@@ -130,7 +135,8 @@ Focus: full lockout overhead, no excessive back lean
 >
 > **Expected RPE at 52 kg:** RPE 6-7 for sets 1-3, maybe 7-7.5 for set 4. You should complete all 4x6 without failure.
 
-note: overall feel good about it; last sets feel a little grinding, but overall fine. 1 thing, i want to clearify, should i do reset each rep, meaning lower the bar on my clevicle bone to dead stop, and then push (no muscle stretch flexsion at all), or just lower than the chin, then its good to push? (prior is harder for sure)
+**Athlete Notes:**
+Overall felt good. Last sets were a little grindy but manageable. One question: should each rep be a full dead-stop reset (bar lowered to clavicle, no stretch reflex at all) or is lowering to chin-level enough before pressing? Dead stop is significantly harder.
 
 
 ---
@@ -156,7 +162,8 @@ note: overall feel good about it; last sets feel a little grinding, but overall 
 > - Transition: band-assisted, still learning the pattern
 
 
-note: still cant figure out how to do banded ring mu transitions, as for RMU, i see it a complementary skill to develop, so i can accept starting with something even simpler in skills part, and false grip hang still feel hard, but more adapted to this pattern for sure. 
+**Athlete Notes:**
+Still can't figure out banded ring MU transitions — the movement pattern isn't clicking. Fine with starting even simpler for the skill portion since RMU is a complementary goal. False grip hang still feels hard but noticeably more adapted than Week 1.
 
 ---
 
@@ -185,10 +192,75 @@ note: still cant figure out how to do banded ring mu transitions, as for RMU, i 
 
 - [x] Session completed ✅ 2026-04-09
 - RPE (overall): 7 /10
-- Left arm front rack feel (1-5, 5=no restriction):
-- Jerk notes (dip feel, grip experiment results, any fatigue from Wed double session?):
-- Strict press notes:
-- Ring MU progression notes (false grip improvement?):
-- General notes:
+- Left knee feel (1-5, 5=no pain): 4 (mild pain during jerk dip, ~2-3/10 on left, less on right; fine otherwise)
+- Left arm front rack feel (1-5, 5=no restriction): —
+- Jerk notes: Dip depth inconsistent, COM drifts forward during push, wider grip felt good on set 5. Bar descent pulls backward.
+- Strict press notes: 52 kg manageable. Sets 3-4 grindy. Question on dead-stop vs touch-and-go reps.
+- Ring MU progression notes: False grip improving (more adapted). Banded transitions still not clicking — needs regression.
+- General notes: Overall good session. Technical questions on jerk mechanics, strict press execution, and ring MU progression.
 
-overall good.  have some more technical questions on jerk and strict press; and Ring MU false grip feels better, but for the transition, still cant figure out how;
+---
+
+> [!note] Coach's Review — Day 4 (Week 2, Thu)
+>
+> ### Session Overview
+> Solid session. All prescribed push jerk and strict press sets completed at target loads, RPE within expected ranges. No residual fatigue issue from yesterday's double session — RPE 6-6.5 on jerks and 6.5-7.5 on press is exactly what we wanted. Good self-awareness on the technical observations.
+>
+> ### Push Jerk Analysis (86 kg, 5x3 — RPE 6-6.5)
+> Load progression from 84 → 86 kg absorbed cleanly. RPE matched expectations perfectly. The technical issues you identified are more important than the load right now:
+>
+> **1. Dip depth consistency — how to build a reference:**
+> This is the single most important thing to fix in your jerk. A few practical methods:
+> - **Tactile cue:** Set a foam roller or low box behind your heels at a height where your glutes lightly touch at the correct dip depth (~4-6 inches). Do 5 empty-bar reps touching the target each time. Remove it, then replicate the depth. This gives you a physical reference.
+> - **Verbal count:** Count "one-one-thousand" during the dip. If you're going deeper on some reps, you'll hear yourself count longer. Consistent timing = consistent depth.
+> - **Video yourself from the side.** Even 2-3 reps on your phone. You'll immediately see whether the dip is 4 inches or 8 inches. The inconsistency you feel is real — you just need visual feedback to calibrate it.
+> - Long-term: as dip confidence builds with load exposure, depth consistency will improve naturally. But the tactile cue method accelerates this.
+>
+> **2. COM forward drift + knee pain:**
+> This is connected to the dip inconsistency. When the dip goes too deep or the torso tilts forward even slightly, COM shifts to the toes. Then the drive phase pushes the bar forward instead of straight up, and the catch loads the front of the knee. The 2-3/10 pain on both knees (left more) is classic patellar compression from a forward-biased dip. Fix the dip, and the knee pain during jerks should reduce.
+> - **Cue for next session:** "heels heavy through the dip." Imagine pushing the floor away through your whole foot, not just the balls of your feet. If you feel pressure shift to toes during the dip, the dip went forward.
+> - The fact that knee pain is bilateral (not just left) reinforces that this is a mechanics issue, not a structural one.
+>
+> **3. Wider grip — good data:**
+> Pinky-finger wider on set 5 felt fine. This is encouraging. The wider grip shortens the distance the bar travels overhead, which should improve lockout efficiency. We'll keep exploring: try it on sets 4-5 again next week. If it's still comfortable after 2 weeks of exploration, we can make it your working jerk grip.
+>
+> **4. Bar descent pulling backward:**
+> This happens when the bar is slightly behind your centre of gravity at the top. On the way down, gravity pulls it through your centre — which feels like it's pushing you backward. Two things cause this:
+> - **Over-correction for forward drift:** if you're consciously pushing the bar back to avoid forward drift, you may overshoot and end up with the bar behind you.
+> - **Head position:** if you're not pushing your head through enough at lockout, the bar stays slightly behind. When it comes down, it pulls through.
+> - **Fix:** at lockout, check that your ears are in front of your biceps. If your head is ducked under the bar, push it forward. On the descent, actively guide the bar down to your shoulders rather than letting it free-fall.
+>
+> ### Strict Press Analysis (52 kg, 4x6 — RPE 6.5-7.5)
+> Progression from 50 → 52 kg is landing well. Set 4 at RPE 7.5 is the ceiling for this block — we don't want it higher. All reps completed, no failures. Good.
+>
+> **Dead stop vs touch-and-go — answer:**
+> For this program: **dead stop to front rack (clavicle) every rep.** Here's why:
+> - The purpose of strict press in an Oly-first program is to build raw pressing strength and overhead stability from a dead position — no momentum, no stretch reflex. This transfers directly to the jerk lockout where you need to stabilize a bar that arrives overhead with no elastic rebound.
+> - Touch-and-go (lowering to chin) uses the stretch-shortening cycle of the deltoids and triceps. It's useful for bodybuilding hypertrophy, but it trains a different quality than what we need here.
+> - Yes, dead stop is harder — that's the point. The RPE at 52 kg with dead-stop reps is 6.5-7.5, which is right in our target window. If you were doing touch-and-go, we'd need to increase the weight to get the same stimulus, and the transfer to jerk lockout would be less.
+> - **Execution:** lower the bar to your clavicle/front rack, let it settle for a beat (no bouncing), re-brace (ribs down, glutes tight), then press. Every rep is its own event.
+>
+> ### Ring MU Progressions
+> Deep ring dips and false grip hang completed — good. False grip feeling "more adapted" is exactly the signal we want in Week 2. Banded transitions not clicking is honest feedback.
+>
+> **Replacing banded transitions (starting Week 3 Thursday):**
+> The banded ring MU transition requires coordination that you haven't built yet — trying to force it just wastes skill time. Starting Week 3, we'll replace it with **false grip ring rows to sternum (3x5)**: hang from rings in false grip, feet on floor, pull your sternum to the rings. This teaches the pulling path of the MU transition without the coordination demand of the kip and catch. Once you can do 3x8 with control, we'll re-introduce banded transitions.
+>
+> ### Cross-Session Trends (Week 2 so far)
+>
+> | Session | RPE | Knee | Pattern |
+> | --- | --- | --- | --- |
+> | Tue — Snatch + Squat | 8 | 4/5 | Squat RPE above target, breathing under tempo is limiter |
+> | Wed AM — Clean + DL | 7.5 | 5/5 | No sleeves/belt, felt strong. HPC to 110 kg smooth |
+> | Wed PM — FS + Unilateral | 6 | 5/5 | FS smooth, lumbar constraint identified |
+> | **Thu — Jerk + Press** | **7** | **4/5** | **Knee pain only during jerk dip — mechanics-driven** |
+>
+> **Knee pattern:** Pain-free on cleans, front squats, and accessories. Pain only during jerk dip (forward-loaded position). This confirms the patellar tracking issue is load-direction specific, not load-magnitude specific — you handled 150 kg deadlifts and 110 kg cleans with no issue, but 86 kg jerks irritate it because of the dip mechanics. Fixing the forward drift in the dip is the primary intervention.
+>
+> **RPE trend:** 8 → 7.5 → 6 → 7. Week 2 is tracking well. No accumulated fatigue spike despite the compressed schedule and double session Wednesday. Recovery is handling the load.
+>
+> ### Action Items
+> - **Week 3 Thursday:** Replace banded ring MU transitions with **false grip ring rows to sternum 3x5** (update phase file)
+> - **Friday:** On any jerk/overhead warm-up, cue **"heels heavy through the dip"** — carry this cue forward
+> - **Friday C&J:** Continue wider grip exploration on the jerk portion if it felt good today
+> - **Strict press going forward:** Dead stop to clavicle every rep, confirmed as the standard for this program

@@ -327,7 +327,7 @@
 **Gymnastics Skill: Ring MU Progressions**
 - Deep ring dips: 3 x 6
 - False grip hang: 3 x 20 sec (Week 1 identified grip as the limiter — this is the priority)
-- Banded ring MU transitions: 3 x 3 (lighter band if possible)
+- Banded ring MU transitions: 3 x 3 (lighter band if possible) — *Note: athlete couldn't execute banded transitions in Week 2. Replaced with false grip ring rows to sternum starting Week 3.*
 
 **Accessory Window:**
 - Banded front rack stretch: 2 x 45 sec each
@@ -439,7 +439,7 @@
 **Gymnastics Skill: Ring MU Progressions**
 - Deep ring dips: 3 x 8
 - False grip pull-up: 3 x 3 (new progression)
-- Banded ring MU transitions: 4 x 3
+- False grip ring rows to sternum: 3 x 5 (replaces banded transitions — athlete can't execute the transition pattern yet; rows build the pull path first. Re-introduce banded transitions once 3x8 ring rows are comfortable)
 
 **Accessory Window:**
 - Banded front rack stretch: 2 x 60 sec each

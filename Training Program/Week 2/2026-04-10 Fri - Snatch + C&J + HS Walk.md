@@ -129,7 +129,8 @@ Work to a comfortable heavy single @ 77% (81 kg), then:
 > Smooth pull to hip, fast elbows in the catch. At 95 kg, focus on the turnover — elbow speed in the catch is the quality differentiator. Stand up fully, reset feet, breathe, then jerk.
 >
 > **Jerk execution:**
-> Vertical dip, consistent depth (4-6 inches), fast lockout. Apply Thursday's dip cue: "sit the hips, then drive." If Thursday's session went well and the dip felt more confident, carry that confidence here. If Thursday was rough, be conservative — 95 kg should be manageable even with residual apprehension.
+> Vertical dip, consistent depth (4-6 inches), fast lockout. Thursday's session revealed **COM forward drift during the dip** causing mild bilateral knee pain (left ~2-3/10). Primary cue for today: **"heels heavy through the dip"** — keep pressure across the whole foot, not just the balls. If you feel pressure shift to toes, the dip is going forward.
+> Thursday's wider grip experiment (pinky-finger wider) felt good on set 5 — try it again on sets 2-3 today to gather more data.
 >
 > **Expected RPE:**
 > Clean: RPE 5-6. Jerk: RPE 6-7. If the jerk feels harder than the clean, that's expected. If the jerk feels like RPE 8+, the compressed week is catching up — drop to 90 kg for the remaining sets.
