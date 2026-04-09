@@ -21,14 +21,18 @@ tags:
 
 ## Warm-up (10 min)
 
-- [ ] Banded lat stretch x 45 sec each
-- [ ] Front rack stretch with barbell x 60 sec
-- [ ] Thoracic rotation on wall x 8 each side
-- [ ] Push press with empty bar x 10
-- [ ] **Grip exploration:** Push press x 5 with grip 1 inch wider than clean grip — note how dip and lockout feel
-- [ ] Jerk footwork drills x 10
+- [x] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set) ✅ 2026-04-09
+- [x] Banded lat stretch x 45 sec each ✅ 2026-04-09
+- [x] Front rack stretch with barbell x 60 sec ✅ 2026-04-09
+- [x] Thoracic rotation on wall x 8 each side ✅ 2026-04-09
+- [x] Push press with empty bar x 10 ✅ 2026-04-09
+- [x] **Grip exploration:** Push press x 5 with grip 1 inch wider than clean grip — note how dip and lockout feel ✅ 2026-04-09
+- [x] Jerk footwork drills x 10 ✅ 2026-04-09
 
 > [!info]- Warm-up Movement Guide (click to expand)
+>
+> **90/90 Breathing — 2 min (NEW — added Week 2)**
+> Lie on your back, feet on a wall, knees and hips at 90 degrees. Exhale fully through your mouth, flattening your lower back into the floor. Hold the flat-back position for 3-4 breath cycles (inhale through nose, exhale through mouth, maintain flat back). This teaches the deep core to posteriorly tilt the pelvis against the chronic erector/stabilizer stiffness identified in the Wed PM session. Do this first — it resets pelvic position before loading. Over time this reduces the lumbar-pelvic constraint you feel at the bottom of front squats.
 >
 > **Banded Lat Stretch x 45 sec each**
 > Same as Week 1. Band overhead, grip with one hand, step away for a deep lat stretch. Let your torso rotate slightly toward the band. This directly targets the lat tightness that limits your front rack and overhead position. Spend extra time on the left side — it's more restricted.

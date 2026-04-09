@@ -21,12 +21,16 @@ tags:
 
 ## Warm-up (10 min)
 
+- [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set)
 - [ ] Snatch grip RDL x 5
 - [ ] Hang snatch high pull x 5
 - [ ] Snatch balance x 5
 - [ ] Clean & jerk with empty bar x 3
 
 > [!info]- Warm-up Movement Guide (click to expand)
+>
+> **90/90 Breathing — 2 min**
+> Lie on your back, feet on a wall, knees and hips at 90 degrees. Exhale fully through your mouth, flattening your lower back into the floor. Hold the flat-back position for 3-4 breath cycles. Resets pelvic position before loading — addresses the lumbar-pelvic stiffness identified in the Wed PM session.
 >
 > **Snatch Grip RDL x5**
 > Builds awareness of the pulling position with a snatch-width grip. Feel the hamstrings load as you hinge. Keep the bar close to your legs, shoulders over the bar, back flat. This grooves the first pull position — the exact setup you need before every snatch today.

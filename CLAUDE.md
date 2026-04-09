@@ -20,6 +20,7 @@ An Obsidian vault containing a 24-week Oly-First Periodized CrossFit training pr
 ### Known Physical Limiters
 - **Left knee patellar tracking issue**: pain with vertical torso/knee-forward positions under heavy load. Manageable with tempo and foot positioning. Likely VMO/quad imbalance. Left side clearly weaker than right.
 - **Thoracic mobility restriction**: bilateral, worse on left. Limits front rack position — elbows can't get high enough under heavy load, left arm more rigid. Directly caps jerk dip mechanics and clean receiving position.
+- **Chronic lumbar stiffness / anterior pelvic tilt**: 3-4 year history, lower lumbar region. Constraint at parallel depth during controlled front squats under load; absent at full depth with fast drop or at bodyweight. Connected to hamstring tightness. Managed with 90/90 breathing (daily warm-up from Week 2). Monitor as front squat loads climb.
 - **Snatch efficiency gap**: 55% snatch-to-squat ratio (105/190). Positional/timing improvements are the biggest lever, not raw strength.
 
 ### Priority Stack

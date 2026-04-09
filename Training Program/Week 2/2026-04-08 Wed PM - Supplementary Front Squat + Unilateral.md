@@ -47,9 +47,9 @@ Focus: elbows high, upright torso, maintain front rack position
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 100 kg | 3/3  | 6   |       |
-| 2   | 100 kg | 3/3  | 6   |       |
-| 3   | 100 kg | 3/3  | 6   |       |
+| 1   | 100 kg | 3/3  | 6   | No belt, no knee sleeve. Smooth throughout. |
+| 2   | 100 kg | 3/3  | 6   | Same feel. No grinding. |
+| 3   | 100 kg | 3/3  | 6   | Lumbar-pelvic region felt constrained at the bottom position. No knee pain. |
 
 > [!info]- Front Squat — Coaching Notes (click to expand)
 >
@@ -68,8 +68,6 @@ Focus: elbows high, upright torso, maintain front rack position
 > **Left knee consideration:**
 > Front squat is a knee-forward position. At 100 kg this should be well within tolerance (you've front squatted 160 kg). If the left knee talks, check foot position — slight toe-out (15-20 degrees) and a touch wider stance can reduce patellar stress.
 
-Note:  feel all good, no belt no knee sleeve but still feel smooth, no grinding, not particular pain on knee; there is just one slight concern, that at the bottom position of squat, the lumbar-pelvic region feel some constraint; and i actually want to discuss with you more on this points, so after you done the note lets talk more on this
-
 ---
 
 ## Bulgarian Split Squat — MANDATORY
@@ -79,12 +77,12 @@ Note:  feel all good, no belt no knee sleeve but still feel smooth, no grinding,
 
 | Set | Leg   | Weight   | Reps  | RPE | Notes |
 | --- | ----- | -------- | ----- | --- | ----- |
-| 1   | Left  | 12-15 kg | 10/10 | 6   |       |
-| 1   | Right | 12-15 kg | 10/10 | 6   |       |
-| 2   | Left  | 12-15 kg | 10/10 | 6   |       |
-| 2   | Right | 12-15 kg | 10/10 | 6   |       |
-| 3   | Left  | 12-15 kg | 10/10 | 6   |       |
-| 3   | Right | 12-15 kg | 10/10 | 6   |       |
+| 1   | Left  | 12 kg KB | 10/10 | 6   | Slow tempo, kneecap aligned with toe direction |
+| 1   | Right | 12 kg KB | 10/10 | 6   | Same cues |
+| 2   | Left  | 12 kg KB | 10/10 | 6   | Smooth, sore but no pain |
+| 2   | Right | 12 kg KB | 10/10 | 6   |       |
+| 3   | Left  | 12 kg KB | 10/10 | 6   | No grinding, no patellar pain |
+| 3   | Right | 12 kg KB | 10/10 | 6   |       |
 
 > [!info]- Bulgarian Split Squat — Coaching Notes (click to expand)
 >
@@ -109,8 +107,6 @@ Note:  feel all good, no belt no knee sleeve but still feel smooth, no grinding,
 > **After front squats:**
 > Your quads are pre-fatigued from the 3x3 front squats. The BSS may feel harder than expected — that's fine. If 15 kg DBs push RPE above 8 on the left leg, drop to 10 kg. Volume (3x10) matters more than load here.
 
-note: used a pair of 12 kg kettlebell for this workout, slowed the speed on this movement, paid attention on alagining kneecap with toe direction; overall feel smooth, sore, but no pain, or grinding. 
-
 ---
 
 ## Single-Leg RDL
@@ -120,12 +116,12 @@ note: used a pair of 12 kg kettlebell for this workout, slowed the speed on this
 
 | Set | Leg   | Weight   | Reps  | RPE | Notes |
 | --- | ----- | -------- | ----- | --- | ----- |
-| 1   | Left  | 10-15 kg | 10/10 | 6   |       |
-| 1   | Right | 10-15 kg | 10/10 | 6   |       |
-| 2   | Left  | 10-15 kg | 10/10 | 6   |       |
-| 2   | Right | 10-15 kg | 10/10 | 6   |       |
-| 3   | Left  | 10-15 kg | 10/10 | 6   |       |
-| 3   | Right | 10-15 kg | 10/10 | 6   |       |
+| 1   | Left  | 12 kg KB | 10/10 | 6   | Freestanding, no support. Slightly shaky on balance. |
+| 1   | Right | 12 kg KB | 10/10 | 6   | Same |
+| 2   | Left  | 12 kg KB | 10/10 | 6   | Hard to form straight line behind — hamstring tightness |
+| 2   | Right | 12 kg KB | 10/10 | 6   |       |
+| 3   | Left  | 12 kg KB | 10/10 | 6   | Smooth overall despite balance shakiness |
+| 3   | Right | 12 kg KB | 10/10 | 6   |       |
 
 > [!info]- Single-Leg RDL — Coaching Notes (click to expand)
 >
@@ -143,8 +139,6 @@ note: used a pair of 12 kg kettlebell for this workout, slowed the speed on this
 > Your hamstrings and lower back already worked hard with tempo and paused pulls at 150 kg. Single-leg RDLs at 10-15 kg are a different stimulus — balance-dominant, light load, high rep. If your lower back feels tight, go lighter (10 kg or bodyweight) and focus on the hip hinge pattern.
 >
 > **Balance tip:** If balance is a major limiter, lightly touch a wall or rack with your free hand — balance, not support.
-
-note: used a pair of 12kg kettelbell again, free from any support; feel a little shaky (probably i havent do much balance training for a while); and a little har to form a straight leg behind me, my hamstring is a little tight, overall i feel smooth. 
 
 ---
 
@@ -175,10 +169,40 @@ note: used a pair of 12kg kettelbell again, free from any support; feel a little
 
 - [x] Session completed ✅ 2026-04-09
 - RPE (overall): 6 /10
-- Left knee feel (1-5, 5=no pain): 5 
-- Front squat notes (how did they feel after this morning's pulling?):
-- BSS notes (left vs right difference?):
-- Single-leg RDL notes:
-- General notes:
+- Left knee feel (1-5, 5=no pain): 5
+- Front squat notes: All 3x3 smooth at RPE 6. No belt, no knee sleeve, no grinding, no knee pain. Lumbar-pelvic region felt constrained at bottom position — to be investigated.
+- BSS notes: 12 kg KBs, slowed tempo, focused on kneecap-toe alignment. Smooth, sore but no pain or grinding. No noticeable left-right asymmetry at this load (both RPE 6).
+- Single-leg RDL notes: 12 kg KBs, freestanding (no support). Balance was shaky — hasn't done much balance work recently. Hamstring tightness limited ability to form a straight line with the rear leg. Smooth overall.
+- General notes: First time completing all prescribed unilateral work in the program. Good baseline session. Lumbar-pelvic constraint during front squat bottom position flagged for discussion.
 
-overall feel good, not grinding, and all good on form, volume, and left knee feeling. after you help me format todays note,  i want talk with you the discomfort i have with the lumbar-pelvic region; 
+---
+
+> [!note] Coach's Review — Wed PM Supplementary (Week 2)
+>
+> **Mission accomplished.** The whole point of this session was to get the front squat exposure and — critically — the Bulgarian split squats that had been missed for two straight weeks. All of it got done, at controlled intensity, with zero knee issues. RPE 6 across the board is exactly right for a supplementary session.
+>
+> **Front Squat — 3x3 @ 100 kg, RPE 6**
+> Clean execution. No belt, no sleeve, RPE 6 — this confirms 100 kg (62%) is the right compensation dose. The front squat itself isn't the training stimulus here; it's the front rack position exposure and quad loading pattern. You got 9 reps of full-depth front squat this week, which is less than the planned 24 reps (4x6 @ 104 kg) but enough to maintain the motor pattern.
+>
+> **The lumbar-pelvic constraint at the bottom** is a new finding and worth discussing separately. Quick take: this is likely **"butt wink"** — posterior pelvic tilt at the bottom of the squat where the pelvis tucks under and the lower back rounds slightly. At 100 kg this isn't dangerous, but it signals a mobility limitation (hip flexors, hamstrings, or ankle dorsiflexion) that becomes relevant as front squat loads climb. More on this below.
+>
+> **Bulgarian Split Squats — First Completion in the Program**
+> This is a milestone. Two weeks of missed BSS meant the left knee asymmetry correction hadn't started. Today's session is the actual Day 1 of that process. Key observations:
+> - Both legs at RPE 6 with 12 kg KBs — no obvious left-right gap at this load. This doesn't mean the asymmetry isn't there; 12 kg is likely too light to expose it. As load increases over the coming weeks (15 kg, then 20 kg), the gap will show up as an RPE differential.
+> - Slowed tempo + kneecap-toe alignment cue = exactly right approach. The deliberate pacing builds motor control in the pattern before adding load.
+> - Sore but no pain — perfect. The soreness is from unaccustomed stimulus (DOMS incoming tomorrow). This will diminish with consistency.
+>
+> **Single-Leg RDL — Balance and Hamstring Findings**
+> Two signals here:
+> 1. **Balance shakiness** — expected after a long gap in unilateral standing work. This improves rapidly with exposure (2-3 weeks of consistent practice). The fact that you stayed freestanding without support is good — proprioceptive challenge is the training stimulus.
+> 2. **Hamstring tightness limiting rear leg extension** — this connects to the front squat bottom position finding. Tight hamstrings pull the pelvis into posterior tilt at squat depth AND limit the hip extension range on the standing leg during SL-RDL. Both findings point to the same mobility chain. The banded hip flexor stretch you did at the end directly addresses this.
+>
+> **Cross-Reference: Lumbar-Pelvic Constraint + Hamstring Tightness**
+> These two findings from the same session are almost certainly related:
+> - Front squat bottom: pelvis tucks under (posterior tilt) because hamstrings are pulling the sit bones down
+> - SL-RDL: can't extend the rear leg straight because the hamstrings on the standing leg are limiting hip flexion range
+>
+> This is a mobility finding, not a strength or pain finding. It doesn't change the program — the hip flexor stretches and 90/90 hip rotations already in the accessory work target this. But it's worth a dedicated conversation to understand what you're feeling and whether any targeted mobility should be added.
+>
+> **Heading into Thursday:**
+> Your quads will be sore from the BSS (DOMS from first exposure). The jerk dip loads the quads in a short range — if dip RPE feels elevated by 0.5-1 point beyond normal, that's the BSS soreness, not regression. The session was cleaned up to remove the front squat and BSS additions, so Thursday is back to its normal overhead focus: jerk + strict press + ring MU + original accessories.

@@ -139,6 +139,24 @@ If any of these appear mid-block, insert a deload week and shift the schedule fo
 - 3 x 8-10 each leg
 - Key for left side: focus on balance and control
 
+### Lumbar-Pelvic / Core Reset
+
+**90/90 Breathing (Daily — Added Week 2)**
+- Lie on back, feet on a wall, knees and hips at 90 degrees
+- Exhale fully through mouth, flattening lower back into the floor
+- Hold flat-back position for 3-4 breath cycles (inhale nose, exhale mouth)
+- 2 minutes total (3-4 sets of breath cycles)
+- Purpose: teaches deep core to posteriorly tilt the pelvis against chronic erector/stabilizer stiffness
+- Context: addresses the lumbar-pelvic constraint identified at squat depth under load (anterior pelvic tilt pattern). Also helps with the chronic lower lumbar stiffness that causes discomfort when lying flat.
+- Do first in every warm-up — resets pelvic position before loading
+
+**Goblet Squat Hold with Exhale**
+- Hold bottom of a goblet squat (light KB/DB)
+- Exhale fully, let the lower back "open" and flatten
+- Hold for 3-5 breaths
+- Optional add-on after 90/90 breathing if time allows
+- Rehearses the lumbar-pelvic transition at depth under light load with conscious control
+
 ### Hip Mobility
 
 **Pigeon Stretch**

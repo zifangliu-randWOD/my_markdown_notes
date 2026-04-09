@@ -68,6 +68,7 @@ target_prs:
 
 - **Left knee patellar tracking issue** — pain with vertical torso / knee-forward positions under heavy load. Manageable with tempo and foot positioning. Likely VMO/quad imbalance left vs right.
 - **Thoracic mobility restriction** — bilateral, worse on left. Directly limits front rack position and jerk dip mechanics.
+- **Chronic lumbar stiffness / anterior pelvic tilt** — 3-4 year history, lower lumbar region. Presents as a "constraint" at parallel depth during controlled front squats under load; absent at full depth with fast drop or at bodyweight. Connected to hamstring tightness. Managed with 90/90 breathing drill (added to daily warm-ups from Week 2) and existing hip flexor/hamstring mobility work. Does not currently limit training; monitor as front squat loads increase in Phase 2-3.
 - **Snatch efficiency** — 55% snatch-to-squat ratio (105/190). Significant positional/timing gains available before strength becomes the limiter.
 - **Jerk technique** — elbow positioning under heavy load, left arm more restricted. Front rack limitation feeds directly into this.
 
