@@ -68,11 +68,11 @@ If knee pain in dip: slow dip tempo to 2 sec, reduce load 5-10%
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 86 kg  |  /3  |     |       |
-| 2   | 86 kg  |  /3  |     |       |
-| 3   | 86 kg  |  /3  |     |       |
-| 4   | 86 kg  |  /3  |     |       |
-| 5   | 86 kg  |  /3  |     |       |
+| 1   | 86 kg  | 3/3  | 6   |       |
+| 2   | 86 kg  | 3/3  | 6   |       |
+| 3   | 86 kg  | 3/3  | 6   |       |
+| 4   | 86 kg  | 3/3  | 6.5 |       |
+| 5   | 86 kg  | 3/3  | 6.5 |       |
 
 > [!info]- Push Jerk — Mechanism & Coaching Notes (click to expand)
 >
@@ -94,6 +94,9 @@ If knee pain in dip: slow dip tempo to 2 sec, reduce load 5-10%
 >
 > **Expected RPE at 86 kg:** RPE 6-6.5 (may be 7 due to yesterday's session). If it's 7.5+, check the bar path — is it traveling straight up, or is it drifting forward? Forward drift = dip quality issue, not strength issue.
 
+note: not so hard in terms of power, or strength; feel good in weight; couple things i noticed, 1. i feel not so confident in dip depth consistency, i dont have a reference for compare, i do feel some incosistency there, not sure how to optimize, 2. as for center of weight, during the push, i feel COM drift forward a little to the toe, and during dive and catch, thats do cause a little pain not so much on both knee, left feel more prominent, about 2-3/10 maybe; 3. i did tried a wide grip on sets 5, and moved about a pinky finger wider, feel all good; 4. during descending the bar, sometimes, i will feel it push be both down and backward, and i have to lean backward (torso) to catch it;
+
+
 ---
 
 ## Secondary: Strict Press
@@ -104,10 +107,10 @@ Focus: full lockout overhead, no excessive back lean
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 52 kg  |  /6  |     |       |
-| 2   | 52 kg  |  /6  |     |       |
-| 3   | 52 kg  |  /6  |     |       |
-| 4   | 52 kg  |  /6  |     |       |
+| 1   | 52 kg  | 6/6  | 6.5 |       |
+| 2   | 52 kg  | 6/6  | 6.5 |       |
+| 3   | 52 kg  | 6/6  | 7   |       |
+| 4   | 52 kg  | 6/6  | 7.5 |       |
 
 > [!info]- Strict Press — Mechanism & Coaching Notes (click to expand)
 >
@@ -127,12 +130,15 @@ Focus: full lockout overhead, no excessive back lean
 >
 > **Expected RPE at 52 kg:** RPE 6-7 for sets 1-3, maybe 7-7.5 for set 4. You should complete all 4x6 without failure.
 
+note: overall feel good about it; last sets feel a little grinding, but overall fine. 1 thing, i want to clearify, should i do reset each rep, meaning lower the bar on my clevicle bone to dead stop, and then push (no muscle stretch flexsion at all), or just lower than the chin, then its good to push? (prior is harder for sure)
+
+
 ---
 
 ## Gymnastics Skill: Ring Muscle-Up Progressions (5-10 min)
 
-- [ ] Deep ring dips: 3 x 6 (slow negative, 3 sec down)
-- [ ] False grip hang: 3 x 20 sec
+- [x] Deep ring dips: 3 x 6 (slow negative, 3 sec down) ✅ 2026-04-09
+- [x] False grip hang: 3 x 20 sec ✅ 2026-04-09
 - [ ] Banded ring MU transitions: 3 x 3 (lighter band if possible)
 
 > [!info]- Ring Muscle-Up Progressions — Coaching Notes (click to expand)
@@ -149,13 +155,16 @@ Focus: full lockout overhead, no excessive back lean
 > - Pull height: not yet tested as a limiter
 > - Transition: band-assisted, still learning the pattern
 
+
+note: still cant figure out how to do banded ring mu transitions, as for RMU, i see it a complementary skill to develop, so i can accept starting with something even simpler in skills part, and false grip hang still feel hard, but more adapted to this pattern for sure. 
+
 ---
 
 ## Accessory Window (15-20 min)
 
-- [ ] Banded front rack stretch: 2 x 45 sec each side
-- [ ] Prone Y-T-W raises: 3 x 10 each position
-- [ ] External rotation with band: 3 x 12 each arm
+- [x] Banded front rack stretch: 2 x 45 sec each side ✅ 2026-04-09
+- [x] Prone Y-T-W raises: 3 x 10 each position ✅ 2026-04-09
+- [x] External rotation with band: 3 x 12 each arm ✅ 2026-04-09
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -174,10 +183,12 @@ Focus: full lockout overhead, no excessive back lean
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
+- [x] Session completed ✅ 2026-04-09
+- RPE (overall): 7 /10
 - Left arm front rack feel (1-5, 5=no restriction):
 - Jerk notes (dip feel, grip experiment results, any fatigue from Wed double session?):
 - Strict press notes:
 - Ring MU progression notes (false grip improvement?):
 - General notes:
+
+overall good.  have some more technical questions on jerk and strict press; and Ring MU false grip feels better, but for the transition, still cant figure out how;
