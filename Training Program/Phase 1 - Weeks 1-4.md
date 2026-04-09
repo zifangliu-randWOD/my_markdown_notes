@@ -285,7 +285,28 @@
 ### ~~Thursday — Front Squat + OHS + Metcon~~ DROPPED
 
 > [!warning] Session Dropped — Compressed Week
-> Thursday's session (front squat 4x6 @ 104 kg + OHS 4x5 @ 66 kg + AMRAP metcon) is dropped to accommodate the 4-day compressed schedule. Front squat partially compensated with 3x3 @ 100 kg on Wednesday. OHS covered by Tuesday's snatch complex (includes OHS). Metcon is lowest priority — acceptable loss for one week.
+> Thursday's session (front squat 4x6 @ 104 kg + OHS 4x5 @ 66 kg + AMRAP metcon) is dropped to accommodate the 4-day compressed schedule. Front squat compensated in the **Wednesday PM supplementary session** (3x3 @ 100 kg). OHS covered by Tuesday's snatch complex (includes OHS). Metcon is lowest priority — acceptable loss for one week.
+
+---
+
+### Wednesday PM — Supplementary Session
+
+**Added** to compensate for work missed during the Wednesday AM box session.
+
+**Front Squat**
+- 3 x 3 @ 62% (100 kg) — no tempo
+
+**Unilateral Leg Work (missed from Wed AM accessories)**
+- Bulgarian split squat: 3 x 10 each leg (12-15 kg DBs) — **mandatory**, missed Week 1 & 2 Wednesdays
+- Single-leg RDL: 3 x 10 each leg (10-15 kg)
+- Banded hip flexor stretch: 2 x 45 sec each
+
+**Tracking:**
+- [ ] Completed
+- RPE: _ /10
+- Front squat notes:
+- BSS notes (left vs right?):
+- General notes:
 
 ---
 
@@ -293,7 +314,7 @@
 
 **Warm-up:** Same as Week 1
 - **Added:** During push press warm-up, try 2-3 reps with grip 1 inch wider than clean grip. Note how the dip and overhead position feel at the wider width. This is exploratory — not a commitment to switch.
-- *Note: yesterday's cleans and deadlifts may leave residual leg fatigue — if jerk dip feels heavy, drop to 82 kg.*
+- *Note: yesterday's cleans/deadlifts + PM supplementary session (front squats + BSS) may leave residual leg fatigue — if jerk dip feels heavy, drop to 82 kg.*
 
 **Primary: Jerk from Rack**
 - Push jerk: 5 x 3 @ 72% (86 kg)

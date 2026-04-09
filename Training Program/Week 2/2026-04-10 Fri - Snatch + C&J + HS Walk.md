@@ -15,7 +15,7 @@ tags:
 [[00 - Program Overview]] | [[Phase 1 - Weeks 1-4]]
 
 > [!tip] Day Focus
-> Friday is the **full lifts day** — the culmination of the week. Tuesday you drilled pause snatch positions with complexes; today you put it all together with full snatches at a slightly higher intensity (77%, 81 kg heavy single). This is also the last session of the compressed 4-day week, so accumulated fatigue may show up. The priority is quality reps with speed, not grinding. The big experiment today: **try the wider jerk grip on C&J sets 3-4** if Thursday's grip exploration felt good. Film your snatches — compare the pause position quality from Tuesday to today's full lifts. **Continue riding every snatch down into a full squat catch.**
+> Friday is the **full lifts day** — the culmination of the week. Tuesday you drilled pause snatch positions with complexes; today you put it all together with full snatches at a slightly higher intensity (77%, 81 kg heavy single). This is the last session of the compressed 4-day week (plus the Wed PM supplementary), so accumulated fatigue may show up — especially in the quads after Wednesday's double session. The priority is quality reps with speed, not grinding. The big experiment today: **try the wider jerk grip on C&J sets 3-4** if Thursday's grip exploration felt good. Film your snatches — compare the pause position quality from Tuesday to today's full lifts. **Continue riding every snatch down into a full squat catch.**
 
 ---
 
@@ -180,4 +180,4 @@ Work to a comfortable heavy single @ 77% (81 kg), then:
 - Snatch notes (did you squat-receive? positions, speed vs Tuesday):
 - C&J notes (grip experiment results — wider grip feel?):
 - HS walk progress (hold times, freestanding kick-up consistency):
-- General notes (compressed week fatigue level?):
+- General notes (compressed week + Wed double session fatigue level?):

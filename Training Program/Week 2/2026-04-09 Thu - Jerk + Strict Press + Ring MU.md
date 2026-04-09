@@ -15,7 +15,7 @@ tags:
 [[00 - Program Overview]] | [[Phase 1 - Weeks 1-4]]
 
 > [!tip] Day Focus
-> Your **overhead day**, moved to Thursday this week due to the compressed 4-day schedule. Yesterday was cleans and deadlifts — your posterior chain and legs may carry some residual fatigue. The jerk dip might feel heavier than usual because of that; if RPE climbs above 7, drop to 82 kg rather than fighting through. Push jerk goes up 2 kg from Week 1 (84 → 86 kg). The big addition this week is **jerk grip exploration**: during warm-up, try widening your grip 1 inch beyond your clean grip and see how the dip and overhead position feel. This addresses the grip question you raised on Friday. Strict press is recalibrated to 52 kg. Ring MU work continues building the false grip that was identified as the current limiter.
+> Your **overhead day**, moved to Thursday this week due to the compressed 4-day schedule. Yesterday was cleans and deadlifts in the morning, plus a supplementary PM session (front squats + BSS + single-leg RDLs). Your quads and posterior chain may carry residual fatigue from the double session. The jerk dip might feel heavier than usual; if RPE climbs above 7, drop to 82 kg rather than fighting through. Push jerk goes up 2 kg from Week 1 (84 → 86 kg). The big addition this week is **jerk grip exploration**: during warm-up, try widening your grip 1 inch beyond your clean grip and see how the dip and overhead position feel. Strict press is recalibrated to 52 kg. Ring MU work continues building the false grip that was identified as the current limiter. With the supplementary session covering front squats and unilateral work, this session returns to its normal overhead focus — no extra additions.
 
 ---
 
@@ -147,43 +147,13 @@ Focus: full lockout overhead, no excessive back lean
 
 ---
 
-## Added: Front Squat (Moved from Wednesday)
-
-3 x 3 @ 62% (100 kg) — No tempo
-Focus: elbows high, upright torso, maintain front rack position
-*Compensation for dropped Thursday front squat session. Was planned for Wednesday but skipped due to box session. Do these after ring MU work, before accessories.*
-
-| Set | Weight | Reps | RPE | Notes |
-| --- | ------ | ---- | --- | ----- |
-| 1   | 100 kg | /3   |     |       |
-| 2   | 100 kg | /3   |     |       |
-| 3   | 100 kg | /3   |     |       |
-
-> [!info]- Front Squat Compensation — Coaching Notes (click to expand)
->
-> **Why this is here now:**
-> Wednesday's box session covered cleans and deadlifts but skipped the front squat compensation sets. Since this is the only remaining opportunity this week to get front squat work in (Friday is snatch + C&J day), it lands here. The jerk work provides a natural lead-in — you'll already be in the front rack and your legs are warm from the dip-drive.
->
-> **Execution:**
-> - After ring MU work, load 100 kg in the rack
-> - Bar on front rack, elbows high. Full depth, vertical torso, drive up through mid-foot
-> - 3 reps per set — quick and clean. No tempo. These should feel like an extension of the jerk warm-up, not a separate grinding block
-> - RPE target: 6-7. If the jerks and presses have fatigued your legs more than expected, drop to 90 kg
-> - Order today: jerks → strict press → ring MU → front squats → accessories
-
----
-
 ## Accessory Window (15-20 min)
 
-- [ ] **Bulgarian split squat: 3 x 10 each leg (DB — 12-15 kg each hand) — MANDATORY**
 - [ ] Banded front rack stretch: 2 x 45 sec each side
 - [ ] Prone Y-T-W raises: 3 x 10 each position
 - [ ] External rotation with band: 3 x 12 each arm
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
->
-> **Bulgarian Split Squat 3x10 each leg — THIS CANNOT BE SKIPPED**
-> This has been missed both Wednesday sessions (Week 1 and Week 2). The left knee asymmetry correction depends on consistent unilateral quad work. Each leg works independently so you'll immediately feel which side is weaker. Hold 12-15 kg DBs. Left leg first, slight toe-out (15-20 degrees) to reduce patellar stress. If left knee pain appears at full depth, stop 2 inches higher — depth management, not avoidance.
 >
 > **Banded Front Rack Stretch 2x45 sec each side**
 > Same as Week 1. Band at elbow height, pulling your elbow into a deeper front rack position. Spend extra time on the left. This directly supports the jerk grip exploration — a more mobile front rack makes the wider jerk grip accessible over time.
@@ -193,6 +163,8 @@ Focus: elbows high, upright torso, maintain front rack position
 >
 > **External Rotation with Band 3x12 each arm**
 > Same as Week 1. Elbow pinned to side, rotate forearm outward against band. Prehab for the rotator cuff as pressing volume builds. Control the return — don't let the band snap your arm back.
+>
+> ~~**Front squat and Bulgarian split squats** were originally added here as compensation for the dropped Thursday and missed Wednesday accessories. These have been moved to the **Wednesday PM supplementary session** — see [[2026-04-08 Wed PM - Supplementary Front Squat + Unilateral]].~~
 
 ---
 
@@ -201,7 +173,7 @@ Focus: elbows high, upright torso, maintain front rack position
 - [ ] Session completed
 - RPE (overall): _ /10
 - Left arm front rack feel (1-5, 5=no restriction):
-- Jerk notes (dip feel, grip experiment results, any fatigue from yesterday?):
+- Jerk notes (dip feel, grip experiment results, any fatigue from Wed double session?):
 - Strict press notes:
 - Ring MU progression notes (false grip improvement?):
 - General notes:
