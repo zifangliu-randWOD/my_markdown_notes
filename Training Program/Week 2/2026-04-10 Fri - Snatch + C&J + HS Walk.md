@@ -21,11 +21,11 @@ tags:
 
 ## Warm-up (10 min)
 
-- [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set)
-- [ ] Snatch grip RDL x 5
-- [ ] Hang snatch high pull x 5
-- [ ] Snatch balance x 5
-- [ ] Clean & jerk with empty bar x 3
+- [x] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set) ✅ 2026-04-10
+- [x] Snatch grip RDL x 5 ✅ 2026-04-10
+- [x] Hang snatch high pull x 5 ✅ 2026-04-10
+- [x] Snatch balance x 5 ✅ 2026-04-10
+- [x] Clean & jerk with empty bar x 3 ✅ 2026-04-10
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -58,17 +58,17 @@ Work to a comfortable heavy single @ 77% (81 kg), then:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 81 kg  | 1    |     |       |
+| 1   | 81 kg  | 1    | 6.5 |       |
 
 **Working Sets**
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   |  kg    | /2   |     |       |
-| 2   |  kg    | /2   |     |       |
-| 3   |  kg    | /2   |     |       |
-| 4   |  kg    | /2   |     |       |
-| 5   |  kg    | /2   |     |       |
+| 1   | 79kg   | 2/2  | 6   |       |
+| 2   | 79kg   | 2/2  | 6   |       |
+| 3   | 79kg   | 2/2  | 6.5 |       |
+| 4   | 79kg   | 2/2  | 6.5 |       |
+| 5   | 79kg   | 2/2  | 7   |       |
 
 > [!info]- Snatch (Full Lifts) — Mechanism & Coaching Notes (click to expand)
 >
@@ -93,6 +93,9 @@ Work to a comfortable heavy single @ 77% (81 kg), then:
 > **Compressed week consideration:**
 > This is day 4 of 4 with no rest day in between. Accumulated fatigue from Tuesday's squats, Wednesday's deadlifts, and Thursday's pressing may show up as slightly slower reflexes or heavier-feeling snatches. If that happens, it's fatigue, not regression. Keep the working weights honest — RPE is the guide, not the programmed percentage.
 
+**Athlete Notes:**
+Build-up: 40 → 60 → 70 → 81 kg. On reduced sleep (~6.5 hr) — felt slow and not sharp through the snatch portion, but everything moved fast once initiated. Pull felt high (around groin region), did squat snatch as cued, felt easy. For working sets 1-3, body felt numb with little proprioceptive feedback. Sets 4-5: noticed bar wasn't tracking close to the thigh after passing the knee — tried to correct this. Also intentionally paused at the bottom catch to recover a stable position before standing. During this pause noticed: (1) bar sometimes rolling toward the palm (out of hook grip position), and (2) occasional forward lean at the bottom to catch balance. Overall not a hard session.
+
 ---
 
 ## Secondary: Clean & Jerk
@@ -102,12 +105,12 @@ Work to a comfortable heavy single @ 77% (81 kg), then:
 - Focus: smooth transition from clean to jerk, reset feet between
 - **Jerk grip experiment:** Try moving hands 1 inch wider than clean grip on sets 3-4. If it feels unstable, return to clean grip. This is exploration, not commitment.
 
-| Set | Weight | Made? | Grip | Notes |
-| --- | ------ | ----- | ---- | ----- |
-| 1   | 95 kg  |       | Clean |       |
-| 2   | 95 kg  |       | Clean |       |
-| 3   | 95 kg  |       | Wide? |       |
-| 4   | 95 kg  |       | Wide? |       |
+| Set | Weight | Made?     | Grip  | Notes |
+| --- | ------ | --------- | ----- | ----- |
+| 1   | 95 kg  | yes       | Clean |       |
+| 2   | 95 kg  | yes       | Clean |       |
+| 3   | 95 kg  | yes, wide | Wide? |       |
+| 4   | 95 kg  | yes, wide | Wide? |       |
 
 > [!info]- Clean & Jerk — Mechanism & Coaching Notes (click to expand)
 >
@@ -135,13 +138,16 @@ Work to a comfortable heavy single @ 77% (81 kg), then:
 > **Expected RPE:**
 > Clean: RPE 5-6. Jerk: RPE 6-7. If the jerk feels harder than the clean, that's expected. If the jerk feels like RPE 8+, the compressed week is catching up — drop to 90 kg for the remaining sets.
 
+**Athlete Notes:**
+Opted for squat clean instead of power clean — felt smooth. Tried wider jerk grip on sets 3-4, but not as wide as Tuesday's push press experiment — under load from the clean catch position, hands can't move as easily to reposition. No knee pain during the clean or the jerk. Dip wasn't particularly fast, but drive felt fine — not explosive but no grinding. Overall 95 kg felt about RPE 6.5-7.
+
 ---
 
 ## Gymnastics Skill: Handstand Walk Progressions (5-10 min)
 
-- [ ] Wall-facing handstand hold: 3 x 35 sec
-- [ ] Wall walk with shoulder taps: 3 x 6 each hand
-- [ ] Freestanding handstand kick-up attempts: 5 attempts (try to hold 3 sec)
+- [x] Wall-facing handstand hold: 3 x 35 sec ✅ 2026-04-10
+- [x] Wall walk with shoulder taps: 3 x 6 each hand ✅ 2026-04-10
+- [x] Freestanding handstand kick-up attempts: 5 attempts (try to hold 3 sec) ✅ 2026-04-10
 
 > [!info]- Handstand Walk Progressions — Coaching Notes (click to expand)
 >
@@ -160,9 +166,9 @@ Work to a comfortable heavy single @ 77% (81 kg), then:
 
 ## Accessory Window (15-20 min)
 
-- [ ] Peterson step-downs: 3 x 10 each leg (5 kg DB)
-- [ ] Pigeon stretch: 2 x 45 sec each side
-- [ ] 90/90 hip rotation: 2 x 8 each side
+- [x] Peterson step-downs: 3 x 10 each leg (5 kg DB) ✅ 2026-04-10
+- [x] Pigeon stretch: 2 x 45 sec each side ✅ 2026-04-10
+- [x] 90/90 hip rotation: 2 x 8 each side ✅ 2026-04-10
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -175,14 +181,67 @@ Work to a comfortable heavy single @ 77% (81 kg), then:
 > **90/90 Hip Rotation 2x8 each side**
 > Sit on the floor with both legs at 90-degree angles. Rotate your legs to switch which hip is externally rotated and which is internally rotated. This builds active hip mobility — the ability to move through full hip range under control. Note if one direction feels significantly tighter — that's likely the side that limits your squat symmetry. Move slowly and own each position.
 
+
+**Athlete Notes:**
+Peterson step-downs: used 8 kg kettlebell, lowered step height to ~10-15 cm. Felt noticeably better — no obvious pain during the exercise, and could hold the descending phase longer on the left knee. Overall good. 90/90 hip rotation: difficult — can't rotate smoothly without shifting/wiggling at the bottom, and hard to maintain a vertical torso throughout.
+
+
 ---
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Left knee end-of-week feel (1-5, 5=no pain):
-- Snatch notes (did you squat-receive? positions, speed vs Tuesday):
-- C&J notes (grip experiment results — wider grip feel?):
-- HS walk progress (hold times, freestanding kick-up consistency):
-- General notes (compressed week + Wed double session fatigue level?):
+- [x] Session completed ✅ 2026-04-10
+- RPE (overall): 7.5 /10
+- Left knee end-of-week feel (1-5, 5=no pain): 5
+- Snatch notes: Squat-received all reps as cued. Pull felt high. Sets 1-3 low proprioceptive feedback; sets 4-5 noticed bar drifting from thigh, bar rolling toward palm at bottom catch, and forward lean to recover balance.
+- C&J notes: Squat cleaned all sets (smooth). Wider jerk grip on sets 3-4 — limited by hand repositioning under load from clean catch. No knee pain on dip. RPE 6.5-7.
+- HS walk progress: All holds and taps completed. One freestanding kick-up held ~5 seconds — significantly longer than expected.
+- General notes: Body felt dull and slow — likely from reduced sleep (6.5 hr) and accumulated fatigue from the compressed 4-day week. Not grinding or exhausting, and sensation improved as the session progressed. Peterson step-downs noticeably better with lowered step height and no pain. The 5-second freestanding handstand hold was a pleasant surprise.
+
+---
+
+> [!note] Coach's Review — Day 5 (Week 2 Friday)
+>
+> ### Snatch Analysis (81 kg single RPE 6.5, 5x2 @ 79 kg RPE 6-7)
+> All reps squat-received as cued — that's two straight sessions of consistent squat catches. This is the motor pattern embedding. RPE 6.5 on the 81 kg single (Week 2's new heavy single, up from 79 kg Week 1) is exactly where it should be. Working sets at 79 kg building from RPE 6 to 7 across 5 sets shows normal accumulated fatigue, especially on reduced sleep.
+>
+> **The two observations from sets 4-5 are both real and worth addressing:**
+>
+> **1. Bar drifting away from the thigh after the knee:**
+> This is the same issue the pause snatch on Tuesday is designed to fix. During the transition from knee to hip, if the bar swings even slightly forward (away from the thigh), the contact point shifts lower — toward the pubic bone instead of the hip crease. This reduces the vertical component of your extension and makes the bar travel in a slight arc forward instead of straight up. You noticed it and tried to correct it in real-time — that's exactly right. **Cue for Week 3: "sweep the bar into the hip" — think of actively pulling the bar back into your body as it passes the knee.** The pause snatch drills this perfectly because from a dead stop at the knee, you have to deliberately sweep the bar in rather than letting momentum carry it forward.
+>
+> **2. Bar rolling toward the palm + forward lean at the bottom:**
+> These are related. When the bar rolls from the base of the fingers toward the palm, wrist extension decreases and the bar's centre of gravity shifts forward relative to your shoulder. To compensate, your torso leans forward to keep the combined centre of mass over mid-foot. Both symptoms point to the same root cause: **the hook grip is releasing too early in the turnover.** As the bar flips overhead, if your fingers open instead of maintaining contact, the bar settles deeper in the palm. This is extremely common at loads below 80% because there isn't enough weight to "force" a tight overhead position.
+>
+> **Fix (two cues to try in Week 3):**
+> - **"Knuckles to the ceiling"** at the catch — actively press up with the heel of the hand, keeping the wrist slightly extended. This prevents the bar from rolling palmward.
+> - **Maintain hook grip through the catch** on at least 2 of the 5 working sets. Keeping the hook forces the bar to sit in the fingers rather than the palm. It feels uncomfortable overhead but it locks the bar position. Try it on sets 1-2 when you're freshest.
+>
+> Neither of these issues is a red flag — they're refinement-level technique details that only surface when you slow down the catch (which is exactly what you did by not rushing to stand up). The fact that you're self-identifying these mid-session is high-quality awareness.
+>
+> ### Clean & Jerk Analysis (4x(1+1) @ 95 kg, all made, RPE 6.5-7)
+> Switching to squat clean was a good instinct — it's what the program prescribes, and at 95 kg (68% of clean max) you should be receiving in a squat. The fact that it "felt smooth" confirms your squat receiving position is becoming more natural across both lifts.
+>
+> **Wider jerk grip — practical limitation identified:**
+> You found that repositioning hands from clean catch to wider jerk grip is mechanically difficult under load. This is a real constraint. Two options going forward:
+> - **Option A (simpler):** Use the wider grip for the entire C&J — clean with the wider grip too. At 95 kg this won't affect the clean much, but it changes the front rack position slightly. Try this on one set in Week 3 to see how the wider-grip clean catch feels.
+> - **Option B (standard approach):** Accept that the jerk grip will be slightly narrower than ideal when transitioning from a clean catch. Many athletes use a "jerk adjustment" — a quick thumb release and slide outward on the bar while the bar is racked. This is a skill that develops over time. Don't force it now; just use whatever grip you can comfortably get to from the clean catch.
+>
+> **Jerk dip + no knee pain:**
+> This is the standout data point. Thursday's jerk at 86 kg caused 2-3/10 bilateral knee pain from forward COM drift. Today at 95 kg — no pain. What changed? Probably not technique (you said the dip wasn't fast but drive was fine). More likely: the clean catch sets up a better front rack starting position than taking the bar from the rack. When you squat clean 95 kg and stand up, your thoracic extension is already engaged and your elbows are set. From the rack, you may be starting with less thoracic engagement, leading to the forward drift on the dip. This is a useful finding — note whether this pattern repeats.
+>
+> ### Gymnastics — Freestanding HS Hold 5 sec
+> A 5-second freestanding handstand hold in Week 2 is ahead of schedule. Whether it's "lucky" or not, it means the motor pattern is closer than you think. The variables that make or break a freestanding hold are fingertip pressure management (micro-corrections) and shoulder stacking. The wall holds and shoulder taps are building exactly those. Don't try to replicate the 5-second hold every session — just keep attempting kick-ups and the holds will extend naturally as shoulder endurance improves.
+>
+> ### Accessories — Peterson Step-Down Progress
+> The adjustment (8 kg KB, step lowered to 10-15 cm) is producing exactly the right result: no pain, controlled descent, longer eccentric hold on the left. This is the rehab protocol working as intended — dose the load to the current capacity of the tissue, accumulate quality reps, and progress when it's pain-free. Next step when ready: stay at 10-15 cm but increase the hold to 4-5 seconds, or increase to 10 kg KB at the same height. One variable at a time.
+>
+> **90/90 hip rotation difficulty** is consistent with the hamstring tightness and hip mobility limitation identified in Wed PM. The wiggling/bottom-shifting is a compensation for insufficient internal rotation range — the hip can't rotate far enough, so the pelvis moves to create the illusion of rotation. This will improve with consistent exposure. Keep doing it twice per week, own whatever range you have, and focus on keeping the torso tall rather than forcing the legs further.
+>
+> ### End-of-Week Observations
+> - **Sleep matters.** You felt the 6.5 hr night clearly — reduced proprioception, dull body feedback. Olympic lifts require the nervous system to fire at full speed; when sleep-deprived, the motor patterns still work but the feedback loop is muted. Aim for 7.5+ hr on training days.
+> - **100% completion.** All warm-up, primary, secondary, gymnastics, and accessories completed. No skipped work. On a day with reduced sleep and accumulated 4-day fatigue, that's discipline.
+> - **Left knee 5/5.** Best end-of-week reading. Handled snatch, squat clean, jerk, and Peterson step-downs with zero pain. The combination of lowered step-down difficulty and improved dip mechanics (from the clean) contributed.
+
+
+> [!tip] See also: [[Week 2 - Summary & Diagnosis]]

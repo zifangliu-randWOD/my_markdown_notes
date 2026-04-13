@@ -378,17 +378,19 @@
 ---
 
 > [!note] Week 2 Reflection
-> **Overall feel:**
+> **Overall feel:** Strong week despite compressed 4-day schedule (Mon holiday). ~90% compliance, up from ~75% in Week 1. The Wed PM supplementary session rescued unilateral work that had been missed for 2 weeks.
 >
-> **What went well:**
+> **What went well:** Squat-receive cue embedded (~100% of snatches caught in full squat — up from 0% in Week 1). Snatch complex RPE dropped from 7-7.5 to 6.5 despite adding load and a pause. Push jerk on target at RPE 6-6.5. BSS completed for the first time in the program. Peterson step-down protocol correctly dosed (lowered step, no pain). 5-second freestanding handstand hold — ahead of schedule.
 >
-> **What needs attention:**
+> **What needs attention:** Tempo squat RPE still elevated (8-8.5 at 115 kg, target 6-7) — breathing strategy fix prescribed but untested. Jerk dip mechanics: forward COM drift causing bilateral knee pain. Snatch bar path refinement: bar drifting from thigh, rolling to palm at catch. Wednesday box sessions keep dropping BSS. Sleep quality (6.5 hr night noticeably affected proprioception).
 >
-> **Left knee status:**
+> **Left knee status:** Stable, avg 4.6/5. Pain only in two specific contexts: too-high Peterson step-downs (resolved) and forward-biased jerk dip (mechanics issue). Not load-limited at current percentages. BSS 3x10 @ 12 kg with no pain or asymmetry.
 >
-> **Front rack / thoracic progress:**
+> **Front rack / thoracic progress:** No limiting effect at 72-77% loads. Jerk grip exploration promising (wider grip felt good) but limited by hand repositioning under load from clean catch. Lumbar-pelvic constraint identified at front squat bottom — related to hamstring tightness, addressed with 90/90 breathing.
 >
-> **Adjustments for next week:**
+> **Adjustments for next week:** Back squat breathing fix (breathe between reps at top). Deadlift 156 kg → 150 kg (150 kg was RPE 8-9 in Wk2). Snatch cues: "sweep bar into hip," "knuckles to ceiling." Jerk cue: "heels heavy through the dip." Ring MU: false grip ring rows replace banded transitions. Peterson step-downs: asymmetric protocol (left 10-15 cm step, right 20 cm).
+>
+> See [[Week 2 - Summary & Diagnosis]] for full analysis.
 
 ---
 
@@ -464,8 +466,9 @@
 - Hang clean (below knee) + Squat clean: 6 x (1+1) @ 75% (105 kg)
 
 **Secondary: Deadlift**
-- Clean-grip deadlift: 5 x 5 @ 78% (156 kg)
+- Clean-grip deadlift: 5 x 5 @ 75% (150 kg)
 - Tempo: 3-0-3
+- *Adjusted from 78% (156 kg): Week 2 at 150 kg no-belt was RPE 8-9. With belt, 150 kg should be RPE 7-8 — appropriate for peak volume. If RPE 8+ by set 2, drop to 145 kg.*
 
 **Accessory Window:**
 - Bulgarian split squat: 3 x 10 each leg (heavier DB)
