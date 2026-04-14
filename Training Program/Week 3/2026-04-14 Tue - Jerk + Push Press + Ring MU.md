@@ -21,14 +21,14 @@ tags:
 
 ## Warm-up (10 min)
 
-- [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set)
-- [ ] Banded lat stretch x 45 sec each side
-- [ ] Front rack stretch with barbell x 60 sec
-- [ ] Thoracic rotation on wall x 8 each side
-- [ ] Push press with empty bar x 10
-- [ ] **Grip exploration:** Push press x 5 with grip 1 inch wider than clean grip
-- [ ] **Dip depth calibration:** 5 empty-bar jerks with tactile target (foam roller or low box behind heels — glutes lightly touch at correct depth)
-- [ ] Jerk footwork drills x 10
+- [x] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set) ✅ 2026-04-14
+- [x] Banded lat stretch x 45 sec each side ✅ 2026-04-14
+- [x] Front rack stretch with barbell x 60 sec ✅ 2026-04-14
+- [x] Thoracic rotation on wall x 8 each side ✅ 2026-04-14
+- [x] Push press with empty bar x 10 ✅ 2026-04-14
+- [x] **Grip exploration:** Push press x 5 with grip 1 inch wider than clean grip ✅ 2026-04-14
+- [x] **Dip depth calibration:** 5 empty-bar jerks with tactile target (foam roller or low box behind heels — glutes lightly touch at correct depth) ✅ 2026-04-14
+- [x] Jerk footwork drills x 10 ✅ 2026-04-14
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -69,12 +69,12 @@ Push jerk: 6 x 3 @ 75% (90 kg)
 
 | Set | Weight | Reps | RPE | Grip  | Notes |
 | --- | ------ | ---- | --- | ----- | ----- |
-| 1   | 90 kg  | /3   |     | Clean |       |
-| 2   | 90 kg  | /3   |     | Clean |       |
-| 3   | 90 kg  | /3   |     | Clean |       |
-| 4   | 90 kg  | /3   |     | Clean |       |
-| 5   | 90 kg  | /3   |     | Wide  |       |
-| 6   | 90 kg  | /3   |     | Wide  |       |
+| 1   | 90 kg  | 3/3  | 6.5 | Clean |       |
+| 2   | 90 kg  | 3/3  | 6.5 | Clean |       |
+| 3   | 90 kg  | 3/3  | 6.5 | Clean |       |
+| 4   | 90 kg  | 3/3  | 7   | Clean |       |
+| 5   | 90 kg  | 3/3  | 7   | Wide  |       |
+| 6   | 90 kg  | 3/3  | 7.5 | Wide  |       |
 
 > [!info]- Push Jerk — Mechanism & Coaching Notes (click to expand)
 >
@@ -95,6 +95,9 @@ Push jerk: 6 x 3 @ 75% (90 kg)
 >
 > **Expected RPE at 90 kg:** RPE 6.5-7.5. If sets 1-2 are 7.5+, check: is the bar traveling straight up? Is the dip going forward? If mechanics are good and it's just heavy, drop to 86 kg. No shame — this is a 4 kg jump.
 
+**Athlete Notes:**
+Made all sets. Body feedback felt blunt today — body control not as sharp as usual. Two key observations: (1) Tried to load COM to heels during dip and drive, but on some reps the COM still drifted to toes. Found that a wider stance (~5 cm outside hip width) helped keep COM more toward heels. (2) Last 3 sets used wider grip again — feels good. Overall not hard in terms of strength, but technically there's room for improvement. Left knee: mild discomfort on sets 3-5, noticeable when lowering the bar and during the drive. Right side was compensating — putting more effort during the drive phase.
+
 ---
 
 ## Secondary: Push Press
@@ -105,10 +108,10 @@ Push jerk: 6 x 3 @ 75% (90 kg)
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 65 kg  | /5   |     |       |
-| 2   | 65 kg  | /5   |     |       |
-| 3   | 70 kg  | /5   |     |       |
-| 4   | 70 kg  | /5   |     |       |
+| 1   | 65 kg  | 5/5  | 6.5 |       |
+| 2   | 65 kg  | 5/5  | 6.5 |       |
+| 3   | 70 kg  | 5/5  | 7   |       |
+| 4   | 70 kg  | 5/5  | 7   |       |
 
 > [!info]- Push Press — Mechanism & Coaching Notes (click to expand)
 >
@@ -130,13 +133,16 @@ Push jerk: 6 x 3 @ 75% (90 kg)
 >
 > **Expected RPE:** 6-7 at 65 kg, 7-8 at 70 kg. If 70 kg pushes above RPE 8, stay at 65 kg.
 
+**Athlete Notes:**
+Felt strong on push press — not hard, even at 70 kg. One issue: bar rolling in the palm during the press. Possible cause: elbows are set high in the front rack (needed for the dip), which positions the bar further back on the hand. Same right-side compensation as the jerk — relying more on right side during the drive.
+
 ---
 
 ## Gymnastics Skill: Ring Muscle-Up Progressions (5-10 min)
 
-- [ ] Deep ring dips: 3 x 8 (slow negative, 3 sec down)
-- [ ] False grip pull-up: 3 x 3 (new)
-- [ ] False grip ring rows to sternum: 3 x 5 (replaces banded transitions)
+- [x] Deep ring dips: 3 x 8 (slow negative, 3 sec down) ✅ 2026-04-14
+- [x] False grip pull-up: 3 x 3 (new) ✅ 2026-04-14
+- [x] False grip ring rows to sternum: 3 x 5 (replaces banded transitions) ✅ 2026-04-14
 
 > [!info]- Ring Muscle-Up Progressions — Coaching Notes (click to expand)
 >
@@ -155,9 +161,9 @@ Push jerk: 6 x 3 @ 75% (90 kg)
 
 ## Accessory Window (15-20 min)
 
-- [ ] Banded front rack stretch: 2 x 60 sec each side (up from 45 sec)
-- [ ] Prone Y-T-W raises: 3 x 10 each position
-- [ ] External rotation with band: 3 x 15 each arm (up from 12)
+- [x] Banded front rack stretch: 2 x 60 sec each side (up from 45 sec) ✅ 2026-04-14
+- [x] Prone Y-T-W raises: 3 x 10 each position ✅ 2026-04-14
+- [x] External rotation with band: 3 x 15 each arm (up from 12) ✅ 2026-04-14
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -174,10 +180,53 @@ Push jerk: 6 x 3 @ 75% (90 kg)
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Left knee feel (1-5, 5=no pain):
-- Jerk notes (dip depth, heels heavy cue, knee feel during dip, wider grip on sets 5-6?):
-- Push press notes (65 vs 70 kg feel, RPE?):
-- Ring MU progression notes (false grip pull-ups — could you do them? Ring rows feel?):
-- General notes:
+- [x] Session completed ✅ 2026-04-14
+- RPE (overall): 7.5 /10
+- Left knee feel (1-5, 5=no pain): 3.5 (mild discomfort on jerk sets 3-5, right-side compensation noted)
+- Jerk notes (dip depth, heels heavy cue, knee feel during dip, wider grip on sets 5-6?): COM still drifting to toes on some reps despite heel cue. Wider stance (~5 cm outside hip) helped. Wider grip on last 3 sets felt good. Left knee discomfort sets 3-5 with right-side compensation.
+- Push press notes (65 vs 70 kg feel, RPE?): 65 kg easy (RPE 6.5), 70 kg manageable (RPE 7). Bar rolling in palm — front rack elbow position trade-off. Right-side dominant.
+- Ring MU progression notes (false grip pull-ups — could you do them? Ring rows feel?): All sets completed — no specific notes.
+- General notes: Low motivation/energy day. Completed everything. Not grinding, just flat. Body control felt blunt. Technical day rather than strength day.
+
+---
+
+> [!note] Coach's Review — Day 12 (Week 3 Tuesday)
+>
+> **Push Jerk — 90 kg x 6x3 (all made, RPE 6.5-7.5)**
+> All 18 reps completed at the new weight — RPE within the 6.5-7.5 target window. The +4 kg jump from 86 kg landed cleanly from a load standpoint. This is good. The session's value is in the technical observations, not the strength numbers.
+>
+> **COM drift to toes — the wider stance finding is significant.**
+> You've been fighting the forward COM drift since Week 2 with the "heels heavy" cue. Today you found that a wider stance (~5 cm outside hip) naturally keeps COM more toward the heels. This makes mechanical sense: a wider base shortens the effective dip depth and reduces the moment arm on the knee, which means less forward knee travel needed to hit the same dip depth. It also gives the quads a more favourable angle to drive vertically rather than forward. **This is worth testing systematically.** On Wednesday's cleans and Thursday's front squats, note your natural stance width and try the +5 cm stance to see if the same effect holds across movements. If it does, we adjust your default jerk stance for Week 5 onward.
+>
+> **Left knee: 3.5/5 — a step back from yesterday's 5/5.**
+> Monday was a perfect knee day. Today, mild discomfort appeared on jerk sets 3-5 — specifically during the dip (lowering) and drive phase. The right-side compensation you noticed (right side putting more effort) is the body protecting the left knee by shifting load. This is the exact pattern identified in the program overview: "pain with vertical torso/knee-forward positions under heavy load." The jerk dip is the most knee-forward overhead position in the program.
+>
+> **Connecting the dots:** The COM forward drift and the knee discomfort are likely the same issue. When COM drifts to the toes, more force goes through the front of the knee — exactly where your patellar tracking issue lives. The wider stance finding may help both problems simultaneously: less forward knee travel = less anterior knee loading = less pain = less right-side compensation. This is a hypothesis worth tracking.
+>
+> **The protocol for the remaining jerk sessions this week:** If Thursday or Friday includes any jerk work, start with the wider stance from rep 1. Don't wait for discomfort to appear before switching.
+>
+> **Push Press — 65-70 kg, RPE 6.5-7 (within target)**
+> Strong and manageable. The step up from strict press (52 kg) to push press (70 kg) is working as intended — heavier overhead lockout practice with leg assistance.
+>
+> **Bar rolling in the palm — this is a front rack trade-off, not an error.** You identified it correctly: elbows need to be high enough for the dip (otherwise the bar crashes forward), but high elbows shift the bar from the fingers toward the palm. When you drive hard, the bar rolls outward in the palm because there's less finger control. This is normal at this stage. The fix isn't to lower the elbows (that breaks the dip) — it's to gradually improve thoracic extension so the elbows can be high AND the bar still sits in the fingers. That's what the front rack stretching and thoracic mobility work is building toward. In the meantime, focus on gripping the bar harder just before the dip — a conscious squeeze locks the bar position before the explosive phase.
+>
+> **Ring MU progressions — completed, no notes.**
+> Full compliance but no feedback on the new movements (false grip pull-ups and ring rows to sternum). Tomorrow I'd like to know: could you complete the false grip pull-ups unassisted? Did the ring rows to sternum feel like a better fit than the banded transitions? Any grip fatigue?
+>
+> **The "flat day" observation:**
+> You described feeling "not excited," "body feedback blunt," and "body control not ideal." This is Day 2 of peak volume week, coming off an RPE 8 Monday with 18 snatch reps and 25 tempo squat reps. Accumulated fatigue is real. The fact that you completed every set, stayed within RPE targets, and still gathered useful technical observations is exactly what a good training day looks like on a flat day. Not every session needs to feel sharp — showing up and executing the work is the job. The deload in Week 4 will clear this fatigue.
+>
+> **Cross-session trend (Week 3 Mon → Tue):**
+>
+> | Metric | Mon (Day 11) | Tue (Day 12) | Trend |
+> | --- | --- | --- | --- |
+> | Primary RPE | 6.5-8 (snatch) | 6.5-7.5 (jerk) | Both within target |
+> | Left knee | 5/5 | 3.5/5 | Dropped — jerk dip loading |
+> | Right compensation | Not noted | Noted in both jerk & PP | New flag |
+> | Compliance | 100% | 100% | Full compliance streak |
+> | Energy/motivation | Good (post-rest) | Flat | Peak volume fatigue accumulating |
+>
+> **Programming adjustments:**
+> - No load changes needed — RPE is on target for both lifts.
+> - **Wednesday note:** Tomorrow is clean + deadlift day. Monitor the left knee during clean receiving position. If it tracks at 3.5 or lower again, consider reducing the deadlift from 5x5 to 4x5 to manage total lower-body volume. The clean itself (105 kg) shouldn't aggravate the knee — Friday Week 2's C&J at 95 kg had zero knee pain from the squat clean position. But accumulated fatigue from today could change that.
+> - **Stance width experiment:** Try the wider stance (+5 cm) on Wednesday's cleans and note the effect. If it helps there too, we have a cross-movement pattern to build on.

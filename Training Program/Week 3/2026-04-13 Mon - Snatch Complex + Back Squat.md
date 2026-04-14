@@ -21,12 +21,12 @@ tags:
 
 ## Warm-up (10 min)
 
-- [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set)
-- [ ] Thoracic foam roll (2 min)
-- [ ] Banded pull-aparts x 15
-- [ ] PVC snatch grip BTN press x 10
-- [ ] OHS with empty bar x 5
-- [ ] Snatch balance x 5
+- [x] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set) ✅ 2026-04-13
+- [x] Thoracic foam roll (2 min) ✅ 2026-04-13
+- [x] Banded pull-aparts x 15 ✅ 2026-04-13
+- [x] PVC snatch grip BTN press x 10 ✅ 2026-04-13
+- [x] OHS with empty bar x 5 ✅ 2026-04-13
+- [x] Snatch balance x 5 ✅ 2026-04-13
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -60,12 +60,12 @@ Complex: Hang snatch (below knee) + Pause snatch (2 sec at knee) + Snatch from f
 
 | Set | Weight | Made? | RPE | Notes |
 | --- | ------ | ----- | --- | ----- |
-| 1   | 79 kg  |       |     |       |
-| 2   | 79 kg  |       |     |       |
-| 3   | 79 kg  |       |     |       |
-| 4   | 79 kg  |       |     |       |
-| 5   | 79 kg  |       |     |       |
-| 6   | 79 kg  |       |     |       |
+| 1   | 80 kg  | yes   | 6.5 |       |
+| 2   | 80 kg  | yes   | 6.5 |       |
+| 3   | 80 kg  | yes   | 7   |       |
+| 4   | 80 kg  | yes   | 7.5 |       |
+| 5   | 80 kg  | yes   | 7.5 |       |
+| 6   | 80 kg  | yes   | 8   |       |
 
 > [!info]- Snatch Complex — Mechanism & Coaching Notes (click to expand)
 >
@@ -94,6 +94,9 @@ Complex: Hang snatch (below knee) + Pause snatch (2 sec at knee) + Snatch from f
 > - Watch for the bar rolling to the palm on later sets when you're fatigued — that's when the hook grip cue matters most.
 > - After the weekend rest, your body should feel fresher than Friday's session. Use that freshness to really nail the below-knee position.
 
+**Athlete Notes:**
+No 1 kg plates available — all sets done at 80 kg (76% vs prescribed 75%). Made all 6 sets, felt strong overall. Tried to maintain hook grip through the full complex but found it reflexive to switch to open grip during the transition to overhead — managed to keep hook grip on some reps but not all. No bar rolling sensation this session and no forward stepping to catch the bar. Last 2 sets were noticeably harder than the first 4. No particular technical errors observed.
+
 ---
 
 ## Secondary: Back Squat
@@ -106,11 +109,11 @@ Complex: Hang snatch (below knee) + Pause snatch (2 sec at knee) + Snatch from f
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 110 kg | /5   |     |       |
-| 2   | 110 kg | /5   |     |       |
-| 3   | 110 kg | /5   |     |       |
-| 4   | 110 kg | /5   |     |       |
-| 5   | 110 kg | /5   |     |       |
+| 1   | 110 kg | 5/5  | 7   |       |
+| 2   | 110 kg | 5/5  | 7   |       |
+| 3   | 110 kg | 5/5  | 7   |       |
+| 4   | 110 kg | 5/5  | 7   |       |
+| 5   | 110 kg | 5/5  | 7.5 |       |
 
 > [!info]- Tempo Back Squat — Mechanism & Coaching Notes (click to expand)
 >
@@ -138,15 +141,18 @@ Complex: Hang snatch (below knee) + Pause snatch (2 sec at knee) + Snatch from f
 >
 > **Expected RPE at 110 kg with proper breathing:** RPE 6-7. Each set of 5 with the 3-1-0 tempo should take ~25-30 seconds of work, plus 5-10 seconds of breathing at the top between reps. Total time under tension per set: ~35-40 seconds.
 
+**Athlete Notes:**
+Lower weight and breathing technique change both helped significantly — feels much better than last week. Noticed that looking up during the drive makes the rep feel easier than looking straight ahead. Question: should I keep doing this, or does it disrupt neutral torso posture? Also, where should I look during the descent — downward or straight ahead? Overall, a clear improvement after implementing the breathing strategy fix.
+
 ---
 
 ## Accessory Window (15-20 min)
 
-- [ ] Peterson step-downs: 3 x 12 each leg
+- [x] Peterson step-downs: 3 x 12 each leg ✅ 2026-04-13
   - **Left leg:** 10-15 cm step, 8-10 kg KB, vertical torso target
   - **Right leg:** 20 cm step, 8-10 kg KB, full ROM
-- [ ] Spanish squat iso hold: 3 x 40 sec
-- [ ] Thoracic extension over foam roller: 3 x 10 breaths
+- [x] Spanish squat iso hold: 3 x 40 sec ✅ 2026-04-13
+- [x] Thoracic extension over foam roller: 3 x 10 breaths ✅ 2026-04-13
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -165,9 +171,45 @@ Complex: Hang snatch (below knee) + Pause snatch (2 sec at knee) + Snatch from f
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Left knee feel (1-5, 5=no pain):
-- Snatch complex notes (below-knee hang feel, bar path, did sweep cue help?):
-- Squat notes (breathing fix tested? RPE comparison to Week 2?):
-- General notes:
+- [x] Session completed ✅ 2026-04-13
+- RPE (overall): 8 /10
+- Left knee feel (1-5, 5=no pain): 5 (no pain reported across all movements)
+- Snatch complex notes (below-knee hang feel, bar path, did sweep cue help?): All 6 sets made at 80 kg. No bar rolling, no forward stepping. Hook grip maintained on some reps but reflexive release to open grip during overhead transition. Last 2 sets harder. Strong session.
+- Squat notes (breathing fix tested? RPE comparison to Week 2?): Breathing fix confirmed effective — RPE 7-7.5 at 110 kg vs RPE 8-8.5 at 115 kg in Week 2. Eye gaze question raised (looking up feels easier).
+- General notes: First session after weekend rest. Full compliance — all warm-up, primary, secondary, and accessories completed. 100% session.
+
+---
+
+> [!note] Coach's Review — Day 11 (Week 3 Monday)
+>
+> **Snatch Complex — 80 kg x 6 sets (all made)**
+> Strong start to peak volume week. Using 80 kg instead of 79 kg is perfectly fine — that's 76% vs prescribed 75%, negligible difference. RPE ranged 6.5-8 across 6 sets, which tracks well against the 6.5-7.5 target. Set 6 at RPE 8 is expected — 18 total snatches at this complexity is the highest snatch volume in a single session so far, and accumulated fatigue on the last 2 sets is normal, not a red flag.
+>
+> **Hook grip transition:** Your instinct is correct — this is fine. The reflexive release from hook grip to open grip during the pull-under is extremely common. What matters is: (1) the bar isn't rolling to the palm causing a forward catch — you confirmed no rolling, and (2) you're not stepping forward to save the bar — also confirmed. Both of these were issues on Week 2 Friday. The fact that they're gone at a higher weight (80 vs 79 kg) with a harder complex (3-position vs 2-position) is genuine progress. Keep practicing hook grip maintenance on rep 1 (the hang snatch) as prescribed, but don't stress about losing it on the other variants. The goal is to build the habit gradually — full hook-through-catch will come over weeks, not days.
+>
+> **Back Squat — 110 kg x 5x5 (all made, RPE 7-7.5)**
+> This is the headline result today. Week 2: 115 kg, 4x6, RPE 8-8.5. Week 3: 110 kg, 5x5, RPE 7-7.5. The breathing fix accounts for the majority of that RPE drop. You went from "barely finishing sets" to "could do more reps" at a slightly lower weight. The mystery of the elevated tempo squat RPE is solved — it was primarily a breathing strategy issue, not a load calibration or bar position problem. This means we can start progressing load again in Week 5 (after the deload) with confidence.
+>
+> **Eye gaze during squats:** Good instinct to question this. Looking up during the drive is a common compensation — it hyperextends the cervical spine, which reflexively engages the upper back extensors and creates a momentary feeling of "easier." The problem: it pulls the spine out of neutral alignment under load. At 110 kg this is low-risk, but as loads climb toward 150+ kg, cervical hyperextension under heavy load creates unnecessary shear force and can mask thoracic weakness.
+>
+> **The correct gaze protocol for low-bar tempo back squats:**
+> - **Descent:** pick a spot on the floor about 2-3 meters ahead of you. Keep your eyes on that spot as you descend. This maintains a neutral neck position that follows the natural torso angle.
+> - **Bottom/pause:** same spot. Don't look down further — just hold the gaze.
+> - **Drive up:** same spot. As your torso rises, your gaze will naturally rise with it. **Do not deliberately look up** — let the gaze follow the torso angle. If you feel the urge to look up, it usually means your chest is dropping and your body is trying to compensate. The fix isn't the eyes — it's driving the chest up through the sticking point.
+> - The cue: **"chest up, eyes follow"** — lead with the chest, and the gaze follows naturally.
+>
+> Try this on Tuesday's session and compare. If it feels harder, that's the compensation being removed — which means you're now doing the work with the correct muscles.
+>
+> **Cross-session trend (Week 2 → Week 3 Day 1):**
+>
+> | Metric | Week 2 Tue | Week 3 Mon | Trend |
+> | --- | --- | --- | --- |
+> | Snatch complex RPE | 6.5 | 6.5-8 | Slightly higher — harder complex (3-pos vs 2-pos), +4 kg |
+> | Snatch bar rolling | Noted on Fri | None today | Resolved |
+> | Squat RPE | 8-8.5 @ 115 kg | 7-7.5 @ 110 kg | Breathing fix confirmed |
+> | Left knee | 4/5 | 5/5 | Improving |
+> | Compliance | 90% | 100% | Full session |
+>
+> **No programming adjustments needed.** RPE is within target range for both lifts. The 80 kg snatch weight can stay as-is for the week — no need to change the remaining sessions since you were 1 kg over anyway. The breathing fix is validated; keep using it for all remaining tempo squat sessions.
+>
+> **Watch for this week:** Peak volume means accumulated fatigue will build through the week. Tuesday's jerk session at 90 kg (up from 86 kg) and Wednesday's clean at 105 kg will test recovery. Monitor sleep and overall energy — if Thursday/Friday RPE spikes, that's the volume catching up, and the Week 4 deload is exactly where it needs to be.
