@@ -57,14 +57,22 @@ Hang clean (below knee) + Squat clean: 6 x (1+1) @ 75% (105 kg)
 - Focus: fast elbows in the turnover, squat-receive on both reps
 - **Squat clean every rep** — no power cleans. Even if you can power it, ride it down.
 
+> [!warning] Box Session Substitution
+> Went to the box. Prescribed complex was replaced by box programming: **hang power clean + power clean** complex, ascending to a max. 9 sets total.
+
 | Set | Weight | Made? | RPE | Notes |
 | --- | ------ | ----- | --- | ----- |
-| 1   | 105 kg |       |     |       |
-| 2   | 105 kg |       |     |       |
-| 3   | 105 kg |       |     |       |
-| 4   | 105 kg |       |     |       |
-| 5   | 105 kg |       |     |       |
-| 6   | 105 kg |       |     |       |
+| 1   | 80 kg  | Yes   |     | HPC + PC — warm-up |
+| 2   | 80 kg  | Yes   |     | HPC + PC |
+| 3   | 90 kg  | Yes   |     | HPC + PC |
+| 4   | 100 kg | Yes   |     | HPC + PC |
+| 5   | 100 kg | Yes   |     | HPC + PC |
+| 6   | 110 kg | Yes   |     | HPC + PC |
+| 7   | 120 kg | Yes   |     | HPC + PC |
+| 8   | 130 kg | Fail  |     | Made both reps but caught as squat clean, not power |
+| 9   | 125 kg | Yes*  |     | Made both reps but caught as squat clean, not power |
+
+**Technical finding:** When weight increases, tendency to look downward and lose "chest up" cue. Back rounds on the catch, making the receiving position harder. This is the same pattern flagged in snatch work — eyes/chest dropping under heavy load.
 
 > [!info]- Clean Complex — Mechanism & Coaching Notes (click to expand)
 >
@@ -98,13 +106,18 @@ Hang clean (below knee) + Squat clean: 6 x (1+1) @ 75% (105 kg)
 - If RPE exceeds 8 by set 2, drop to 145 kg for remaining sets.
 - Straps are fine if grip becomes the limiter.
 
+> [!warning] Modified from prescription
+> Prescribed: 5x5 @ 150 kg tempo. Actual: 3x3 tempo clean DL + 4x1 below-knee pause DL. Total pulling reps: 13 (vs prescribed 25).
+
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 150 kg | /5   |     |       |
-| 2   | 150 kg | /5   |     |       |
-| 3   | 150 kg | /5   |     |       |
-| 4   | 150 kg | /5   |     |       |
-| 5   | 150 kg | /5   |     |       |
+| 1   | 150 kg | 3/3  | 8   | Clean-grip tempo DL (3 up / 3 down) |
+| 2   | 155 kg | 3/3  | 8   | Clean-grip tempo DL (3 up / 3 down) |
+| 3   | 155 kg | 3/3  | 8.5 | Clean-grip tempo DL (3 up / 3 down) |
+| 4   | 150 kg | 1    | 7.5 | Below-knee pause DL |
+| 5   | 150 kg | 1    | 7.5 | Below-knee pause DL |
+| 6   | 150 kg | 1    | 7.5 | Below-knee pause DL |
+| 7   | 150 kg | 1    | 7.5 | Below-knee pause DL |
 
 > [!info]- Clean-Grip Deadlift (Tempo) — Mechanism & Coaching Notes (click to expand)
 >
@@ -139,9 +152,10 @@ Hang clean (below knee) + Squat clean: 6 x (1+1) @ 75% (105 kg)
 
 ## Accessory Window (15-20 min)
 
-- [ ] Bulgarian split squat: 3 x 10 each leg (15 kg KB each hand)
-- [ ] Single-leg RDL: 3 x 10 each leg (12-15 kg KB)
-- [ ] Banded hip flexor stretch: 2 x 60 sec each side (up from 45 sec)
+- [ ] Bulgarian split squat: 3 x 10 each leg (15 kg KB each hand) ❌ **Missed — moved to PM session**
+- [ ] Single-leg RDL: 3 x 10 each leg (12-15 kg KB) ❌ **Missed — moved to PM session**
+- [ ] Banded hip flexor stretch: 2 x 60 sec each side (up from 45 sec) ❌ **Missed — moved to PM session**
+- [x] Hanging straight leg hold (abs): 5 x 20 sec on / 40 sec rest *(added, not prescribed)*
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -162,10 +176,78 @@ Hang clean (below knee) + Squat clean: 6 x (1+1) @ 75% (105 kg)
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Left knee feel (1-5, 5=no pain):
-- Clean notes (hang clean feel, squat clean receiving position, elbow speed):
-- Deadlift notes (belt used? tempo feel, RPE with belt vs Week 2 without?):
-- BSS notes (15 kg feel, left vs right?):
-- General notes:
+- [x] Session completed (box session + deadlift)
+- RPE (overall): 7.5-8 /10
+- Left knee feel (1-5, 5=no pain): 5 (no discomfort)
+- Clean notes: Box session — HPC + PC complex ascending to max. 120 kg made cleanly as power. 130 kg failed (caught as squat clean, not power). 125 kg made but caught as squat clean. **Key finding:** chest drops and eyes look down when weight increases, causing back rounding on the catch. Same pattern as snatch — needs "chest up, eyes forward" cue under heavy load.
+- Deadlift notes: 3x3 tempo clean DL at 150-155 kg (RPE 8-8.5), then 4x1 below-knee pause DL at 150 kg (RPE 7.5). No belt mentioned. Lower volume than prescribed (13 vs 25 reps) but manageable intensity. Below-knee pause variant is good positional work.
+- BSS notes: **Missed — moved to PM supplementary session.**
+- General notes: Easy-feeling session overall. No knee or elbow discomfort — best knee day of the week (5/5 for third time). Missed BSS, SL-RDL, and hip flexor stretch from accessories. PM supplementary session planned to cover missed work.
+
+---
+
+> [!note] Coach's Review — Day 13 (Week 3 Wednesday)
+>
+> **Clean Complex — Box Session Substitution: HPC + PC ascending to max**
+> Third consecutive Wednesday at the box doing power cleans instead of the prescribed squat clean complex. The program prescribed hang clean (below knee) + squat clean at 105 kg for 6 sets of positional work. What you did instead was a max-effort ascending complex — completely different stimulus. Let's unpack both sides.
+>
+> **The good news — 120 kg power clean complex is a solid number.** You cleaned 120 kg as a hang power clean + power clean in a single complex. That's 86% of your 140 kg clean max, done as a power catch from the hang. Your power clean ceiling is clearly well above what the program has tested so far. At 130 kg (93%), you made both reps but couldn't keep them as power — the catch defaulted to a squat clean. This tells us your power clean max for this complex sits between 120-125 kg.
+>
+> **The concern — squat clean practice gap is growing.** Three weeks into the program, every Wednesday has been power cleans at the box instead of the prescribed squat cleans. The program specifically asks for squat cleans because:
+> 1. Your snatch-to-squat ratio (55%) suggests receiving position weakness, not pulling weakness
+> 2. Power cleans reinforce pulling higher instead of pulling under — the opposite of what Phase 1 is building
+> 3. As loads climb past 130 kg in Phase 2, you won't be able to power catch — the squat receiving position must be trained now
+>
+> I'm not going to ask you to skip the box sessions — they clearly serve a social and training role. But **Friday's C&J session this week must include squat cleans, not power cleans.** Non-negotiable. The program needs at least 1 squat clean session per week in Phase 1.
+>
+> **The chest/eyes dropping finding — this is the same pattern across lifts.**
+> You noticed that when the clean gets heavy, you lose the "chest up" cue and your eyes look down, which rounds the back and makes the catch harder. This is exactly what was discussed for the snatch on Monday — the "chest up, eyes follow" cue applies identically to the clean:
+> - **During the pull:** pick a spot on the wall at eye level. Keep your chest aimed at that spot through the second pull.
+> - **At extension:** the cue is "chest to the ceiling" — think about pointing your sternum upward as you extend. If your eyes drop, your sternum follows, your upper back rounds, and the bar crashes forward.
+> - **On the catch:** elbows whip through and UP. The front rack position demands an upright torso — if the back is already rounded from the pull, the elbows can't get high enough and the bar sits forward.
+>
+> This is a positional habit, not a strength limitation. At 120 kg (86%), you have the strength to catch it. The rounding costs you bar position on the catch. Practice the "chest up, eyes forward" cue starting from 80 kg warm-up sets — don't wait until it's heavy to remember.
+>
+> **Deadlift — 3x3 tempo + 4x1 below-knee pause (modified from 5x5 tempo)**
+> You did 13 total pulling reps vs the prescribed 25. The volume is lower, but the quality is fine:
+> - Tempo clean DL at 150-155 kg, RPE 8-8.5 — this is in the right zone. The 155 kg on sets 2-3 is a slight progression from the prescribed 150 kg and shows the posterior chain is responding.
+> - Below-knee pause DL 4x1 at 150 kg, RPE 7.5 — good positional reinforcement. The pause at the hardest point of the pull (below knee, where you tend to lose chest position on cleans) is exactly the right accessory for the chest-dropping issue you identified.
+>
+> **Did you use a belt?** The Day Focus specifically called for belt use this week (Week 2 no-belt was RPE 8-9; belt should bring it to 7-8). Your RPE was 8-8.5 on the tempo sets — if that's with belt, it's on target. If without belt, that's the same as last week and the belt cue was missed. Let me know.
+>
+> **Accessories — BSS missed again.**
+> This is the pattern I need to flag directly. BSS compliance across the program:
+>
+> | Week | Day | BSS Prescribed? | BSS Done? |
+> | --- | --- | --- | --- |
+> | 1 | Wed | Yes | No — box session |
+> | 2 | Wed AM | Yes | No — box session |
+> | 2 | Wed PM | Yes | **Yes** — supplementary session |
+> | 2 | Fri | No | No |
+> | 3 | Mon | No | No |
+> | 3 | Wed AM | Yes | No — box session |
+> | 3 | Wed PM | Planned | **TBD** |
+>
+> Out of 4 scheduled BSS sessions, you've completed 1 — and only because I created a supplementary session to force it. The left knee asymmetry correction is one of the 5 program priorities (non-negotiable, per the priority stack). At this rate, by Week 8 test week, you'll have done maybe 4-5 BSS sessions instead of the planned 8-10. That's not enough to see measurable change.
+>
+> The PM supplementary session is ready. **The BSS must happen today.** See [[2026-04-15 Wed PM - Supplementary Unilateral + Mobility]].
+>
+> **The abs work (hanging straight leg hold)** — good addition. Core endurance supports the upright torso position under heavy cleans. Not prescribed but useful. Keep doing this if you have time.
+>
+> **Cross-session trend (Week 3 Mon → Tue → Wed):**
+>
+> | Metric | Mon (Day 11) | Tue (Day 12) | Wed (Day 13) | Trend |
+> | --- | --- | --- | --- | --- |
+> | Primary RPE | 6.5-8 (snatch) | 6.5-7.5 (jerk) | 7.5-8 (clean) | Stable |
+> | Left knee | 5/5 | 3.5/5 | 5/5 | Jerk dip is the aggravator |
+> | Compliance | 100% | 100% | ~60% (missed accessories) | Box sessions = missed accessories |
+> | Energy | Good | Flat | Easy | Recovering mid-week |
+> | Squat clean reps | 0 | 0 | 0 | **Zero squat cleans in Week 3 so far** |
+>
+> **Key pattern:** The knee is fine on pulling/hinge days (Mon, Wed) and only flares on vertical-torso knee-forward positions (Tue jerk dip). This is consistent with the patellar tracking diagnosis. Thursday's front squat + OHS will be the next knee test.
+>
+> **Programming adjustments:**
+> - No load changes needed for Thursday/Friday — RPE is on target across all lifts.
+> - **Friday C&J: squat cleans are mandatory.** I'll note this in the Friday daily note if one exists.
+> - PM supplementary session created for today's missed accessories.
+> - The wider stance experiment from Tuesday's jerk — did you try it on the cleans today? If not, test it Thursday on front squats.

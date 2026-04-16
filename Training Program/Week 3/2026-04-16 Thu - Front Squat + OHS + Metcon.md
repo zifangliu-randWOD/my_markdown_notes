@@ -21,12 +21,12 @@ tags:
 
 ## Warm-up (10 min)
 
-- [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set)
-- [ ] Thoracic foam roll (2 min)
-- [ ] Front rack stretch with barbell x 60 sec
-- [ ] Goblet squat x 10 (light KB)
-- [ ] OHS with empty bar x 5
-- [ ] Snatch grip push press behind neck x 5
+- [x] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set) ✅ 2026-04-16
+- [x] Thoracic foam roll (2 min) ✅ 2026-04-16
+- [x] Front rack stretch with barbell x 60 sec ✅ 2026-04-16
+- [x] Goblet squat x 10 (light KB) ✅ 2026-04-16
+- [x] OHS with empty bar x 5 ✅ 2026-04-16
+- [x] Snatch grip push press behind neck x 5 ✅ 2026-04-16
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -60,11 +60,11 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 107 kg | /5   |     |       |
-| 2   | 107 kg | /5   |     |       |
-| 3   | 107 kg | /5   |     |       |
-| 4   | 107 kg | /5   |     |       |
-| 5   | 107 kg | /5   |     |       |
+| 1   | 107 kg | 5/5  | 6.5 |       |
+| 2   | 107 kg | 5/5  | 6.5 |       |
+| 3   | 107 kg | 5/5  | 7   |       |
+| 4   | 107 kg | 5/5  | 7.5 |       |
+| 5   | 107 kg | 5/5  | 8.5 |       |
 
 > [!info]- Tempo Front Squat — Mechanism & Coaching Notes (click to expand)
 >
@@ -88,6 +88,8 @@ tags:
 >
 > **Expected RPE at 107 kg (3-0-0):** RPE 7-7.5. If it's 8+ on set 1, drop to 100 kg immediately — don't push through 5 sets at that RPE.
 
+note: definitely feel better with the lumbar-pelvic region, the constrain feeling is not exist during this workout, not sure of the warm up or the wider stance, but i do feel that during the process, the descending control is much more smooth and easier, and i can stop at the thigh parallel to ground level, before i cant stop at this level this easy, due the lumbar-pelvic region stress; this time even with tempo, i can still manage it, feel great about this. and 2. the one issue is the my view point, i feel i cant find a good focus point so that i can keep my torso up, thigh, for a long period of time. and for some reps i do feel the bar is dropping, wraist takes up quite a bit of pressure.  other than this, everything else is good. 
+
 ---
 
 ## Secondary: Overhead Squat
@@ -99,10 +101,10 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 68 kg  | /5   |     |       |
-| 2   | 68 kg  | /5   |     |       |
-| 3   | 68 kg  | /5   |     |       |
-| 4   | 68 kg  | /5   |     |       |
+| 1   | 68 kg  | 5/5  | 7   |       |
+| 2   | 68 kg  | 5/5  | 7   |       |
+| 3   | 68 kg  | 5/5  | 7   |       |
+| 4   | 68 kg  | 5/5  | 8   |       |
 
 > [!info]- Overhead Squat — Mechanism & Coaching Notes (click to expand)
 >
@@ -125,6 +127,8 @@ tags:
 > **After the front squats:**
 > Your quads are pre-fatigued. The OHS loads the quads differently (more evenly distributed between quads, posterior chain, and overhead stabilizers), so this should feel lighter than the front squats. If overhead stability degrades by set 3-4, the shoulders are fatigued from Tuesday's push press and jerk work — that's expected at peak volume.
 
+note: overall this feels good, and there are couple of things to notice, 1. i used 70kg for the entire workout(not able find a 8kg for todays workout), and 2. for the first sets, i missed the cue of push through the bar, and grispped the bar quit tight, and feel a little pain for medial side so the elbow, for the rest of 3 sets, i did hook grip, and tried to push the bar through, and this feel goes away, and thats greate. 3. the last thing, is familiar with the front squat, i am a little lost with eye focus point, not sure where to look at. but overall i feel stable, and comfident. 
+
 ---
 
 ## Metcon (15 min cap)
@@ -133,8 +137,8 @@ tags:
 - Wall balls (9 kg / 20 lb, 10 ft target)
 - Toes-to-bar
 
-- [ ] Completed
-- Time: _____
+- [x] Completed ✅ 2026-04-16
+- Time: 5min
 
 > [!info]- Metcon — Coaching Notes (click to expand)
 >
@@ -149,13 +153,15 @@ tags:
 >
 > **Expected RPE:** 7-8 on the cardiovascular side. Muscular RPE should be low — these are light loads. If you're still breathing hard after 5 minutes post-metcon, the conditioning has decayed more than expected — note it but don't worry about it.
 
+note: easy 5min, rpe 6.5. 
+
 ---
 
 ## Accessory Window (15-20 min)
 
-- [ ] Thoracic extension over bench with barbell: 3 x 10 breaths
-- [ ] Ankle dorsiflexion stretch (wall): 2 x 30 sec each side
-- [ ] Banded overhead distraction: 2 x 30 sec each arm
+- [x] Thoracic extension over bench with barbell: 3 x 10 breaths ✅ 2026-04-16
+- [x] Ankle dorsiflexion stretch (wall): 2 x 30 sec each side ✅ 2026-04-16
+- [x] Banded overhead distraction: 2 x 30 sec each arm ✅ 2026-04-16
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -172,10 +178,12 @@ tags:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
+- [x] Session completed ✅ 2026-04-16
+- RPE (overall): 7.5 /10
 - Left knee feel (1-5, 5=no pain):
 - Front squat notes (107 kg feel, breathing fix, butt wink?):
 - OHS notes (overhead stability, knuckles cue?):
 - Metcon time and feel:
 - General notes:
+
+overall feel greate, nothing particularly difficult. 

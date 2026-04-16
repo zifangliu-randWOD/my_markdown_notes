@@ -107,6 +107,7 @@ Suggested build-up: empty bar → 40 → 50 → 60 → 70 → 76 → 80 → 84 k
 - Focus: smooth transition from clean to jerk, reset feet between
 - **Jerk grip experiment:** On sets 3-4, try **cleaning with the wider grip** (Option A from Week 2 review). This avoids the hand-repositioning problem. On sets 1-2 and 5, use standard clean grip.
 - **Dip cue: "heels heavy through the dip"**
+- **SQUAT CLEAN every rep.** All 3 Wednesday box sessions have been power cleans — zero squat clean reps in Week 3 so far. The program needs at least 1 squat clean session per week. Ride every clean to a full front squat, even if you can power it. This is non-negotiable.
 
 | Set | Weight | Made? | Grip  | Notes |
 | --- | ------ | ----- | ----- | ----- |
