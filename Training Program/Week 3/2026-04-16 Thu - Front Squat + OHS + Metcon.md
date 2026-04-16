@@ -88,7 +88,8 @@ tags:
 >
 > **Expected RPE at 107 kg (3-0-0):** RPE 7-7.5. If it's 8+ on set 1, drop to 100 kg immediately — don't push through 5 sets at that RPE.
 
-note: definitely feel better with the lumbar-pelvic region, the constrain feeling is not exist during this workout, not sure of the warm up or the wider stance, but i do feel that during the process, the descending control is much more smooth and easier, and i can stop at the thigh parallel to ground level, before i cant stop at this level this easy, due the lumbar-pelvic region stress; this time even with tempo, i can still manage it, feel great about this. and 2. the one issue is the my view point, i feel i cant find a good focus point so that i can keep my torso up, thigh, for a long period of time. and for some reps i do feel the bar is dropping, wraist takes up quite a bit of pressure.  other than this, everything else is good. 
+**Athlete Notes:**
+Lumbar-pelvic region feels significantly better — the constraint feeling was absent during this workout. Not sure if it's the warm-up or the wider stance, but the descending control is much smoother. Can now stop at thigh-parallel level easily, which wasn't possible before due to lumbar-pelvic stress — even with tempo, manageable. Two issues: (1) eye focus point — can't find a good spot to look at to keep torso upright and tight for the full set, (2) bar dropping on later reps — wrist takes significant pressure. 
 
 ---
 
@@ -127,7 +128,8 @@ note: definitely feel better with the lumbar-pelvic region, the constrain feelin
 > **After the front squats:**
 > Your quads are pre-fatigued. The OHS loads the quads differently (more evenly distributed between quads, posterior chain, and overhead stabilizers), so this should feel lighter than the front squats. If overhead stability degrades by set 3-4, the shoulders are fatigued from Tuesday's push press and jerk work — that's expected at peak volume.
 
-note: overall this feels good, and there are couple of things to notice, 1. i used 70kg for the entire workout(not able find a 8kg for todays workout), and 2. for the first sets, i missed the cue of push through the bar, and grispped the bar quit tight, and feel a little pain for medial side so the elbow, for the rest of 3 sets, i did hook grip, and tried to push the bar through, and this feel goes away, and thats greate. 3. the last thing, is familiar with the front squat, i am a little lost with eye focus point, not sure where to look at. but overall i feel stable, and comfident. 
+**Athlete Notes:**
+Used 70 kg for all sets (no 8 kg plates available — 2 kg over prescribed). Set 1: missed the "push through the bar" cue and gripped the bar too tightly — felt pain on the medial side of the elbow. Sets 2-4: used hook grip and actively pushed through the bar — elbow pain went away. Same eye focus point issue as front squats — not sure where to look. Overall felt stable and confident. 
 
 ---
 
@@ -153,7 +155,7 @@ note: overall this feels good, and there are couple of things to notice, 1. i us
 >
 > **Expected RPE:** 7-8 on the cardiovascular side. Muscular RPE should be low — these are light loads. If you're still breathing hard after 5 minutes post-metcon, the conditioning has decayed more than expected — note it but don't worry about it.
 
-note: easy 5min, rpe 6.5. 
+**Athlete Notes:** 5 min, RPE 6.5. Easy. 
 
 ---
 
@@ -180,10 +182,49 @@ note: easy 5min, rpe 6.5.
 
 - [x] Session completed ✅ 2026-04-16
 - RPE (overall): 7.5 /10
-- Left knee feel (1-5, 5=no pain):
-- Front squat notes (107 kg feel, breathing fix, butt wink?):
-- OHS notes (overhead stability, knuckles cue?):
-- Metcon time and feel:
-- General notes:
+- Left knee feel (1-5, 5=no pain): Not reported — no knee complaints during any movement. Likely 5/5.
+- Front squat notes (107 kg feel, breathing fix, butt wink?): Lumbar-pelvic constraint absent — major improvement. Descent control much smoother, can stop at parallel easily with tempo. RPE 6.5→8.5 across 5 sets. Eye focus point unclear. Bar dropping on later reps, wrist pressure.
+- OHS notes (overhead stability, knuckles cue?): Used 70 kg (no 8 kg plates). Tight grip on set 1 caused medial elbow pain — hook grip + push through bar fixed it on sets 2-4. Stable and confident. Eye focus point issue persists.
+- Metcon time and feel: 5 min, RPE 6.5. Well under 6-8 min target. Easy.
+- General notes: Overall felt great, nothing particularly difficult. Full compliance — all warm-up, primary, secondary, metcon, and accessories completed.
 
-overall feel greate, nothing particularly difficult. 
+---
+
+> [!note] Coach's Review — Day 14 (Week 3 Thursday)
+>
+> **Front Squat — 107 kg x 5x5, 3-0-0 tempo (RPE 6.5→8.5)**
+> All 25 reps completed. RPE tracked 6.5, 6.5, 7, 7.5, 8.5 — sets 1-4 are within the 7-7.5 expected range, and set 5 at RPE 8.5 is on the upper edge but acceptable for the final set of a 5x5 at peak volume. The effective load math predicted RPE 7-7.5 — you hit that range for 4 out of 5 sets. Good execution.
+>
+> **The lumbar-pelvic improvement is the headline finding today.** You described the constraint feeling as "not existing" during this workout, where in Week 2 it was a clear limiter. Three things changed between then and now: (1) two weeks of consistent 90/90 breathing in warm-ups, (2) the wider stance you discovered on Tuesday's jerk (you mentioned "wider stance" in your notes — did you apply it here too?), and (3) accumulated squat volume building positional familiarity. The practical result: you can now stop at thigh-parallel smoothly during the tempo descent, which means the eccentric control through that range is improving. This is exactly what the 3-0-0 tempo was designed to develop. The constraint may resurface under heavier loads in Phase 2, but the mechanism is working.
+>
+> **Eye focus point — this is now a recurring theme across 3 lifts.**
+> You've raised this on Monday (back squat), today (front squat), and today again (OHS). The Monday Coach's Review gave a detailed protocol for back squats: "pick a spot on the floor 2-3m ahead, eyes follow the torso." For front squat and OHS, the protocol is different because the torso angle is more upright:
+>
+> - **Front squat:** Your torso is nearly vertical. Pick a spot on the wall at **eye level or slightly below** (about 2-3 meters ahead). This keeps the cervical spine neutral while maintaining an upright position. If you look down, the elbows drop and the bar shifts forward. If you look up, you hyperextend the neck (same issue as back squat). The cue: **"eyes on the wall, elbows UP."**
+> - **OHS:** Same as front squat — pick a point at eye level on the wall ahead. The overhead position demands a vertical torso, so the gaze should be close to horizontal. Don't look at the bar — your arms should be behind your ears, and looking up to find the bar pulls the torso into hyperextension.
+> - **The common rule:** Gaze follows torso angle. Back squat (forward lean) → eyes on the floor ahead. Front squat/OHS (upright) → eyes on the wall at eye level. Find your spot during the warm-up sets and lock onto it.
+>
+> **Bar dropping / wrist pressure on set 5** — this is a front rack endurance issue, not a wrist problem. At 107 kg with a 3-second eccentric, sets 4-5 accumulate ~80 seconds of sustained tension on the thoracic extensors. When those fatigue, the elbows drop, the bar shifts forward off the deltoid shelf, and the wrists compensate by catching the load. The fix isn't wrist strength — it's the same "elbows UP" cue before every rep. When you feel the bar slipping forward, the immediate correction is: stand fully at the top, reset the elbows aggressively high, re-brace, then descend. The breathing pause at the top is your window to do this. As thoracic extension improves over weeks, the elbows will hold higher longer.
+>
+> **OHS — 70 kg x 4x5 (RPE 7-8)**
+> Using 70 kg instead of 68 kg is fine — 2 kg at this load is negligible, and you made all sets. The important finding is the **elbow pain on set 1 and the fix that resolved it.**
+>
+> The medial elbow pain from a tight grip on the OHS is a classic issue. When you grip the bar tightly overhead with a closed fist, the wrist flexors and forearm muscles create a compressive force on the medial epicondyle. This gets worse when the bar is overhead because the wrist is slightly extended. The fix you found — hook grip + actively pushing through the bar — works because: (1) hook grip forces the fingers to wrap the bar more passively (thumb absorbs the grip load), and (2) "pushing through the bar" engages the triceps and shoulder extensors, which shifts the stabilization demand from the forearm grip muscles to the larger shoulder complex. **Keep using this approach for all future OHS sets.** The cue sequence should be: hook grip → "push through the bar" (active shoulders) → "knuckles to ceiling" → descend.
+>
+> **Metcon — 5 min (target 6-8 min), RPE 6.5**
+> Faster than the conservative target. At 5 minutes, your conditioning hasn't decayed as much as the program hedged for. This is a positive data point — no need to adjust conditioning volume upward (it's still priority #5), but it confirms you're not losing fitness during the strength-focused Phase 1 work.
+>
+> **Cross-session trend (Week 3 Mon → Tue → Wed → Thu):**
+>
+> | Metric | Mon (Day 11) | Tue (Day 12) | Wed (Day 13) | Thu (Day 14) | Trend |
+> | --- | --- | --- | --- | --- | --- |
+> | Primary RPE | 6.5-8 (snatch) | 6.5-7.5 (jerk) | 7.5-8 (clean) | 6.5-8.5 (FS) | Consistent — set 5 spike expected |
+> | Left knee | 5/5 | 3.5/5 | 5/5 | ~5/5 | Jerk dip is the only aggravator |
+> | Compliance | 100% | 100% | ~60% | 100% | Wed box session = missed accessories |
+> | Eye focus | Raised for BS | — | Chest drop noted | Raised for FS + OHS | Recurring — needs deliberate practice |
+> | Lumbar-pelvic | — | — | — | **Resolved** | 90/90 breathing + wider stance working |
+> | Energy | Good | Flat | Easy | Great | Rebounding through the week |
+>
+> **No programming adjustments needed.** RPE is within acceptable range. The lumbar-pelvic improvement validates the current warm-up protocol — keep the 90/90 breathing as the first item in every warm-up.
+>
+> **For Friday:** This is day 5 of peak volume week and the heaviest session (84 kg snatch single, 98 kg C&J). Expect accumulated fatigue — if the snatch single at 84 kg doesn't feel right, 80 kg is still a strong single. The eye focus cue is especially important on the snatch catch — "eyes on the wall at eye level" as you receive the bar overhead. And remember: **squat clean every C&J rep.** Zero squat cleans so far this week.
