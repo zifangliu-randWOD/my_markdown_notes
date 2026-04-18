@@ -1,5 +1,5 @@
 ---
-date: 2026-04-19
+date: 2026-04-18
 week: 3
 phase: 1
 day: Saturday
@@ -27,7 +27,7 @@ tags:
 > | Tue | Jerk 90 kg x 6x3 + PP 65-70 kg | 6.5-7.5 | 3.5/5 | Wider stance helps COM; knee flare on dip |
 > | Wed | Box HPC+PC to 120 kg + DL 150-155 kg | 7.5-8 | 5/5 | Chest/eyes drop under heavy cleans |
 > | Thu | FS 107 kg 5x5 + OHS 70 kg 4x5 + Metcon | 6.5-8.5 | ~5/5 | Lumbar-pelvic constraint resolved |
-> | Fri | Snatch to 84 kg + C&J 98 kg | TBD | TBD | Heaviest Oly session of Phase 1 |
+> | Fri | Snatch to 84 kg (smooth) + C&J 98 kg 3/5 made | 7→9 | ~5/5 | **NEW:** anterior shoulder pull on squat clean pull only |
 >
 > **Week-level patterns:**
 > 1. Knee only flares on the jerk dip (Tue 3.5/5) — all other days 5/5.
@@ -35,17 +35,18 @@ tags:
 > 3. Lumbar-pelvic constraint improving — absent Thursday after 2+ weeks of 90/90 breathing.
 > 4. BSS compliance is the program's biggest gap — this session fixes it for Week 3.
 > 5. Squat clean deficit is the program's second biggest gap — this session addresses it directly.
+> 6. **New limiter flagged Friday:** anterior shoulder pull during the squat clean pull, absent on power clean (even at 120 kg Wed). Today's light squat cleans are the right environment to investigate — monitor whether it reproduces at 85 kg with a clean pull-under pattern.
 
 ---
 
 ## Warm-up (10 min)
 
-- [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set)
-- [ ] Hip circles x 10 each direction, each leg
-- [ ] Clean grip deadlift to knee x 5
-- [ ] Hang muscle clean x 5
-- [ ] Front squat with empty bar x 5 (practice eye focus: pick a spot on the wall at eye level)
-- [ ] Squat clean with empty bar x 3 (ride down to full depth, 2-sec pause in the catch)
+- [x] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set) ✅ 2026-04-18
+- [x] Hip circles x 10 each direction, each leg ✅ 2026-04-18
+- [x] Clean grip deadlift to knee x 5 ✅ 2026-04-18
+- [x] Hang muscle clean x 5 ✅ 2026-04-18
+- [x] Front squat with empty bar x 5 (practice eye focus: pick a spot on the wall at eye level) ✅ 2026-04-18
+- [x] Squat clean with empty bar x 3 (ride down to full depth, 2-sec pause in the catch) ✅ 2026-04-18
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -67,6 +68,9 @@ tags:
 > **Squat Clean with Empty Bar x 3**
 > Full movement rehearsal at zero load. Pull from the floor, receive in a full front squat, pause 2 seconds in the bottom. The pause is the new element — it forces you to own the receiving position instead of rushing to stand. Practice "fast elbows, eyes on the wall" on every rep.
 
+**Athlete Notes:**
+During hip circles, left hip external rotation feels rough — like a stiff gear lacking lubrication. Internal rotation on the same side is smooth. Right hip is fine in both directions. Only external rotation, only left side.
+
 ---
 
 ## Primary: Squat Clean (Positional)
@@ -80,11 +84,11 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 85 kg  | /3   |     |       |
-| 2   | 85 kg  | /3   |     |       |
-| 3   | 85 kg  | /3   |     |       |
-| 4   | 85 kg  | /3   |     |       |
-| 5   | 85 kg  | /3   |     |       |
+| 1   | 85 kg  | 3/3  | 6   |       |
+| 2   | 85 kg  | 3/3  | 6   |       |
+| 3   | 85 kg  | 3/3  | 6   |       |
+| 4   | 85 kg  | 3/3  | 6   |       |
+| 5   | 85 kg  | 3/3  | 6   |       |
 
 > [!info]- Squat Clean (Positional) — Mechanism & Coaching Notes (click to expand)
 >
@@ -110,6 +114,9 @@ tags:
 > **After Friday's heavy session:**
 > Your body has been pulling and catching all week. At 85 kg, the nervous system demand is low. If anything feels off — lower back tight, grip fatigued, front rack stiff — that's end-of-week fatigue, not a problem with today's weight. The warm-up will tell you how the body feels. If the empty bar front squat feels heavy or stiff, take an extra set at 60 kg before jumping to 85 kg.
 
+**Athlete Notes:**
+All 5 sets smooth. Transition to the squat receive is clean — paused at the bottom with torso upright and elbows high. Anterior shoulder pull from Friday did NOT reproduce. Noting that 85 kg may be too light to stress the capsule; will monitor at heavier loads. If it recurs, escalate to diagnosis.
+
 ---
 
 ## Secondary: Bulgarian Split Squat — MANDATORY
@@ -117,14 +124,14 @@ tags:
 3 x 10 each leg (15 kg KB each hand)
 *Week 2 PM at 12 kg was RPE 6 both legs. Try 15 kg. If the left leg can't handle 15 kg at RPE 7 or below, drop to 12 kg for left only.*
 
-| Set | Leg   | Weight | Reps  | RPE | Notes |
-| --- | ----- | ------ | ----- | --- | ----- |
-| 1   | Left  | 15 kg  | /10   |     |       |
-| 1   | Right | 15 kg  | /10   |     |       |
-| 2   | Left  | 15 kg  | /10   |     |       |
-| 2   | Right | 15 kg  | /10   |     |       |
-| 3   | Left  | 15 kg  | /10   |     |       |
-| 3   | Right | 15 kg  | /10   |     |       |
+| Set | Leg   | Weight | Reps | RPE | Notes |
+| --- | ----- | ------ | ---- | --- | ----- |
+| 1   | Left  | 15 kg  | 10/10 | 7   |       |
+| 1   | Right | 15 kg  | 10/10 | 7   |       |
+| 2   | Left  | 15 kg  | 10/10 | 7   |       |
+| 2   | Right | 15 kg  | 10/10 | 7   |       |
+| 3   | Left  | 15 kg  | 10/10 | 7.5 |       |
+| 3   | Right | 15 kg  | 10/10 | 7.5 |       |
 
 > [!info]- Bulgarian Split Squat — Coaching Notes (click to expand)
 >
@@ -156,13 +163,16 @@ tags:
 > **Left knee management:**
 > If patellar pain appears, check foot position first (more toe-out). Stop 2 inches higher if pain at full depth. If RPE 8+ on set 1, drop to 12 kg for the left side — right side stays at 15 kg.
 
+**Athlete Notes:**
+3s descending tempo used throughout. Both legs felt strong at 15 kg. Right leg slightly harder — done after left. No knee pain on either side.
+
 ---
 
 ## Accessory Window (15 min)
 
-- [ ] Single-leg RDL: 3 x 10 each leg (12 kg KB, contralateral)
-- [ ] Banded hip flexor stretch: 2 x 60 sec each side
-- [ ] Thoracic extension over foam roller: 3 x 10 breaths
+- [x] Single-leg RDL: 3 x 10 each leg (12 kg KB, contralateral) ✅ 2026-04-18
+- [x] Banded hip flexor stretch: 2 x 60 sec each side ✅ 2026-04-18
+- [x] Thoracic extension over foam roller: 3 x 10 breaths ✅ 2026-04-18
 
 > [!info]- Accessory — Coaching Notes (click to expand)
 >
@@ -179,10 +189,42 @@ tags:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10
-- Left knee feel (1-5, 5=no pain):
-- Squat clean notes (how did the pause catch feel? Eyes on the wall — could you maintain it? Chest position in the catch?):
-- BSS notes (15 kg feel, left vs right? any RPE difference between legs?):
-- SL-RDL notes (balance improvement vs Week 2? hamstring range?):
-- General notes (end-of-peak-volume fatigue level heading into deload?):
+- [x] Session completed ✅ 2026-04-18
+- RPE (overall): 6.5 /10
+- Left knee feel (1-5, 5=no pain): 5
+- Squat clean notes: Smooth and strong. Pause-catch solid — torso upright, elbows high, eyes on the wall. Anterior shoulder pull from Friday did not reproduce at 85 kg.
+- BSS notes: Both legs completed 3×10 at 15 kg with 3s descending tempo. Right leg slightly harder (fatigue order — done after left). No knee pain either side.
+- SL-RDL notes: Balance improved vs Week 2. Hip hinge more controlled.
+- General notes: Clean end to peak volume week. No acute issues. Entering Week 4 deload in good shape.
+
+---
+
+> [!note] Coach's Review — Day 16 (Week 3 Saturday — Week Close)
+>
+> **Left hip external rotation stiffness — new finding**
+> The "rust gear" sensation on left hip external rotation (smooth on internal rotation, right side clear) is classic posterior hip capsule tightness after 5 consecutive heavy training days. The deep external rotators — piriformis and the obturator group — accumulate fatigue and restrict ER range by end of peak volume. This is expected, but it connects to two ongoing concerns: (1) hip ER restriction contributes to femoral internal rotation under load, which aggravates the left patellar tracking issue; (2) capsule tightness limits BSS receiving depth. Monitor during Week 4 deload — if still present after a full recovery week, add targeted ER mobilization as a Week 5 warm-up priority. The pigeon stretch and 90/90 hip rotation already in the program are the direct intervention.
+>
+> **Squat clean — anterior shoulder: NOT reproduced at 85 kg**
+> This is the primary diagnostic result of the session. The shoulder pull from Friday did not appear at 85 kg (60%). Two likely explanations: (1) load-dependent mechanism — at 98 kg Friday with a forward bar path and decayed pull-under timing, the arms are forced to reach forward-and-up on the catch, stressing the anterior capsule; at 85 kg with deliberate positional intent, the bar stays close and the path is vertical. (2) Pattern decay at heavy loads — three weeks without squat clean practice means the pull-under timing breaks down when the bar gets heavy, but is recoverable at lighter percentages. Today's 15 positional reps are the remedy, not just the test. Retest at 90–95 kg in Week 5: if the shoulder pull returns, the mechanism is confirmed and we add pre-clean shoulder mobility (band ER, sleeper stretch) + bar-path drills to the warm-up.
+>
+> **15 squat clean reps today + 5 from Friday = 20 squat clean reps for Week 3.** The program designed for 17 (12 Wednesday + 5 Friday) — Saturday's makeup exceeded the minimum. Technique was solid: smooth receive, paused catch with upright torso and high elbows. The "chest up, eyes on the wall" habit is building at manageable loads. The challenge ahead is sustaining it as loads climb toward 110–120 kg in Phase 2 — which is exactly why squat clean practice must happen every week, not just as a Saturday fix.
+>
+> **BSS — Week 3 minimum met. 15 kg with 3s tempo is the right load.**
+> 3×10 each leg at RPE 7→7.5 sits exactly in the target zone. The 3-second descending tempo adds effective load and develops eccentric quad strength, which is protective for the patellar tendon. The right leg feeling slightly harder is a fatigue-order effect — left going first means right is always slightly more pre-fatigued when its turn comes. Left knee stayed 5/5 throughout, confirming that proper BSS mechanics (toe-out, front heel drive) are knee-safe at 15 kg. **Week 5 target: 3×10 each leg @ 15–17 kg, same tempo.**
+>
+> **SL-RDL — balance improving (session 2 of the program)**
+> Proprioceptive adaptation from single-leg work is fast in the early sessions — expect continued improvement through sessions 3–6. Maintain 12 kg and focus on hip hinge quality and rear leg extension range rather than chasing load increases. The posterior chain this builds directly supports clean pull mechanics and long-term knee stability.
+>
+> **Week 3 status entering Week 4 deload:**
+>
+> | Metric | Status |
+> | --- | --- |
+> | Snatch ceiling | 84 kg @ RPE 7 — new Phase 1 high |
+> | C&J | 98 kg working weight — 3/5 completion; squat clean pattern needs reps |
+> | Front squat | 107 kg 5×5 — lumbar-pelvic constraint resolved (Phase 1 structural win) |
+> | Back squat | 110 kg 5×5 — breathing fix validated |
+> | Left knee | 5/5 all sessions except Tue jerk dip (3.5/5) — jerk-only aggravation confirmed |
+> | BSS compliance | Week 3 done — 3×10 at 15 kg, 3s tempo |
+> | Squat clean volume | 20 reps Week 3 (0 Mon–Thu, 20 Sat) — makeup effective, systemic fix needed |
+> | Anterior shoulder | Unresolved — retest Week 5 at ≥90 kg |
+> | Left hip ER stiffness | New — monitor during Week 4 deload |
