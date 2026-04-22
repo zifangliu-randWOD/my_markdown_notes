@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "da8c4556afd68ac4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dabe061e6706d9ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training Program/Phase 1 - Weeks 1-4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phase 1 - Weeks 1-4"
-            }
-          }
-        ]
-      },
-      {
         "id": "f49d3d41dbb9f791",
         "type": "tabs",
         "children": [
@@ -43,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training Program/Week 4/2026-04-21 Mon - Light Snatch + Back Squat.md",
+                "file": "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-21 Mon - Light Snatch + Back Squat"
+              "title": "2026-04-24 Fri - Light Snatch + C&J + HS Walk"
             }
           }
         ]
@@ -230,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,13 +219,20 @@
   },
   "active": "f14c6b2be410f137",
   "lastOpenFiles": [
-    "Training Program/Phase 1 - Weeks 1-4.md",
-    "Training Program/Week 3/Week 3 Summary.md",
+    "Training Program/Week 4/2026-04-23 Thu - Front Squat + OHS + Metcon.md",
+    "Training Program/Week 4/2026-04-22 Wed - Squat Clean + Deadlift.md",
+    "Training Program/Week 4/2026-04-21 Tue - Light Jerk + Press + Ring MU.md",
+    "Training Program/Week 4/2026-04-22 Tue - Light Jerk + Press + Ring MU.md",
+    "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",
+    "Training Program/Week 4/2026-04-20 Mon - Light Snatch + Back Squat.md",
     "Training Program/Week 4/2026-04-21 Mon - Light Snatch + Back Squat.md",
     "Training Program/Week 4/2026-04-25 Fri - Light Snatch + C&J + HS Walk.md",
+    "CLAUDE.md",
+    "Training Program/Phase 1 - Weeks 5-8.md",
+    "Training Program/Phase 1 - Weeks 1-4.md",
+    "Training Program/Week 3/Week 3 Summary.md",
     "Training Program/Week 4/2026-04-24 Thu - Front Squat + OHS + Metcon.md",
     "Training Program/Week 4/2026-04-23 Wed - Squat Clean + Deadlift.md",
-    "Training Program/Week 4/2026-04-22 Tue - Light Jerk + Press + Ring MU.md",
     "Training Program/Week 4",
     "Training Program/Week 2/Week 2 - Summary & Diagnosis.md",
     "Training Program/Week 3/2026-04-18 Sat - Squat Clean + Unilateral.md",
@@ -268,15 +245,8 @@
     "Training Program/Week 3/2026-04-14 Tue - Jerk + Push Press + Ring MU.md",
     "Training Program/Phase 2 - Weeks 14-15.md",
     "Training Program/Phase 3 - Week 17.md",
-    "Training Program/Phase 1 - Weeks 5-8.md",
     "Training Program/Week 3/2026-04-13 Mon - Snatch Complex + Back Squat.md",
-    "Training Program/Week 1/2026-04-03 Fri - Snatch + C&J + HS Walk.md",
-    "Training Program/Week 2/2026-04-10 Fri - Snatch + C&J + HS Walk.md",
     "Training Program/Week 3",
-    "Training Program/Week 2/2026-04-07 Tue - Snatch Complex + Back Squat.md",
-    "Training Program/Week 2/2026-04-09 Thu - Jerk + Strict Press + Ring MU.md",
-    "CLAUDE.md",
-    "Training Program/Protocols & Reference.md",
     "Training Program/Week 2",
     "Training Program/Week 1",
     "Training Program",

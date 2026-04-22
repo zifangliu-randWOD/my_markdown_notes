@@ -18,10 +18,11 @@ An Obsidian vault containing a 24-week Oly-First Periodized CrossFit training pr
 - Unlock: ring muscle-ups, handstand walk
 
 ### Known Physical Limiters
-- **Left knee patellar tracking issue**: pain with vertical torso/knee-forward positions under heavy load. Manageable with tempo and foot positioning. Likely VMO/quad imbalance. Left side clearly weaker than right.
+- **Left knee patellar tracking issue**: pain with vertical torso/knee-forward positions under heavy load. **Pattern confirmed Week 3: aggravation ONLY on jerk dip** (COM forward drift). All other movements — squats, cleans, deadlifts, BSS — are 5/5 pain-free. Fix in place: wider jerk stance (+5 cm outside hip-width), now the permanent default. Left side still weaker than right. BSS is the weekly corrective.
 - **Thoracic mobility restriction**: bilateral, worse on left. Limits front rack position — elbows can't get high enough under heavy load, left arm more rigid. Directly caps jerk dip mechanics and clean receiving position.
-- **Chronic lumbar stiffness / anterior pelvic tilt**: 3-4 year history, lower lumbar region. Constraint at parallel depth during controlled front squats under load; absent at full depth with fast drop or at bodyweight. Connected to hamstring tightness. Managed with 90/90 breathing (daily warm-up from Week 2). Monitor as front squat loads climb.
-- **Snatch efficiency gap**: 55% snatch-to-squat ratio (105/190). Positional/timing improvements are the biggest lever, not raw strength.
+- **Chronic lumbar stiffness / anterior pelvic tilt**: 3-4 year history, lower lumbar region. **RESOLVED as of Week 3 (2026-04-17)** — constraint absent during 107 kg 5×5 front squat with 3-0-0 tempo. Mechanism: consistent 90/90 breathing from Week 2 + wider stance. May resurface under Phase 2 loads (130 kg+). Keep 90/90 breathing as the first item in every warm-up.
+- **Anterior shoulder pull on heavy squat clean** (new — Week 3): stretch/pull sensation on anterior shoulder during pull-under at ~98 kg; absent on power cleans at same or heavier loads; absent at 85 kg. Likely mechanism: bar-forward path at heavy loads stresses anterior capsule on the pull-under. Unresolved — monitoring from Week 5.
+- **Snatch efficiency gap**: 55% snatch-to-squat ratio (105/190). **Confirmed technique-limited, not strength-limited** — 84 kg single at RPE 7 in Week 3. Positional/timing improvements are the biggest lever.
 
 ### Priority Stack
 1. Olympic lifting numbers (primary driver)
@@ -56,7 +57,8 @@ Training Program/
 ├── Phase 3 - Weeks 22-24.md
 ├── Protocols & Reference.md        ← Mobility library, gymnastics progressions, PR log
 └── Week N/                          ← Daily training notes organized by week
-    └── YYYY-MM-DD Day - Movement.md
+    ├── YYYY-MM-DD Day - Movement.md
+    └── Week N Summary.md            ← End-of-week analysis (created after final session)
 ```
 
 ## How to Help the Athlete
@@ -70,7 +72,7 @@ Training Program/
 When the athlete shares a daily note with workout results (completed checkboxes, filled tracking tables, and log entries), perform this review automatically:
 
 0. **Locate changes efficiently** — check `git diff` (unstaged) or `git diff --staged` (staged) first to see only what the athlete changed, rather than reading the full file. This saves tokens and focuses attention on the actual session data. Fall back to reading the full file only if the diff is empty or context is needed.
-1. **Fix grammar and formatting** — clean up notes, fix table data (correct weights, add missing rows for extra sets), standardize language. Preserve the athlete's intent and observations.
+1. **Fix grammar and formatting** — clean up notes, fix table data (correct weights, add missing rows for extra sets), standardize language. Convert any inline athlete `note:` entries (e.g. `note: felt good`) to `**Athlete Notes:**` blocks placed after the relevant section's coaching callout. Preserve the athlete's intent and observations.
 2. **Adjust future programming if needed** — if weights were too heavy/light (RPE off target by 2+ points) or new limiters appeared, update upcoming sessions in the phase file. Note what was changed and why.
 3. **Add Coach's Review** (`> [!note] Coach's Review — Day N`) at the bottom of the daily note:
    - Analyze each lift's performance vs expectations (RPE target vs actual, completed vs prescribed)

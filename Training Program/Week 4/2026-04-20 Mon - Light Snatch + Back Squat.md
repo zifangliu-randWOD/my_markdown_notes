@@ -1,5 +1,5 @@
 ---
-date: 2026-04-21
+date: 2026-04-20
 week: 4
 phase: 1
 day: Monday
@@ -22,12 +22,12 @@ tags:
 
 ## Warm-up (15 min — Extended Mobility Focus)
 
-- [ ] 90/90 breathing: 3 min (extended — feet on wall, full lower-back reset)
-- [ ] Thoracic foam roll: 3 min (slow, one vertebra at a time, extend and breathe at each segment)
-- [ ] Ankle circles + wall ankle stretch: 2 min each side
-- [ ] Hip 90/90 stretch: 2 min each side (internal + external rotation)
-- [ ] PVC snatch grip OHS: 10 reps (slow descent, pause at bottom)
-- [ ] Snatch balance with empty bar: 5 reps (speed focus — punch fast under)
+- [x] 90/90 breathing: 3 min (extended — feet on wall, full lower-back reset) ✅ 2026-04-20
+- [x] Thoracic foam roll: 3 min (slow, one vertebra at a time, extend and breathe at each segment) ✅ 2026-04-20
+- [x] Ankle circles + wall ankle stretch: 2 min each side ✅ 2026-04-20
+- [x] Hip 90/90 stretch: 2 min each side (internal + external rotation) ✅ 2026-04-20
+- [x] PVC snatch grip OHS: 10 reps (slow descent, pause at bottom) ✅ 2026-04-20
+- [x] Snatch balance with empty bar: 5 reps (speed focus — punch fast under) ✅ 2026-04-20
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -66,9 +66,9 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 73 kg  | /2   |     |       |
-| 2   | 73 kg  | /2   |     |       |
-| 3   | 73 kg  | /2   |     |       |
+| 1   | 73 kg  | 2/2  | 5.5 |       |
+| 2   | 73 kg  | 2/2  | 6   |       |
+| 3   | 73 kg  | 2/2  | 6.5 |       |
 
 > [!info]- Snatch — Mechanism & Coaching Notes (click to expand)
 >
@@ -108,6 +108,9 @@ tags:
 > - Thoracic restriction: the overhead catch position at 73 kg won't stress your mobility ceiling. Use the lightness as an opportunity to practice a deep, stable catch with the bar directly over the midfoot — without fighting the weight, your body can find its best overhead position.
 > - Anterior shoulder (new finding from Friday): the squat clean pull produced an anterior shoulder stretch Friday that wasn't present on power cleans. Today's snatches use a different path — watch for any similar sensation. If you feel a pull in the anterior shoulder during the pull-under, note it. This may be related to the bar path going slightly forward (which loads the anterior capsule as the arm reaches forward to catch a drifting bar).
 
+**Athlete Notes:**
+Built up from 40 kg × 3, 50 kg × 3, 70 kg × 1. All 6 reps made, no technique issues. Two things noticed: (1) whole-body stiffness, especially right lumbar region more than anywhere else; (2) on the last sets, explosion felt weaker — less pop in the second pull, and quad fatigue was present by the final rep.
+
 ---
 
 ## Secondary: Back Squat
@@ -120,9 +123,9 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 105 kg | /5   |     |       |
-| 2   | 105 kg | /5   |     |       |
-| 3   | 105 kg | /5   |     |       |
+| 1   | 105 kg | 5/5  | 5.5 |       |
+| 2   | 105 kg | 5/5  | 6   |       |
+| 3   | 105 kg | 5/5  | 7   |       |
 
 > [!info]- Back Squat — Mechanism & Coaching Notes (click to expand)
 >
@@ -168,15 +171,18 @@ tags:
 > - Lumbar: the 90/90 breathing warm-up directly sets up your squat posture. Since the anterior pelvic tilt has reportedly resolved as of Week 3, continue monitoring — did the deload feel different from Week 3 squats in terms of pelvic position?
 > - Bar position: "mid-low" on the scapular spine, settled in Week 2. Don't change it between sets. Lock in.
 
+**Athlete Notes:**
+No knee brace, no belt. Felt generally strong but right lumbar stiffness persisted through all three sets. Last set RPE climbed to 7 — more fatigued than the weight alone should explain.
+
 ---
 
 ## Accessory Window (15-20 min)
 
-- [ ] Peterson step-downs: 3 x 10 each leg (maintain — do NOT increase load or step height)
+- [x] Peterson step-downs: 3 x 10 each leg (maintain — do NOT increase load or step height) ✅ 2026-04-20
   - **Left leg:** 10-15 cm step, 8-10 kg KB, vertical torso target
   - **Right leg:** 20 cm step, 8-10 kg KB, full ROM
-- [ ] Extended thoracic mobility: 10 min dedicated (see coaching notes for protocol)
-- [ ] Spanish squat iso hold: 3 x 30 sec
+- [x] Extended thoracic mobility: 10 min dedicated (see coaching notes for protocol) ✅ 2026-04-20
+- [x] Spanish squat iso hold: 3 x 30 sec ✅ 2026-04-20
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -218,13 +224,46 @@ tags:
 >
 > At deload intensity, 30 seconds should be genuinely challenging (RPE 5-6 on the hold) but recoverable within 60 seconds. If it's not challenging by week's end, the tendon adaptation is progressing — good.
 
+**Athlete Notes:**
+Left knee 5/5 throughout. Used 12 kg KB for both legs — felt controlled and confident. No pain at any point.
+
 ---
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10 (target ≤6 — if above 6, note what felt heavy)
-- Left knee feel (1-5, 5=no pain):
-- Snatch notes (bar path — did the bar stay close? Could you feel the hip drive completing before the pull-under? Did the weight feel as light as expected at 73 kg?):
-- Squat notes (breathing fix, eye gaze — did looking at the floor feel different from Week 3? Did 105 kg feel like recovery weight?):
-- General notes (fatigue level, soreness from last week, how does the body feel entering deload?):
+- [x] Session completed ✅ 2026-04-20
+- RPE (overall): 6.5 /10 (target ≤6 — slightly above; right lumbar stiffness + residual Week 3 fatigue)
+- Left knee feel (1-5, 5=no pain): 5
+- Snatch notes: All 6 reps clean — no bar-forward failures. Technique intact. Body stiff and second-pull power noticeably lower on set 3, but motor pattern held. No anterior shoulder sensation.
+- Squat notes: No belt, no brace. Felt strong early; set 3 climbed to RPE 7 as fatigue accumulated. Right lumbar stiffness present but not limiting. Trained in flat-sole shoes (not weightlifting shoes) — felt more grounded, better floor contact, and left knee felt less stressed than usual.
+- General notes: Body stiff and not fully fresh entering deload — Week 3 fatigue is real. Right lumbar stiffness is the main symptom (right-side specific, different from the resolved bilateral APT). Left knee 5/5 across all movements.
+
+---
+
+> [!note] Coach's Review — Day 17 (Week 4 Monday)
+>
+> **Fatigue confirmed — right on schedule**
+> RPE drift across both lifts tells the story: snatch climbing from 5.5 to 6.5 across three sets, back squat from 5.5 to 7. At true recovery, deload weights should produce flat RPE. Instead, the body is accumulating fatigue within the session, which means the nervous system is still carrying Week 3's load. This is expected and is exactly what Week 4 is designed to absorb. By Thursday and Friday, RPE at these weights should flatten out and start feeling genuinely light. If it doesn't, that's information.
+>
+> **Right lumbar stiffness — new and worth tracking**
+> The previous lumbar issue was bilateral, central, and related to anterior pelvic tilt — and that resolved in Week 3. What's appearing today is right-side specific. Two likely mechanisms: (1) normal asymmetric DOMS from peak volume — right-dominant athletes accumulate slightly more load on the right side across pulling and squatting movements; (2) left hip ER stiffness from Saturday is still present, and the body is compensating by over-rotating through the right lumbar under load. These connect: restricted left hip external rotation → pelvis tilts slightly during the pull → right lumbar takes more rotational stress. Monitor through the deload. If it resolves by Friday with rest and the mobility work, it's DOMS. If it's still there in Week 5, investigate.
+>
+> **Flat-sole shoes: a real finding, worth a deliberate experiment**
+> This is worth taking seriously, not dismissing. Here's the honest breakdown:
+>
+> Most competitive weightlifters use raised-heel shoes (typically 18-22 mm) because the heel elevation effectively increases usable ankle range, allowing a more upright torso in the squat-receive without requiring that range from the ankle itself. For athletes with limited ankle dorsiflexion, heeled shoes are a significant performance enabler.
+>
+> But you've confirmed good ankle dorsiflexion — you can deep squat barefoot with a vertical torso. That means you're deriving less of a range benefit from the heel elevation than the average athlete. What the heel elevation *does* do for you is shift the load vector slightly forward. More anterior force = more anterior knee stress = potentially more patellar tracking aggravation. This is a plausible mechanism for why the left knee felt less stressed in flat shoes today.
+>
+> The "better ground feel" is also real: flat soles maximize the foot-floor contact area and proprioceptive feedback. Some athletes find this especially beneficial for the pull phase (floor to hip), where stability matters more than the heel-rise advantage.
+>
+> **Week 5 experiment** — try one snatch/clean session in flat shoes and note: (1) left knee feel, (2) receiving position stability and upright torso, (3) any difference in pull mechanics. If the receiving position holds up and the left knee response is consistently better, shifting to flat shoes for Olympic lifting is a legitimate option. Don't abandon weightlifting shoes entirely until you've tested the receive position deliberately — the heel rise does help in the catch, and you don't want to discover a problem there at 90 kg.
+>
+> **Technical quality — intact**
+> No bar-forward failures today at 73 kg. This confirms what was suspected: Friday's misses were pure fatigue, not embedded technique problems. The motor patterns are intact. The deload is working as designed.
+>
+> **Peterson step-downs at 12 kg (vs. 8-10 kg prescribed)**
+> You used 12 kg for both legs — slightly above the 8-10 kg prescribed for the deload. Didn't cause any issues given the 5/5 knee response, so no correction needed. But keep it at 12 kg or lower for the rest of the week — deload weeks are not the time to test load ceilings on a rehab exercise.
+>
+> **Session trained on 2026-04-20 (Monday)**
+> Session date and file date now correctly aligned.

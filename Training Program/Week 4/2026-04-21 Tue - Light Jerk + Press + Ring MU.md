@@ -1,5 +1,5 @@
 ---
-date: 2026-04-22
+date: 2026-04-21
 week: 4
 phase: 1
 day: Tuesday
@@ -22,13 +22,13 @@ tags:
 
 ## Warm-up (12 min — extended, front rack focus)
 
-- [ ] 90/90 breathing: 2 min (feet on wall, flatten lower back, 3-4 breath cycles per set)
-- [ ] Banded lat stretch: 45 sec each side (extra time on left)
-- [ ] Banded front rack stretch: 60 sec each side (extra time on left — this is warm-up AND accessory today)
-- [ ] Thoracic rotation on wall: 8 each side
-- [ ] **Dip calibration drill:** 5 empty-bar jerks with foam roller behind heels (glutes lightly touch at ~10-15 cm knee bend — re-establish the tactile reference) then 3 reps without roller to confirm internalization
-- [ ] Empty bar push jerk x 8 — wider stance from rep 1, "heels heavy" cue on every rep
-- [ ] Jerk footwork drills x 10 — practice the landing split from the wider stance base
+- [x] 90/90 breathing: 2 min (feet on wall, flatten lower back, 3-4 breath cycles per set) ✅ 2026-04-21
+- [x] Banded lat stretch: 45 sec each side (extra time on left) ✅ 2026-04-21
+- [x] Banded front rack stretch: 60 sec each side (extra time on left — this is warm-up AND accessory today) ✅ 2026-04-21
+- [x] Thoracic rotation on wall: 8 each side ✅ 2026-04-21
+- [x] **Dip calibration drill:** 5 empty-bar jerks with foam roller behind heels (glutes lightly touch at ~10-15 cm knee bend — re-establish the tactile reference) then 3 reps without roller to confirm internalization ✅ 2026-04-21
+- [x] Empty bar push jerk x 8 — wider stance from rep 1, "heels heavy" cue on every rep ✅ 2026-04-21
+- [x] Jerk footwork drills x 10 — practice the landing split from the wider stance base ✅ 2026-04-21
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -66,9 +66,9 @@ tags:
 
 | Set | Weight | Reps | RPE | Stance | Notes |
 | --- | ------ | ---- | --- | ------ | ----- |
-| 1   | 84 kg  | /3   |     | Wide   |       |
-| 2   | 84 kg  | /3   |     | Wide   |       |
-| 3   | 84 kg  | /3   |     | Wide   |       |
+| 1   | 84 kg  | 3/3  | 5.5 | Wide   |       |
+| 2   | 84 kg  | 3/3  | 6   | Wide   |       |
+| 3   | 84 kg  | 3/3  | 6   | Wide   |       |
 
 > [!info]- Push Jerk — Mechanism & Coaching Notes (click to expand)
 >
@@ -99,6 +99,9 @@ tags:
 > **The key question for today: does the knee stay at 5/5?**
 > Tuesday is historically the only day in the week where left knee drops below 5/5 — Week 3 Tue was 3.5/5. With the wider stance locked in, the hypothesis is that the mechanism (forward COM → anterior knee loading) is resolved. Today is the test. If knee is 5/5 after all three sets, the fix works and we proceed with confidence into Week 5 loading. If it's still 3.5/5 despite wider stance and "heels heavy" cue, the aggravator is something else and we need to investigate (possibly thoracic collapse causing bar to drift forward and pull you onto your toes, or possible quad fatigue compensation from the week).
 
+**Athlete Notes:**
+Overall good — wider stance felt natural, paid attention to cues throughout. One thing to flag: during the push jerk, felt the bar rolling toward the fingers on some reps.
+
 ---
 
 ## Secondary: Strict Press
@@ -111,9 +114,9 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 50 kg  | /8   |     |       |
-| 2   | 50 kg  | /8   |     |       |
-| 3   | 50 kg  | /8   |     |       |
+| 1   | 50 kg  | 8/8  | 6   |       |
+| 2   | 50 kg  | 8/8  | 7.5 |       |
+| 3   | 50 kg  | 8/8  | 6   |       |
 
 > [!info]- Strict Press — Mechanism & Coaching Notes (click to expand)
 >
@@ -139,15 +142,19 @@ tags:
 >
 > **Expected RPE at 50 kg:** RPE 4-5 for sets 1-2, possibly touching 5-6 by set 3 as the reps accumulate. If any set hits RPE 7+, reduce weight immediately. This is a deload.
 
+**Athlete Notes:**
+50 kg for 8 reps felt harder than expected. Dropped to 46 kg on the last set for 8 reps.
+
+
 ---
 
 ## Gymnastics Skill: Ring Muscle-Up Progressions (5-8 min)
 
 2 sets of each — quality only, no maximal effort. Stop each set 1-2 reps before failure.
 
-- [ ] Deep ring dips: 2 x 8 (3-second negative, controlled)
-- [ ] False grip pull-ups: 2 x 3 (unassisted if possible; band assist if needed — maintain false grip throughout)
-- [ ] False grip ring rows to sternum: 2 x 5 (pull to sternum, not chin — controlled)
+- [x] Deep ring dips: 2 x 8 (3-second negative, controlled) ✅ 2026-04-21
+- [x] False grip pull-ups: 2 x 3 (unassisted if possible; band assist if needed — maintain false grip throughout) ✅ 2026-04-21
+- [x] False grip ring rows to sternum: 2 x 5 (pull to sternum, not chin — controlled) ✅ 2026-04-21
 
 > [!info]- Ring MU Progressions — Coaching Notes (click to expand)
 >
@@ -170,10 +177,10 @@ tags:
 
 ## Accessory Window (15 min — extended mobility, deload focus)
 
-- [ ] Banded front rack stretch: 2 x 60 sec each side (extra time on left — go 70-75 sec if comfortable)
-- [ ] Banded lat stretch: 2 x 45 sec each side
-- [ ] Prone Y-T-W raises: 2 x 10 each position (bodyweight or very light plates)
-- [ ] External rotation with band: 2 x 15 each arm
+- [x] Banded front rack stretch: 2 x 60 sec each side (extra time on left — go 70-75 sec if comfortable) ✅ 2026-04-21
+- [x] Banded lat stretch: 2 x 45 sec each side ✅ 2026-04-21
+- [x] Prone Y-T-W raises: 2 x 10 each position (bodyweight or very light plates) ✅ 2026-04-21
+- [x] External rotation with band: 2 x 15 each arm ✅ 2026-04-21
 
 > [!info]- Accessory Mobility — Mechanism & Coaching Notes (click to expand)
 >
@@ -196,10 +203,20 @@ tags:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10 (target ≤6)
-- Left knee feel (1-5, 5=no pain):
-- Jerk notes (wider stance feel — did the dip feel different? Did the knee stay pain-free?):
-- Press notes:
-- Ring MU notes (false grip pull-up and ring rows — any improvement?):
-- General notes (recovery feel from peak volume week?):
+- [x] Session completed ✅ 2026-04-21
+- RPE (overall): 6 /10 (target ≤6)
+- Left knee feel (1-5, 5=no pain): 5
+- Jerk notes: Wider stance felt natural from the first set. Knee 5/5 throughout — fix is holding at deload load. Bar rolled toward fingers on some drive phases; no mechanical consequence at 84 kg.
+- Press notes: 50 kg for 8 reps was harder than expected — set 2 hit RPE 7.5. Dropped to 46 kg on set 3 for 8 reps. Right call on a deload.
+- Ring MU notes: All 2 sets of each progression completed — ring dips, false grip pull-ups, ring rows to sternum. No issues.
+- General notes: Clean, uneventful session. Wider stance becoming automatic. Body responding well to the volume cut.
+
+---
+
+> [!note] Coach's Review — Day 18 (Week 4 Tuesday)
+>
+> **Deload doing its job.** RPE 6 overall, knee 5/5, all sets completed — exactly the profile this day should have. The wider jerk stance is in its third dedicated session and is cementing as the new default. No knee pain at 84 kg confirms the mechanism fix is solid; the real test comes at 100+ kg in Week 5.
+>
+> **Bar rolling toward fingers:** Same pattern seen in Week 3 press work. At 84 kg it's cosmetic, but at heavier loads it costs stability in the overhead lockout. Fix is simple: before each rep, consciously seat the bar in the palm — not at the finger base. Re-grip between sets if needed. Build the habit now at light weight.
+>
+> **Strict press RPE drift:** Set 2 at RPE 7.5, then a drop to 46 kg for set 3 — this tells you shoulder pressing endurance is the limiter, not max strength. Useful data for Phase 2. The 4 kg drop on set 3 was the correct call; grinding to RPE 8 on a deload press set would have missed the point entirely. Week 5 press targets stay at 50 kg x 8 — this week's data confirms the load is correctly calibrated.

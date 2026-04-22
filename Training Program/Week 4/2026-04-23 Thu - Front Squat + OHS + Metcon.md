@@ -1,5 +1,5 @@
 ---
-date: 2026-04-24
+date: 2026-04-23
 week: 4
 phase: 1
 day: Thursday

@@ -1,5 +1,5 @@
 ---
-date: 2026-04-23
+date: 2026-04-22
 week: 4
 phase: 1
 day: Wednesday
@@ -24,15 +24,15 @@ tags:
 
 ## Warm-up (10–12 min — Extended)
 
-- [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3–4 breath cycles)
-- [ ] Pigeon stretch: 2 x 60 sec each side (left side first)
-- [ ] 90/90 hip rotation: 2 x 10 each direction
-- [ ] Hip circles: x 10 each direction, each leg — **note left hip ER quality vs Saturday**
-- [ ] Banded good mornings: x 10
-- [ ] Clean grip deadlift to knee: x 5
-- [ ] Hang muscle clean: x 5
-- [ ] Front squat with empty bar: x 5 (2-sec pause at bottom, eye focus on wall)
-- [ ] Squat clean with empty bar: x 3 (ride to full depth, 2-sec pause in catch — same as Saturday)
+- [x] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3–4 breath cycles) ✅ 2026-04-22
+- [x] Pigeon stretch: 2 x 60 sec each side (left side first) ✅ 2026-04-22
+- [x] 90/90 hip rotation: 2 x 10 each direction ✅ 2026-04-22
+- [x] Hip circles: x 10 each direction, each leg — **note left hip ER quality vs Saturday** ✅ 2026-04-22
+- [x] Banded good mornings: x 10 ✅ 2026-04-22
+- [x] Clean grip deadlift to knee: x 5 ✅ 2026-04-22
+- [x] Hang muscle clean: x 5 ✅ 2026-04-22
+- [x] Front squat with empty bar: x 5 (2-sec pause at bottom, eye focus on wall) ✅ 2026-04-22
+- [x] Squat clean with empty bar: x 3 (ride to full depth, 2-sec pause in catch — same as Saturday) ✅ 2026-04-22
 
 > [!info]- Warm-up — Coaching Notes (click to expand)
 >
@@ -74,11 +74,11 @@ tags:
 - Rest 2:00–2:30 between sets.
 - RPE cap: ≤6. If any set exceeds RPE 6, note it — this load should feel easy.
 
-| Set | Weight | Reps | RPE | Notes |
-| --- | ------ | ---- | --- | ----- |
-| 1   | 98 kg  | /2   |     |       |
-| 2   | 98 kg  | /2   |     |       |
-| 3   | 98 kg  | /2   |     |       |
+| Set | Weight | Reps | RPE | Notes                                  |
+| --- | ------ | ---- | --- | -------------------------------------- |
+| 1   | 100 kg | 2/2  | 5.5 | +2 kg over prescribed (98 kg)          |
+| 2   | 100 kg | 2/2  | 5.5 | wider stance tested in receive         |
+| 3   | 100 kg | 2/2  | 6   | slight early hip rise on 1 rep         |
 
 > [!info]- Squat Clean — Coaching Notes (click to expand)
 >
@@ -125,6 +125,12 @@ tags:
 > **Expected RPE**
 > Each set should feel like RPE 5–6. If any set is RPE 7+, something is wrong — either the pattern is still broken enough to make the lift inefficient, or the fatigue recovery from Week 3 is incomplete. Log it honestly. The deload is designed to have you feeling fresh at 70%.
 
+**Athlete Notes:**
+1. Overall felt good — used 100 kg (not 98). **No anterior shoulder discomfort this time.** New hypothesis on Friday's pull sensation: it may have come from how I *lowered* the bar after the catch — either dropping it directly or trying to catch it at the pelvis on the way down, then lowering to the ground. That pattern likely loaded the anterior shoulder at heavier weight, more than the pull-under itself did.
+2. On some sets I felt my butt rise first instead of pushing purely vertical out of the bottom — not an obvious pattern, but it's there.
+3. The clean itself isn't hard, but the stand-up portion left the quads slightly tired.
+4. Lower back still has some stiffness — not severe, but present.
+
 ---
 
 ## Secondary: Clean-Grip Deadlift (Deload)
@@ -138,9 +144,9 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 140 kg | /3   |     |       |
-| 2   | 140 kg | /3   |     |       |
-| 3   | 140 kg | /3   |     |       |
+| 1   | 140 kg | 3/3  | 6   |       |
+| 2   | 140 kg | 3/3  | 6   |       |
+| 3   | 140 kg | 3/3  | 6   |       |
 
 > [!info]- Clean-Grip Deadlift — Coaching Notes (click to expand)
 >
@@ -163,6 +169,9 @@ tags:
 > **Expected RPE**
 > RPE 4–5 per set. The bar should move smoothly with no real effort on any rep. If it feels harder than that, check your setup — specifically your back angle and bar proximity. Poor position inflates the effective RPE at any weight.
 
+**Athlete Notes:**
+Alright — not hard, but not the easy RPE 4–5 it was supposed to feel like. Logged at RPE 6 across all three sets.
+
 ---
 
 ## Accessory Window (15–20 min)
@@ -175,10 +184,10 @@ tags:
 - Descend 3 seconds, drive back up through front heel.
 - Rest 60–90 sec between legs, 90 sec between sets.
 
-- [ ] BSS Set 1 — Left leg: 12 kg x 8
-- [ ] BSS Set 1 — Right leg: 12 kg x 8
-- [ ] BSS Set 2 — Left leg: 12 kg x 8
-- [ ] BSS Set 2 — Right leg: 12 kg x 8
+- [x] BSS Set 1 — Left leg: 12 kg x 8 ✅ 2026-04-22
+- [x] BSS Set 1 — Right leg: 12 kg x 8 ✅ 2026-04-22
+- [x] BSS Set 2 — Left leg: 12 kg x 8 ✅ 2026-04-22
+- [x] BSS Set 2 — Right leg: 12 kg x 8 ✅ 2026-04-22
 
 ### Single-Leg RDL
 
@@ -187,15 +196,15 @@ tags:
 - Hinge at the hip, rear leg extends behind, back flat.
 - Return to standing with control — squeeze glute at the top.
 
-- [ ] SL-RDL Set 1 — Left leg: 12 kg x 8
-- [ ] SL-RDL Set 1 — Right leg: 12 kg x 8
-- [ ] SL-RDL Set 2 — Left leg: 12 kg x 8
-- [ ] SL-RDL Set 2 — Right leg: 12 kg x 8
+- [x] SL-RDL Set 1 — Left leg: 12 kg x 8 ✅ 2026-04-22
+- [x] SL-RDL Set 1 — Right leg: 12 kg x 8 ✅ 2026-04-22
+- [x] SL-RDL Set 2 — Left leg: 12 kg x 8 ✅ 2026-04-22
+- [x] SL-RDL Set 2 — Right leg: 12 kg x 8 ✅ 2026-04-22
 
 ### Hip Mobility
 
-- [ ] Pigeon stretch: 2 x 60 sec each side (left first)
-- [ ] 90/90 hip rotation: 2 x 10 each direction
+- [x] Pigeon stretch: 2 x 60 sec each side (left first) ✅ 2026-04-22
+- [x] 90/90 hip rotation: 2 x 10 each direction ✅ 2026-04-22
 
 > [!info]- Accessory Window — Coaching Notes (click to expand)
 >
@@ -221,11 +230,44 @@ tags:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10 (target ≤6)
-- Left knee feel (1-5, 5=no pain):
-- Squat clean notes (anterior shoulder — did it reproduce? Paste catch feel? Pull-high bleed-over present?):
-- Deadlift notes:
-- Left hip ER feel (compare to Saturday — still rough or improving?):
-- BSS/SL-RDL notes:
-- General notes (recovery status mid-deload):
+- [x] Session completed ✅ 2026-04-22
+- RPE (overall): 6 /10 (target ≤6)
+- Left knee feel (1-5, 5=no pain): 5
+- Squat clean notes (anterior shoulder — did it reproduce? Paste catch feel? Pull-high bleed-over present?): **Anterior shoulder did NOT reproduce at 100 kg fresh** — primary diagnostic of the day passed. Catch felt clean across all 6 reps. New hypothesis emerged on the cause: the bar-lowering action (drop / catch-at-pelvis on the way down) — not the pull-under — may be the actual aggravator at heavier loads. Slight early hip rise on isolated reps; no full pull-high bleed-over.
+- Deadlift notes: 140 kg felt heavier than the prescribed RPE 4–5 — logged honestly at RPE 6 across all sets. Bar moved cleanly, no position issues, but the system is still carrying residual fatigue.
+- Left hip ER feel (compare to Saturday — still rough or improving?): Improving — the "rust gear" sensation from Saturday was reduced after the pigeon stretch in warm-up. Not fully clear, but trending in the right direction. Worth keeping pigeon in the warm-up through the rest of the week.
+- BSS/SL-RDL notes: All 4 sets each completed at 12 kg. Left knee 5/5 throughout. Balance on SL-RDL felt more controlled than Saturday — proprioception is improving.
+- General notes (recovery status mid-deload): Fine overall, no shoulder pain (the win of the day), but still some residual exhaustion. Lower back has mild stiffness — not limiting. Quads were slightly tired on the clean stand-up. Mid-deload status is on track.
+
+---
+
+> [!note] Coach's Review — Day 19 (Week 4 Wednesday)
+>
+> **Headline: the anterior shoulder diagnostic passed.**
+> Friday's pull sensation did not reproduce at 100 kg in fresh, non-fatigued conditions. This is the single most important data point of the deload week. Combined with the absence at 85 kg on Saturday, the picture is now clear: the Friday occurrence was load + fatigue + degraded pattern, not a structural anterior capsule problem. The squat clean pull-under is *not* an inherent risk for your shoulder. Log this as resolved-pending-Week-5-retest. The Week 5 ramp (105–110 kg) is the final confirmation; if it stays clean there, it comes off the active limiter list.
+>
+> **Your bar-lowering hypothesis is sharp — and probably correct.**
+> The observation that the *descent* of the bar (drop or catch-at-pelvis) may be the real shoulder aggravator is a meaningful insight, and it fits the mechanics. The pull-under loads the anterior capsule briefly and dynamically — not where chronic strain typically comes from. But repeatedly catching a falling bar at the pelvis, especially after several heavy reps, hammers the anterior shoulder eccentrically with a near-vertical bar coming down on extended-and-internally-rotated arms. That is exactly the loading pattern that produces the kind of stretch/pull sensation you described on Friday.
+>
+> **Action — bar descent protocol going forward:**
+> - On Olympic lifts at 80%+ (Phase 2 territory): **let the bar drop cleanly to the platform from the front rack.** Do not try to catch it on the way down. Bumper plates exist for this.
+> - At lower loads (warm-ups, technique work) where dropping is socially awkward: lower with both hands controlling the bar to thigh, *then* set down — do not let it fall onto the pelvis/hip flexors at any point.
+> - This becomes a programmed cue from Week 5 onward. I'll add it to the Friday C&J coaching block as a default reminder.
+>
+> **Early hip rise — flag, don't fix yet.**
+> Lifting the hips before the chest in the first pull is a common pattern at lighter loads, especially at the end of a 4-week block when posterior chain output is slightly suppressed. At 100 kg / RPE 5.5 it's not mechanically costly, but it's the same fault that becomes a missed lift at 120+ kg. Keep noting when it appears. If it's still showing up in Week 5 with fresh legs, we'll add a brief tempo deadlift to knee (3-sec pull) into the warm-up to retrain the back angle hold off the floor. For now: at the setup, before the bar leaves the ground, think *"chest and hips rise together"* — same speed.
+>
+> **+2 kg overshoot on the clean (100 vs 98 kg) — fine.**
+> 70% rounded for available plates. No correction needed. RPE held at 5.5–6, well within target. Note for Week 5: prescribed 105 kg (75%) — load this exactly, no rounding up.
+>
+> **Deadlift at RPE 6 instead of 4–5 — not an error, it's information.**
+> 140 kg should have moved like air today and it didn't. Two contributing factors: (1) the squat clean primary already used some posterior chain capacity before the deadlift, (2) Week 3's 5×5 tempo deadlifts at 150 kg generated more residual fatigue in the lumbar/erectors than I had budgeted for. Combined with your reported lower-back stiffness, this is consistent. **No future programming change**, but it confirms that Phase 2's deadlift dosing needs to be respectful — the 200 kg PR is a max, not a "training above 80%" weight. Week 5 deadlift target of 150 kg (75%) stands.
+>
+> **Lower-back stiffness — watch.**
+> First mention was Monday (right-side lumbar from peak-volume DOMS). It's now Wednesday and it's still present, even if mild. Not a constraint *yet*, but if it persists into Friday's session, that's the signal to investigate. Tonight: 5 minutes of cat-cow + child's pose + supine spinal rotation before bed. Tomorrow's Front Squat + OHS session will be a real test — front squat at 70% should not aggravate it. If it does, drop the OHS and add a soft-tissue session.
+>
+> **Left hip ER trending in the right direction.**
+> Saturday "rust gear" → Wednesday "reduced after pigeon." Five days of deload rest plus targeted pigeon work is doing the job. Keep pigeon in both warm-up and accessory through Friday. If it's clean entering Week 5, it stays out of the daily warm-up and goes back to accessory-only.
+>
+> **Mid-deload summary**
+> Two of the three Week-3 findings are trending toward resolution (anterior shoulder: not reproducing; left hip ER: improving). One is steady (right lumbar stiffness, mild). RPE is sitting at the top of the deload band rather than the bottom — the system is recovering but isn't all the way there yet. This is normal at mid-deload; expect Friday to feel noticeably lighter than today did. If Friday's snatch + C&J + handstand walk session feels clean and easy, the deload has done its job.
