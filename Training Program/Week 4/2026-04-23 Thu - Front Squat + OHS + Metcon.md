@@ -22,12 +22,12 @@ tags:
 
 ## Warm-up (15 min — extended)
 
-- [ ] 90/90 breathing: 2 min (feet on wall, flatten lumbar into floor, 3-4 breath cycles)
-- [ ] Thoracic foam roll: 2 min (extended today — perpendicular to spine, extend and breathe at each segment)
-- [ ] Front rack stretch with barbell: 60 sec (bar in rack, step in, push elbows up — today's baseline check)
-- [ ] Ankle dorsiflexion wall stretch: 2 x 30 sec each side (foot ~4 inches from wall, knee over toes)
-- [ ] Goblet squat with empty bar: 10 reps (full depth, elbows inside knees)
-- [ ] OHS with empty bar: 5 reps (active shoulders, practice eye gaze and hook grip)
+- [x] 90/90 breathing: 2 min (feet on wall, flatten lumbar into floor, 3-4 breath cycles) ✅ 2026-04-23
+- [x] Thoracic foam roll: 2 min (extended today — perpendicular to spine, extend and breathe at each segment) ✅ 2026-04-23
+- [x] Front rack stretch with barbell: 60 sec (bar in rack, step in, push elbows up — today's baseline check) ✅ 2026-04-23
+- [x] Ankle dorsiflexion wall stretch: 2 x 30 sec each side (foot ~4 inches from wall, knee over toes) ✅ 2026-04-23
+- [x] Goblet squat with empty bar: 10 reps (full depth, elbows inside knees) ✅ 2026-04-23
+- [x] OHS with empty bar: 5 reps (active shoulders, practice eye gaze and hook grip) ✅ 2026-04-23
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -61,9 +61,9 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 104 kg | /5   |     |       |
-| 2   | 104 kg | /5   |     |       |
-| 3   | 104 kg | /5   |     |       |
+| 1   | 104 kg | 5/5  | 6   |       |
+| 2   | 104 kg | 5/5  | 6   |       |
+| 3   | 104 kg | 5/5  | 6.5 |       |
 
 > [!info]- Front Squat — Mechanism & Coaching Notes (click to expand)
 >
@@ -104,6 +104,11 @@ tags:
 >
 > **Expected RPE at 104 kg (no tempo):** ≤5, target ~4. If any set reaches RPE 6, stop and troubleshoot — check elbow height, check breathing, check if wider stance is being used. Do not push through an RPE 6+ set today.
 
+**Athlete Notes:**
+Felt sleepy today, not excited — 104 kg didn't move "like a breath" the way it should have. Possibly because I trained without belt and knee sleeves. **Discomfort persists at the right lower lumbar region, close to the spine — suspect erector spinae.** Tightness/constraint feeling during the squat, not painful but clearly uncomfortable. No knee pain (good).
+
+**Grip-width observation:** With a clean-width grip, less tendency to round forward. With a narrow grip, I feel stronger but COM drives forward and I tend to round the back. Why?
+
 ---
 
 ## Secondary: Overhead Squat
@@ -116,9 +121,9 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 58 kg  | /5   |     |       |
-| 2   | 58 kg  | /5   |     |       |
-| 3   | 58 kg  | /5   |     |       |
+| 1   | 58 kg  | 5/5  | 5.5 |       |
+| 2   | 58 kg  | 5/5  | 5.5 |       |
+| 3   | 58 kg  | 5/5  | 5.5 |       |
 
 > [!info]- Overhead Squat — Mechanism & Coaching Notes (click to expand)
 >
@@ -145,6 +150,9 @@ tags:
 >
 > **Expected RPE at 58 kg:** ≤4. If it's RPE 5+, something technical is off — likely the hook grip wasn't applied, the shoulder isn't fully engaged, or the thoracic warm-up wasn't sufficient. Stop, reset, and retry.
 
+**Athlete Notes:**
+Used hook grip throughout. Overall felt good and stable — just lack of energy.
+
 ---
 
 ## Metcon (optional)
@@ -154,9 +162,9 @@ tags:
 - 10 air squats
 - 10 push-ups
 
-- [ ] Completed (optional)
-- Rounds completed:
-- Notes:
+- [ ] Completed (optional) — **skipped** (low energy, prioritized mobility)
+- Rounds completed: —
+- Notes: skipped intentionally; see Daily Log
 
 > [!info]- Metcon — Coaching Notes (click to expand)
 >
@@ -172,15 +180,18 @@ tags:
 >
 > **If you skip it:** That's a correct decision in a deload week. The mobility circuit is the real priority today, not the metcon.
 
+**Athlete Notes:**
+Skipped — see Daily Log for context (low energy, poor sleep).
+
 ---
 
 ## Accessory Window — Full Mobility Circuit (15 min, main event)
 
-- [ ] Thoracic extension over bench with barbell: 3 x 10 breaths
-- [ ] Ankle dorsiflexion stretch (wall): 2 x 30 sec each side
-- [ ] Banded overhead distraction: 2 x 30 sec each arm (extra time on left)
-- [ ] Pigeon stretch: 2 x 60 sec each side (left hip emphasis)
-- [ ] 90/90 hip rotation: 2 x 10 each side
+- [x] Thoracic extension over bench with barbell: 3 x 10 breaths ✅ 2026-04-23
+- [x] Ankle dorsiflexion stretch (wall): 2 x 30 sec each side ✅ 2026-04-23
+- [x] Banded overhead distraction: 2 x 30 sec each arm (extra time on left) ✅ 2026-04-23
+- [x] Pigeon stretch: 2 x 60 sec each side (left hip emphasis) ✅ 2026-04-23
+- [x] 90/90 hip rotation: 2 x 10 each side ✅ 2026-04-23
 
 > [!info]- Mobility Circuit — Mechanism & Coaching Notes (click to expand)
 >
@@ -250,11 +261,94 @@ tags:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10 (target ≤5 — lightest day of the week)
-- Left knee feel (1-5, 5=no pain):
-- Front squat notes (lumbar-pelvic feel — still smooth? Eye gaze — found a spot on the wall?):
-- OHS notes (elbow pain present or absent? Hook grip + push through bar — cue sequence working?):
-- Metcon (if done — rounds completed, pace feel):
-- Mobility notes (how did thoracic extension over bench feel? Left hip ER roughness improving vs Saturday? Ankle dorsiflexion — which side is tighter?):
-- General notes (mid-deload recovery status — how is the body responding to the volume cut?):
+- [x] Session completed ✅ 2026-04-23 (metcon skipped, all other blocks done)
+- RPE (overall): 5.5 /10 (target ≤5 — slightly above; sleep + energy deficit, not load)
+- Left knee feel (1-5, 5=no pain): 5
+- Front squat notes (lumbar-pelvic feel — still smooth? Eye gaze — found a spot on the wall?): Lumbar-pelvic constraint (the resolved bilateral one) stayed absent — no butt-wink at depth. **However**, right-side lower lumbar discomfort close to the spine persists during the squat — suspected erector spinae tightness/constraint, not pain. Trained without belt or knee sleeves. 104 kg did not feel "like a breath" — should have at this load.
+- OHS notes (elbow pain present or absent? Hook grip + push through bar — cue sequence working?): No elbow pain. Hook grip applied throughout. Cue sequence (hook grip → push through bar → knuckles to ceiling → eye gaze) is working — position felt stable. Energy was the only limiter.
+- Metcon (if done — rounds completed, pace feel): Skipped — low energy, low motivation. Correct call on a deload day.
+- Mobility notes (how did thoracic extension over bench feel? Left hip ER roughness improving vs Saturday? Ankle dorsiflexion — which side is tighter?): Full circuit completed. (Specific feel comparisons not logged today — please add if you noticed anything.)
+- General notes (mid-deload recovery status — how is the body responding to the volume cut?): Felt sleepy and unexcited from the start. Bodyweight 91.8 kg this morning (down from 92 kg baseline — small but worth noting). Poor sleep last night. **Lower lumbar discomfort has been bothering me all week.** (Note: in this log I wrote "left side," but in the front squat note above I wrote "right side" — this needs to be clarified; see Coach's Review.)
+
+---
+
+> [!note] Coach's Review — Day 20 (Week 4 Thursday)
+>
+> **Headline: the session was correct. The week-long lumbar pattern needs attention. Two genuinely useful observations from you, both worth unpacking.**
+>
+> ---
+>
+> **1. The session itself: this was a B+ deload day, not an A.**
+>
+> Front squat 3×5 @ 104 kg at RPE 6 / 6 / 6.5 — that's a full RPE point above the prescribed cap of ≤5 and 2 points above target (~4). At deload load, after last week's 107 kg × 5×5 at 3-0-0 tempo, RPE 6 is wrong-direction information. Two non-overlapping causes are responsible and both are correct:
+>
+> - **Sleep deficit + energy state.** You said it yourself: sleepy from the start, not excited, low energy. The nervous system shows up to a deload session in the same shape your sleep, food, and stress put it in. A bad night turns 65% into a 70% feel. This is not a programming miscalibration — it's a recovery state. Don't read the RPE as "the deload didn't work." Read it as "I underslept and did the work anyway." The work still counts.
+> - **No belt, no sleeves.** Last week's 107 kg was likely belted and sleeved — today wasn't. That alone adds ~1 RPE point at this load for most people through bracing efficiency and knee proprioception. Combined with the sleep state, RPE 6 at 104 kg unbelted on a tired body is internally consistent. Nothing is broken.
+>
+> Skipping the metcon was the correct call — explicitly endorsed in the metcon callout. Mobility circuit done in full is the win of the day.
+>
+> ---
+>
+> **2. The lumbar issue — this is the real story of the week, and we need to clarify it tomorrow.**
+>
+> Here's the four-day picture, all in one place:
+>
+> | Day | Side reported | Severity | Context |
+> | --- | --- | --- | --- |
+> | Mon (Apr 20) | **Right** lumbar | "stiffness, not limiting" — RPE 6.5 on back squat | First mention; called peak-vol DOMS |
+> | Tue (Apr 21) | not mentioned | — | Clean session, no reported issue |
+> | Wed (Apr 22) | "lower back" (no side specified) | "mild stiffness, not limiting" | Coach flagged: "if it persists into Friday, investigate" |
+> | Thu (Apr 23) — front squat note | **Right** lower lumbar, close to spine, suspected erector spinae | "tightness, constraint, not painful, uncomfortable" | At 104 kg unbelted |
+> | Thu (Apr 23) — daily log | **Left** side | "bothering me all week" | Written separately |
+>
+> **The side discrepancy matters.** Within today's note alone you wrote both right and left. This is almost certainly a typo in one of them — but I'm not going to assume which. The pattern I have data on (Monday) was right-side. The mechanical hypothesis Monday's review put forward (left hip ER stiffness causing the pelvis to over-rotate, dumping load into the right lumbar) is *side-specific* and only makes sense if it's the right side. If it's actually left, the working hypothesis flips.
+>
+> **Action — tomorrow before any bar work, run the 3-minute lumbar self-diagnostic I added to Friday's warm-up callout.** It's four short tests (palpation, standing extension, single-leg stand, bodyweight squat to depth) that will tell us:
+> - Which side it actually is (or whether it's central/bilateral)
+> - Whether it's muscular (most likely — improves with movement, tender to direct pressure, no referral down the leg) vs joint vs anything radicular
+> - Whether it's load-dependent (absent at bodyweight) vs tissue-level (present at bodyweight)
+>
+> Log every answer in tomorrow's daily log "General notes" field. We need real data, not impressions.
+>
+> **Red-flag boundaries (these would change the plan):** any pain or numbness referring into the buttock or down the leg, anything that worsens with cough/sneeze, anything sharp/electrical, any inability to tolerate sitting. None of those are in your reports — you've described it consistently as discomfort/tightness/constraint, not pain. That's reassuring. But this is now Day 4 of low-grade signal in the same region, in a *deload* week (when stiffness should be clearing, not persisting). That's the part that earns active diagnosis rather than "wait it out."
+>
+> **What's most likely** (reasoning, not a diagnosis): a localized erector spinae DOMS/tonus pattern that didn't fully clear because (a) Week 3's volume was high specifically through the posterior chain — Thursday 107 kg × 25 reps front squat + Saturday's squat clean work — and (b) you trained Monday and today *without* the brace, which makes the erectors do more isometric work to maintain spinal position. That fits the picture of one-sided, non-radiating, tightness-on-loading, no leg referral. If the diagnostic confirms muscular, the management is: foam roll the lumbar erectors (gentle, not aggressive), continue 90/90, add 60 sec couch stretch each side (front-of-hip tightness pulls the pelvis forward and loads the erectors), brace tomorrow even at 90 kg, and re-evaluate Monday.
+>
+> ---
+>
+> **3. Your grip-width observation on the front squat is genuinely good. Here's the mechanism.**
+>
+> What you noticed:
+> - **Clean-width grip → less tendency to round forward.**
+> - **Narrow grip → feels stronger, but COM drifts forward and back tends to round.**
+>
+> Both are correct, and the mechanism is in the upper back, not the rack:
+>
+> - At a **clean-width grip** (hands roughly shoulder-width, elbows wide), the elbows have to drive forward and slightly out to keep the bar on the deltoid shelf. Driving the elbows out forces shoulder external rotation, which actively retracts and depresses the scapulae and locks the thoracic spine into extension. **A locked-extended thoracic spine is geometrically incapable of rounding under moderate load.** The "less tendency to round" you felt isn't willpower — it's that the position physically prevents it. The cost: the wider elbow angle is mechanically less stable for the bar (smaller rack contact area, more wrist demand), so it *feels* less strong even though the back position is better.
+>
+> - At a **narrow grip** (hands closer in, elbows tighter), the elbows can drive straight up rather than out. This sits the bar more securely on the shelf, the wrists are more neutral, and the load path through the arms feels more efficient — hence "feels stronger." But less elbow-out demand means less external rotation, less scapular retraction, and less mandatory thoracic extension. The thoracic spine is now *allowed* to flex if anything else (fatigue, weak braces, ankle limit, COM drift) pushes it that way. As soon as the bar gets even slightly forward of mid-foot — which is exactly what you describe — the upper back is the path of least resistance, and it rounds.
+>
+> So the trade-off is: **clean grip = better position, slightly worse rack security. Narrow grip = better rack security, position must be defended actively rather than passively.** For Phase 1, where the entire goal is positional foundation, **clean-width is the right grip for you specifically** — it's a passive defense against the exact failure mode (forward COM, back round) that you've identified as your tendency at heavier loads. At Phase 2 loads (130+ kg) the case gets even stronger, because that's where rounding under fatigue starts costing reps.
+>
+> One caveat: clean-width grip puts more demand on thoracic extension and front rack mobility — both of which are on your active limiter list. The fact that you can hold clean-width comfortably at 104 kg now (which would have been hard in Week 1) is real evidence that the mobility work is paying off. **Default to clean-width going forward**, and let the narrow grip be a tool for genuinely heavy near-max sets in Phase 3 if you ever choose it.
+>
+> ---
+>
+> **4. Bodyweight 91.8 kg — small but worth tracking.**
+>
+> 200 g below your stated 92 kg baseline isn't a trend yet (could be hydration, glycogen, time of day). But combined with poor sleep, low energy, and a lumbar issue not clearing in deload, the picture is "system slightly under-recovered." Track bodyweight first thing in the morning for the rest of this week and into Week 5, post-pee, pre-food, naked. If it stays at 91.5–92 kg you're stable. If it trends to 91 or below, food intake needs attention before Week 5 loads start climbing. Phase 2 makes hypertrophy/strength gains hard to come by if you're chronically undereating.
+>
+> ---
+>
+> **5. Programming impact — what changes for tomorrow and Week 5:**
+>
+> - **Friday's warm-up:** 3-minute lumbar self-diagnostic added (see updated Fri note). Run it before touching the bar.
+> - **Friday's snatch + C&J:** *Wear the belt for any working set ≥80 kg today even though it's deload*. The C&J at 90 kg is the closest thing to a lumbar-loading test on this week's plan; bracing properly while the lumbar is irritated is the conservative choice.
+> - **Sleep tonight:** non-negotiable priority. The deload only completes if sleep is good for the next two nights.
+> - **Cat-cow + supine spinal rotation + couch stretch (5–7 min) before bed tonight.** Same protocol Wed's review prescribed — do it tonight and tomorrow night.
+> - **Week 5 Monday back squat:** if Friday's diagnostic shows anything beyond muscular DOMS, drop the back squat to 65% (not the prescribed 75%) and re-test. I will not advance loading on top of an unresolved lumbar signal.
+>
+> ---
+>
+> **Mid-deload status check:**
+> The deload has cleared the anterior shoulder finding (Wed), is improving the left hip ER (Wed), and your left knee is steady at 5/5. The one item not cooperating is the lower-back signal — which is exactly the area we should be most patient with and most explicit about. Tomorrow's diagnostic and tomorrow's bracing decision are the two highest-leverage moves in the week.

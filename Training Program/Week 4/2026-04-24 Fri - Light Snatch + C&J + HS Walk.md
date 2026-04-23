@@ -29,6 +29,7 @@ tags:
 ## Warm-up (10 min)
 
 - [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set)
+- [ ] **Lumbar self-diagnostic (3 min) — see callout below** ← added Thu post-session (4-day-running lumbar discomfort needs to be located)
 - [ ] Snatch grip RDL: 5 reps
 - [ ] Hang snatch high pull: 5 reps
 - [ ] Snatch balance: 5 reps
@@ -38,6 +39,27 @@ tags:
 >
 > **90/90 Breathing — 2 min**
 > Same pelvic reset that's been in place since Week 2. The lumbar-pelvic constraint that showed up under Thursday front squats in Weeks 2–3 has been resolving — the 90/90 breathing is part of why. Keep it as the opening ritual even on deload days. Today it also functions as a recovery status check: if the lower back still feels stiff heading into Week 5, that's information worth logging.
+>
+> **Lumbar Self-Diagnostic — 3 min (added Thu post-session)**
+>
+> *Why today:* lower-back discomfort has been present every day this week — Mon (right lumbar, RPE 6.5 on squat), Wed ("mild stiffness, not limiting"), and Thu (still present at 104 kg front squat, with conflicting side reports — right in the front squat note, left in the daily log). Wednesday's Coach's Review flagged Friday as the trigger to investigate if it persisted. It has. Run this 3-minute self-screen *before* loading any bar so we know what we're dealing with.
+>
+> Run all four tests. For each, log: **side (L / R / both / central), location (above belt / below belt / one-finger spot or diffuse), and what reproduces it.** Take a photo of the log if you want — this is real diagnostic data.
+>
+> 1. **Standing palpation (30 sec):** Reach behind with both thumbs to the lower lumbar paraspinals (the rope-like muscles 2–3 cm either side of the spine, between the bottom rib and the iliac crest). Press firmly. Compare L vs R for tenderness and for muscle tone. Erector spinae spasm/DOMS is usually one-sided, tender to direct pressure, and feels like a tight cord. Record which side is tighter and which is more tender — they may not be the same side.
+>
+> 2. **Standing extension (10 reps):** Hands on hips, slowly arch backward 10 times through a comfortable range. Does discomfort increase, decrease, or stay the same? *Pure muscular tightness usually improves with movement (it "warms out").* Joint or facet involvement usually gets worse with extension. Disc-related pain is usually worse with flexion (cat-cow forward, picking something off the floor) and better with extension. Note the response.
+>
+> 3. **Single-leg stand (15 sec each side):** Stand on the right leg, lift the left knee. Then switch. Does the lumbar discomfort change when you load one side vs the other? If standing on the *right* leg makes the right lumbar light up, the right erector is being recruited harder under unilateral load — strong evidence for muscular origin on that side.
+>
+> 4. **Bodyweight squat to depth (5 reps, slow):** Same form as your front squat. Where exactly does it appear in the rep — at the bottom (depth-related), on the way up (bracing/concentric load), or only above 90 kg (load-dependent)? At bodyweight: if it's still there, it's tissue-level (muscular or joint) and not load-dependent. If it's absent at bodyweight, it's a load-and-bracing issue, not a structural one.
+>
+> *What we're trying to rule in/out:*
+> - **Erector spinae DOMS / tightness** (most likely): one-sided, tender to direct pressure, improves with movement, no shooting/electrical sensation, no pain referring into the glute or down the leg. → Manage with foam rolling, hip flexor work, and continued 90/90.
+> - **Facet or joint involvement** (less likely but possible): worse with extension, central or paraspinal, may be sharp on a specific position. → Reduce loading, no front squat / OHS until cleared.
+> - **Anything radicular** (red flag, requires actual diagnosis): pain or numbness referring into the buttock or down the leg, worsens with cough/sneeze, can't tolerate sitting. → **Stop loading and see a clinician** — this is not a self-managed situation.
+>
+> Log everything in the Daily Log "General notes" field today. Even if the diagnostic suggests pure DOMS, the data point of "where exactly, what side, what reproduces" is what makes the difference between guessing and managing.
 >
 > **Snatch Grip RDL x 5**
 > Builds hamstring awareness in the pulling position. Focus on keeping the bar close to the shins, shoulders over or slightly ahead of the bar, back flat. This is the first pull position — the one that sets the bar path for everything that follows. At snatch grip width, you should feel a deep hamstring load by 30–40% of hinge depth. If the bar drifts forward off the shins, your first pull is likely doing the same thing under load.
