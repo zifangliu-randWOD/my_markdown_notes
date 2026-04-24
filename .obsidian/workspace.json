@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f49d3d41dbb9f791",
+        "id": "786290245ba9e75f",
         "type": "tabs",
         "children": [
           {
-            "id": "f14c6b2be410f137",
+            "id": "188a8c50c3c10f2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",
+                "bFile": "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-04-24 Fri - Light Snatch + C&J + HS Walk"
+              "icon": "diff",
+              "title": "Diff: 2026-04-24 Fri - Light Snatch + C&J + HS Walk  (Working Tree)"
             }
           }
         ]
@@ -217,43 +207,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f14c6b2be410f137",
+  "active": "188a8c50c3c10f2d",
   "lastOpenFiles": [
-    "Training Program/Week 4/2026-04-23 Thu - Front Squat + OHS + Metcon.md",
+    "CLAUDE.md",
+    "Training Program/Week 5/2026-04-27 Mon - Snatch Complex + Back Squat.md",
+    "docs/README.md",
+    "docs/specs/2026-04-24-claude-md-memory-split-design.md",
+    "docs/plans/2026-04-24-claude-md-memory-split-plan.md",
+    "docs/plans",
+    "docs/specs",
+    "docs",
+    "Training Program/Week 5/2026-04-28 Tue - Jerk + Strict Press + Ring MU.md",
+    "Training Program/Week 5/Trip Mobility Protocol (2026-04-30 to 2026-05-05).md",
+    "Training Program/Phase 1 - Weeks 5-8.md",
+    "Training Program/Week 5/2026-05-08 Fri - Bridge - Squat Clean + BSS + Mobility.md",
+    "Training Program/Week 5/2026-05-07 Thu - Snatch + C&J + HS Walk.md",
+    "Training Program/Week 5/2026-05-06 Wed - Front Squat + OHS (Re-entry).md",
+    "Training Program/Week 5/2026-04-29 Wed - Clean + Deadlift.md",
+    "Training Program/Week 5",
+    "Training Program/Week 4/Week 4 Summary.md",
     "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",
+    "Training Program/00 - Program Overview.md",
+    "Training Program/Phase 2 - Week 16.md",
+    "Training Program/Week 3/2026-04-17 Fri - Snatch + C&J + HS Walk.md",
+    "Training Program/Week 4/2026-04-23 Thu - Front Squat + OHS + Metcon.md",
     "Training Program/Week 4/2026-04-22 Wed - Squat Clean + Deadlift.md",
     "Training Program/Week 4/2026-04-21 Tue - Light Jerk + Press + Ring MU.md",
     "Training Program/Week 4/2026-04-22 Tue - Light Jerk + Press + Ring MU.md",
     "Training Program/Week 4/2026-04-20 Mon - Light Snatch + Back Squat.md",
     "Training Program/Week 4/2026-04-21 Mon - Light Snatch + Back Squat.md",
     "Training Program/Week 4/2026-04-25 Fri - Light Snatch + C&J + HS Walk.md",
-    "CLAUDE.md",
-    "Training Program/Phase 1 - Weeks 5-8.md",
     "Training Program/Phase 1 - Weeks 1-4.md",
     "Training Program/Week 3/Week 3 Summary.md",
-    "Training Program/Week 4/2026-04-24 Thu - Front Squat + OHS + Metcon.md",
-    "Training Program/Week 4/2026-04-23 Wed - Squat Clean + Deadlift.md",
     "Training Program/Week 4",
-    "Training Program/Week 2/Week 2 - Summary & Diagnosis.md",
-    "Training Program/Week 3/2026-04-18 Sat - Squat Clean + Unilateral.md",
-    "Training Program/Week 3/2026-04-17 Fri - Snatch + C&J + HS Walk.md",
-    "Training Program/Week 3/2026-04-19 Sat - Squat Clean + Unilateral.md",
-    "Training Program/Week 3/2026-04-15 Wed PM - Supplementary Unilateral + Mobility.md",
-    "Training Program/Week 3/2026-04-16 Thu - Front Squat + OHS + Metcon.md",
-    "Training Program/Week 3/2026-04-15 Wed - Clean & Deadlift.md",
-    "Training Program/Week 3/2026-04-19 Sat - Supplementary Makeup (Unilateral + Mobility).md",
-    "Training Program/Week 3/2026-04-14 Tue - Jerk + Push Press + Ring MU.md",
-    "Training Program/Phase 2 - Weeks 14-15.md",
-    "Training Program/Phase 3 - Week 17.md",
-    "Training Program/Week 3/2026-04-13 Mon - Snatch Complex + Back Squat.md",
     "Training Program/Week 3",
     "Training Program/Week 2",
     "Training Program/Week 1",
     "Training Program",
     "firebase-debug.log",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Untitled",
-    "Untitled 1"
+    "Untitled.canvas"
   ]
 }

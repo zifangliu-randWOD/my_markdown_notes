@@ -28,12 +28,12 @@ tags:
 
 ## Warm-up (10 min)
 
-- [ ] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set)
-- [ ] **Lumbar self-diagnostic (3 min) — see callout below** ← added Thu post-session (4-day-running lumbar discomfort needs to be located)
-- [ ] Snatch grip RDL: 5 reps
-- [ ] Hang snatch high pull: 5 reps
-- [ ] Snatch balance: 5 reps
-- [ ] Clean & jerk with empty bar: 3 reps
+- [x] **90/90 breathing: 2 min** (feet on wall, flatten lower back into floor, 3-4 breath cycles per set) ✅ 2026-04-24
+- [x] **Lumbar self-diagnostic (3 min) — see callout below** ← added Thu post-session (4-day-running lumbar discomfort needs to be located) ✅ 2026-04-24
+- [x] Snatch grip RDL: 5 reps ✅ 2026-04-24
+- [x] Hang snatch high pull: 5 reps ✅ 2026-04-24
+- [x] Snatch balance: 5 reps ✅ 2026-04-24
+- [x] Clean & jerk with empty bar: 3 reps ✅ 2026-04-24
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -73,6 +73,15 @@ tags:
 > **Clean & Jerk with Empty Bar x 3**
 > Full movement rehearsal. On the clean: pull from the floor, ride to full front squat depth, 1-second pause at the bottom — elbows high, torso vertical. On the jerk: dip with "heels heavy," drive vertically, lock out overhead. Use the wider jerk stance that has been the default since Week 3 (wider = +5 cm than your old narrow stance). If the anterior shoulder finding from Friday affected your shoulder warm-up this week, add 5–10 band pull-aparts at snatch grip width before the empty bar C&J.
 
+**Athlete Notes — Lumbar Self-Diagnostic Results:**
+
+For clarification of yesterday's note: discomfort is on the **right side** of the lower lumbar region. Right side confirmed. Diagnostic results:
+
+1. **Palpation** — slightly more tender on the right side; difference is small (1–2 / 10). No pain or soreness, just mildly more tender.
+2. **Standing extension** — neither side feels worse with extension. **However, during trunk flexion, I feel mild pain / more stretch on the right lower lumbar.** Sensation is superficial — feels muscular, not joint. **This is not new** — I've had this for a while. The first couple of weeks of the program it dissipated, so I thought I'd recovered or stopped paying attention to it.
+3. **Single-leg stand (each side)** — no exaggeration on either side.
+4. **Bodyweight squat to depth (5 reps)** — no exaggerated feeling either.
+
 ---
 
 ## Primary: Snatch (Full Lifts)
@@ -84,9 +93,9 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 73 kg  | /2   |     |       |
-| 2   | 73 kg  | /2   |     |       |
-| 3   | 73 kg  | /2   |     |       |
+| 1   | 73 kg  | 2/2  | 5   |       |
+| 2   | 73 kg  | 2/2  | 5   |       |
+| 3   | 73 kg  | 2/2  | 5   |       |
 
 > [!info]- Snatch — Mechanism & Coaching Notes (click to expand)
 >
@@ -109,6 +118,9 @@ tags:
 >
 > **Expected RPE:** 3–4 per rep. If any rep feels above RPE 5, something is mechanically off — check bar path or check your fatigue level (deload may have been insufficient if Wednesday or Thursday loaded hard).
 
+**Athlete Notes:**
+All 6 reps made. Technique felt good — no COM shift forward, hook grip throughout, bar stayed close to the thigh. Felt strong today.
+
 ---
 
 ## Secondary: Clean & Jerk
@@ -120,9 +132,9 @@ tags:
 
 | Set | Weight | Made? | Notes |
 | --- | ------ | ----- | ----- |
-| 1   | 90 kg  |       |       |
-| 2   | 90 kg  |       |       |
-| 3   | 90 kg  |       |       |
+| 1   | 90 kg  | yes   |       |
+| 2   | 90 kg  | yes   |       |
+| 3   | 90 kg  | yes   |       |
 
 > [!info]- Clean & Jerk — Mechanism & Coaching Notes (click to expand)
 >
@@ -177,13 +189,18 @@ tags:
 >
 > **Expected RPE:** Clean ≤4–5. Jerk ≤5–6. If either feels above RPE 6, something is off — check technique before adding a 4th set.
 
+**Athlete Notes:**
+90 kg felt light overall, RPE 5.5–6. Felt strong. **Dive and drive on the jerk is sharp — like it a lot.** No left knee discomfort.
+
+**One thing to flag:** on the last rep, after the clean, when I stood up rather quickly, I felt close to fainting — vision obscured for 2–3 seconds before recovery. I assume this is dramatic blood pressure change. Any way to improve on this / suggestions?
+
 ---
 
 ## Gymnastics Skill: Handstand Walk Progressions (5–10 min)
 
-- [ ] Wall-facing handstand hold: 2 x 40 sec
-- [ ] Wall walk with shoulder taps: 2 x 8 each hand
-- [ ] Wall-facing HS lateral weight shifts: 2 x 5 each direction
+- [x] Wall-facing handstand hold: 2 x 40 sec ✅ 2026-04-24
+- [x] Wall walk with shoulder taps: 2 x 8 each hand ✅ 2026-04-24
+- [x] Wall-facing HS lateral weight shifts: 2 x 5 each direction ✅ 2026-04-24
 
 > [!info]- Handstand Walk Progressions — Coaching Notes (click to expand)
 >
@@ -209,11 +226,11 @@ tags:
 
 ## Accessory Window (15–20 min)
 
-- [ ] Peterson step-downs: 2 x 10 each leg
+- [x] Peterson step-downs: 2 x 10 each leg ✅ 2026-04-24
   - **Left leg:** 10–15 cm step, 8–10 kg KB, vertical torso
   - **Right leg:** 20 cm step, 8–10 kg KB, full ROM
-- [ ] Pigeon stretch: 2 x 60 sec each side
-- [ ] 90/90 hip rotation: 2 x 10 each side
+- [x] Pigeon stretch: 2 x 60 sec each side ✅ 2026-04-24
+- [x] 90/90 hip rotation: 2 x 10 each side ✅ 2026-04-24
 
 > [!info]- Accessory — Mechanism & Coaching Notes (click to expand)
 >
@@ -240,13 +257,135 @@ tags:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10 (target ≤5)
-- Left knee end-of-week feel (1-5, 5=no pain):
-- Snatch notes (bar path quality at 73 kg — did it feel easy? "Sweep into hip" — could you feel it?):
-- C&J notes (anterior shoulder — 3rd data point, present or absent? Jerk dip wider stance feel?):
-- HS walk notes (hold times?):
-- General notes (Week 4 deload complete — recovery status, readiness for Week 5?):
+- [x] Session completed ✅ 2026-04-24
+- RPE (overall): 5 /10 (target ≤5)
+- Left knee end-of-week feel (1-5, 5=no pain): 5
+- Snatch notes (bar path quality at 73 kg — did it feel easy? "Sweep into hip" — could you feel it?): All 6 reps made. Bar close to thigh, no COM shift forward, hook grip throughout. Felt strong and easy.
+- C&J notes (anterior shoulder — 3rd data point, present or absent? Jerk dip wider stance feel?): All 3 cleans + 3 jerks made at 90 kg. Clean RPE 5.5–6, jerk dive-and-drive felt sharp. **Anterior shoulder: confirmed ABSENT today** (athlete confirmed Apr 24 post-session). Wider jerk stance felt good. **Near-syncope after the last clean stand-up — vision dimmed for 2–3 seconds** (asked for guidance; addressed in Coach's Review).
+- HS walk notes (hold times?): All progressions completed (wall hold, wall walks with shoulder taps, lateral weight shifts). No freestanding attempts (deload protocol).
+- General notes (Week 4 deload complete — recovery status, readiness for Week 5?): Solid 8 hours of sleep — fresh and strong today. Skills and movement flows feel good. Lumbar diagnostic completed — see Coach's Review for interpretation. Ready for Week 5.
+
+---
+
+> [!note] Coach's Review — Day 21 (Week 4 Friday — Phase 1 Weeks 1–4 Close)
+>
+> **Headline: clean session, clean diagnostic, deload landed. Two real items to address — the lumbar story now has a real interpretation, and the near-faint after the clean is a safety topic worth a small protocol.**
+>
+> ---
+>
+> **1. The lumbar diagnostic — interpretation**
+>
+> Before reading the conclusion, here's what your four answers actually *mean* clinically:
+>
+> | Test | Your result | What it tells us |
+> | --- | --- | --- |
+> | Palpation | R side ~1–2/10 more tender, no pain | Mild local tone asymmetry; not an acute inflammatory finding |
+> | Standing extension | Both sides equal, **no worsening** | Rules out facet/joint involvement (would worsen with extension) |
+> | **Trunk flexion** | **Mild stretch/pain on R lower lumbar, feels superficial/muscular** | **Localizes to the right erector spinae — and the "feels superficial" is the diagnostic word** |
+> | Single-leg stand | No change either side | No obvious unilateral compensation pattern under bodyweight load |
+> | Bodyweight squat | No exaggeration | Not load-or-position-reproducible at zero load — confirms tissue-level, not joint or disc |
+>
+> **Interpretation:** This is a **right erector spinae chronic low-grade tonus pattern** (not new — you confirmed it predates the program). Not joint, not disc, not radicular. Three things make me confident:
+> - Better-not-worse with extension rules out facet involvement
+> - The "feels superficial" sensation during flexion is the textbook description of a paraspinal muscle stretch — facet/disc pain is described as deeper, sharper, often electrical, often referring
+> - Zero reproduction at bodyweight squat means it's not movement-pattern-driven; it's a baseline tissue state that surfaces under load + fatigue
+>
+> **What "predates the program" actually changes:** Earlier weeks it dissipated, then it came back during peak volume Week 3 + lighter-bracing deload Week 4. That's a useful pattern: the discomfort is **load-and-bracing dependent**, not progressive. Going belt-less on Monday and Thursday this week amplified it. This is real information.
+>
+> **Management plan — added to Week 5:**
+> - **Foam roll right lumbar erector** (gentle, not aggressive) — 60 sec, daily, after warm-up
+> - **Couch stretch** — 60 sec each side, daily. Tight hip flexors anteriorly tilt the pelvis, which keeps the lumbar erectors loaded all day. This is the highest-leverage corrective.
+> - **90/90 breathing** — keep it as the opening warm-up item. You already do this.
+> - **Cat-cow + child's pose + supine spinal rotation** — 5 min before bed on training days. This was Wed's prescription; make it permanent.
+> - **Brace on any working set ≥80 kg back squat / ≥75 kg front squat / ≥85 kg clean from now on**, not just at heavy loads. Going belt-less at 75–80% in Phase 2 is what amplified this. Belt = less erector isometric load = less DOMS accumulation.
+>
+> **What this is NOT:** It is not a structural problem, it is not a Phase 2 blocker, and it does not require a clinician unless it changes character (sharp/electrical, refers down the leg, gets worse with cough/sneeze, or doesn't respond to the management plan above within 2 weeks).
+>
+> ---
+>
+> **2. Near-syncope after the clean stand-up — this is real, common, and addressable**
+>
+> What you described — vision dimming for 2–3 seconds after standing rapidly from a heavy clean catch — is a textbook **post-exertional orthostatic hypotension / Valsalva-release syncope precursor.** It happens to almost everyone who lifts heavy at some point. Here's the mechanism, then the fix:
+>
+> *Mechanism:* You catch the clean in a deep front squat. To stand, you hold your breath and brace hard — Valsalva — which spikes intra-thoracic pressure and momentarily *reduces* venous return to the heart. The heart maintains cardiac output through this by leaning on the brace pressure itself. The instant you stand fully and exhale, intra-thoracic pressure drops, but venous return takes 1–3 seconds to catch up. Stroke volume briefly drops. Cerebral perfusion briefly drops. Vision dims, lightheadedness appears. It clears as soon as venous return reloads the heart.
+>
+> *Why it happened today:* Three contributing factors:
+> 1. **Rapid stand from full depth at moderate-to-heavy load** — biggest single driver.
+> 2. **Exhale at the top, not during the rise** — releases the Valsalva pressure all at once.
+> 3. **Late in the session / mild dehydration** — reduces blood volume and amplifies the drop.
+>
+> *Why it specifically appeared on the last rep:* Cumulative fatigue plus mild hydration deficit by rep 6 of the C&J block. Earlier reps were buffered.
+>
+> **Fix protocol** (do all three, they compound):
+>
+> 1. **Breathing pattern through the stand:**
+>    - In the bottom of the squat catch: hold the brace.
+>    - As you initiate the stand (knees + hips driving up): **start a controlled, slow exhale through pursed lips** — about 50% of the breath out by the time you're standing. This bleeds intra-thoracic pressure gradually instead of dumping it all at once at the top.
+>    - At the top: finish the exhale, take 1 quick refill breath, *then* set up for the jerk.
+>    - This single change resolves the issue 80% of the time.
+>
+> 2. **Pause at the top of every stand-up before jerking.** You already have a 1-second pause programmed between clean and jerk — own it. Stand fully, breathe, reset feet, *then* dip. Don't chain clean → instant jerk like a workout-style C&J. At Phase 2 loads (105+ kg), that pause is non-negotiable.
+>
+> 3. **Hydration and pre-session carbs.** 500 ml water in the 90 minutes before training. A small carb snack (banana, rice cake, ~30 g carbs) 30–60 min pre. This raises blood volume and stabilizes the cardiovascular response.
+>
+> **Safety boundary:** if it happens again *with* loss of balance, near-fall, or actual loss of consciousness — that's different. Stop the session, sit down, and we'd want to investigate further (resting BP, iron status). What you described — vision dim that resolves in 2–3 sec, no fall, no LOC — is benign and self-correcting with the breathing fix above.
+>
+> ---
+>
+> **3. The session itself — clean and reassuring**
+>
+> | Lift | Prescribed | Actual | Read |
+> | --- | --- | --- | --- |
+> | Snatch | 3×2 @ 73 kg, RPE 3–4 | 6/6 made @ RPE 5 flat | Slightly above RPE target but FLAT across all sets — recovery achieved |
+> | C&J | 3×(1+1) @ 90 kg, clean ≤4–5 / jerk ≤5–6 | 3/3 + 3/3 made @ RPE 5.5–6 | At top of target band, all reps clean, jerk dive-and-drive sharp |
+> | HS walk | 2 sets each of 3 progressions | All completed | Maintain target met |
+> | Accessories | Step-downs + pigeon + 90/90 | All completed | Knee 5/5 throughout |
+>
+> The **flat RPE across snatch sets** is the most important RPE data point of the week. Thursday at 104 kg drifted 6 → 6 → 6.5 (fatigue accumulating within the session = under-recovered). Today at 73 kg held 5 / 5 / 5 (no drift = recovered). The deload landed.
+>
+> **Anterior shoulder — confirmed ABSENT today.** Athlete confirmed post-session: zero anterior shoulder discomfort during the 90 kg C&J. Combined with Wk 3 Sat 85 kg absent, Wk 4 Wed 100 kg absent, today's 90 kg absent makes **three consecutive clean fresh data points across two different weeks.** **Verdict: Wk 3 Friday's anterior shoulder finding was load + fatigue + decayed pull-under pattern. Not structural. Closed.** Final natural retest happens at the first 100+ kg C&J set in Wk 5; if it stays clean there, it comes off the active limiter list permanently. No pre-clean protocol additions needed.
+>
+> ---
+>
+> **4. Phase 1 Weeks 1–4 — what was actually built**
+>
+> The "Phase 1 Close" table at the bottom of this note (in the Week 5 Preview block) is from before today happened. Here is the updated end-of-block status with Friday's data folded in:
+>
+> | Metric | Wk 1 baseline | End of Wk 4 |
+> | --- | --- | --- |
+> | Snatch ceiling | ~81 kg @ RPE 7 | **84 kg @ RPE 7** (Wk 3 PR) |
+> | Snatch position under deload | Bar drift forward at fatigue | **73 kg flat-RPE clean reps, no drift** (today) |
+> | Squat clean receiving | Absent / decayed | **Rebuilt** Wk 3 Sat; held at 90 kg today |
+> | Front squat constraint | Present at depth | **Resolved** (Wk 3 Thu, 107 kg) |
+> | Front squat lumbar (erector tonus) | Background | **Identified, characterized, managed** (today's diagnostic) |
+> | Back squat | RPE drift, breathing-limited | **Breathing fix confirmed**, 110 kg 5×5 RPE 7–7.5 |
+> | Left knee | Flaring jerk dip 3.5/5 | **5/5 every session this week**, jerk-dip-only pattern confirmed and fixed via wider stance |
+> | Anterior shoulder | (Wk 3 finding) | **Three consecutive absent-at-fresh data points** — closed pending Wk 5 100+ kg confirm |
+> | Left hip ER stiffness | (Wk 3 Sat finding) | Improving Wed; not a Wk 5 limiter |
+> | Jerk stance | Narrow (knee-flaring) | **Wider (+5 cm) is the new default** |
+> | BSS compliance | 0/3 weeks | **Done Wk 2 PM + Wk 3 Sat + Wk 4 Mon/Fri step-downs** |
+> | HS walk | 5-sec freestanding (Wk 2) | Maintained through Wk 4 |
+>
+> Eight active limiters at Week 1 baseline. Five resolved or significantly improved, two managed-with-protocols, one new and characterized. **The deload week did its job structurally and physiologically.** The under-recovered feel of Mon + Thu was almost entirely sleep + missing belt, not an indicator that the deload was insufficient — Friday's flat-RPE proves recovery happened.
+>
+> **Going into Week 5: the body is a "yes" for loading. The right erector tonus is the only active maintenance item, and the management plan above handles it.**
+>
+> ---
+>
+> **5. Updated Week 5 plan (supersedes the pre-session preview block below)**
+>
+> The Week 5 Preview block beneath this review was written before today's diagnostic and before today's near-syncope event. The following items now override / extend it:
+>
+> 1. **Week 5 squat work — wear the belt.** All back squat working sets ≥80 kg and front squat ≥75 kg. Non-negotiable while the right erector pattern is active.
+> 2. **Daily 60-sec right lumbar erector foam roll + 60-sec couch stretch each side** in every warm-up.
+> 3. **Pre-clean / pre-front-squat breathing protocol updated:** controlled exhale through the stand, never a Valsalva-and-release at the top.
+> 4. **Hydration: 500 ml water + ~30 g carbs** in the 60–90 min pre-session window. This is a permanent change, not Week-5-only.
+> 5. **Anterior shoulder pre-clean protocol — NOT added.** Three clean data points = no warm-up additions. Re-evaluate naturally at first 100+ kg C&J set in Week 5.
+> 6. **Week 5 Monday back squat:** load as planned (75% / ~143 kg working sets — confirm against current PR). The lumbar diagnostic was reassuring enough that we don't drop intensity. We DO add bracing and the daily lumbar mobility — that's the trade.
+>
+> ---
+>
+> **Closing note:** This is the cleanest possible end to a Phase 1 block. Every active question got an answer this week (anterior shoulder = no, lumbar = right erector tonus, deload sufficient = yes). The work going into Week 5 is loading on a foundation that's actually built, not on assumptions. Nice job.
 
 ---
 

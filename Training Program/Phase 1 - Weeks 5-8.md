@@ -1,5 +1,39 @@
 ## Week 5 — Block 2 Start (Intensity Bump)
 
+> [!warning] Week 5 — Trip Accommodation (decided 2026-04-24)
+>
+> **Constraint:** Athlete on travel Apr 30 → May 5 (6 days, no weight lifting; bands + bodyweight only). Available training days: **Apr 27, 28, 29 + May 6, 7, 8** (6 lifting days vs 10 prescribed across Wk 5+6).
+>
+> **Approach 1 selected:** Front-load Wk 5 essentials Apr 27–29, use trip as built-in mid-Phase deload, deliver remaining Wk 5 sessions May 6–8 (with re-entry deload on May 6). **Wk 6 prescribed shifts +1 week** (now May 11–17). **Wk 7 → May 18–24. Wk 8 test week → May 25–31.**
+>
+> **Session date map:**
+>
+> | Wk 5 prescribed session | Date delivered | Notes |
+> | --- | --- | --- |
+> | Mon — Snatch Complex + BS | Mon Apr 27 | Full prescribed loads |
+> | Tue — Jerk + Press + Ring MU | Tue Apr 28 | Full prescribed loads |
+> | Wed — Clean + DL | Wed Apr 29 | Full prescribed loads — **first 105 kg squat clean = anterior shoulder retest** |
+> | Thu — FS + OHS + Metcon | **Wed May 6 (re-entry)** | **Loads at ~90%** (FS 108 kg, OHS 62 kg); no metcon; deliberately lighter after 6 days off |
+> | Fri — Snatch + C&J + HS Walk | **Thu May 7** | Full prescribed loads (84 kg snatch single + 79 kg working sets; 98 kg C&J) |
+> | (no Wk 5 prescribed equivalent) | **Fri May 8** | Bridge session: Squat Clean 4×3 @ 95 kg paused + BSS 3×10 @ 17 kg + mobility |
+>
+> **Trip protocol:** see [[Trip Mobility Protocol (2026-04-30 to 2026-05-05)]] — daily ~20-min Tier 2 mobility/rehab targeting right erector tonus, left hip ER, thoracic, shoulder. No conditioning.
+>
+> ---
+>
+> ### New Protocols Active From Wk 5 (carried from Wk 4 review)
+>
+> 1. **Belt-on rule** — all working sets at: BS ≥80 kg, FS ≥75 kg, Clean ≥85 kg. Non-negotiable while right erector tonus is the active management item.
+> 2. **Daily warm-up additions** (every training day, before prescribed warm-up):
+>    - 60 sec right lumbar erector foam roll (gentle)
+>    - 60 sec couch stretch each side
+>    - 90/90 breathing 2 min (already standard)
+> 3. **Pre-session fueling** — 500 ml water + ~30 g carbs in the 60–90 min pre-training window.
+> 4. **Heavy clean stand-up breathing** — controlled exhale through pursed lips during the rise (NOT all-at-once at top); own the 1-sec pause between clean and jerk; never chain them. (Addresses Wk 4 Fri near-syncope.)
+> 5. **Pre-bed mobility (training days only)** — 5 min cat-cow + child's pose + supine spinal rotation.
+> 6. **Anterior shoulder pre-clean protocol — NOT added.** Three clean fresh data points across Wk 3+4. Natural retest happens at 105 kg on Wed Apr 29; if clean, the limiter is permanently closed.
+> 7. **Squat clean structural decision — pending.** Wk 5 Wed Apr 29 is at the gym (not the box), so no add-on needed this week. Decision will be needed when box Wednesdays resume in Wk 6+.
+
 > [!info] Week 5 Targets
 > Oly intensity: 75-80% | Squat intensity: 75% | Focus: same positions as Block 1, slightly heavier loads. You should feel refreshed from deload.
 
@@ -170,6 +204,9 @@
 ---
 
 ## Week 6 — Building
+
+> [!warning] Wk 6 dates shifted: **May 11–17, 2026** (was May 4–10)
+> Per Wk 5 trip accommodation. Wk 7 → May 18–24. Wk 8 test week → May 25–31. Prescribed sessions below are unchanged — only the calendar shifts.
 
 > [!info] Week 6 Targets
 > Oly intensity: 77-82% | Squat intensity: 77% | Focus: push volume slightly, maintain quality positions
