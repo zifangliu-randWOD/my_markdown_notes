@@ -11,14 +11,24 @@
             "id": "188a8c50c3c10f2d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",
-                "bFile": "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",
-                "aRef": ""
+                "file": "Training Program/Week 5/2026-04-27 Mon - Snatch Complex + Back Squat.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2026-04-24 Fri - Light Snatch + C&J + HS Walk  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-04-27 Mon - Snatch Complex + Back Squat"
             }
           }
         ]
@@ -209,16 +219,18 @@
   },
   "active": "188a8c50c3c10f2d",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "Training Program/Week 3/2026-04-13 Mon - Snatch Complex + Back Squat.md",
     "Training Program/Week 5/2026-04-27 Mon - Snatch Complex + Back Squat.md",
+    "Training Program/Week 5/Trip Mobility Protocol (2026-04-30 to 2026-05-05).md",
+    "Training Program/Week 5/2026-04-28 Tue - Jerk + Strict Press + Ring MU.md",
+    "Agent.md",
     "docs/README.md",
+    "CLAUDE.md",
     "docs/specs/2026-04-24-claude-md-memory-split-design.md",
     "docs/plans/2026-04-24-claude-md-memory-split-plan.md",
     "docs/plans",
     "docs/specs",
     "docs",
-    "Training Program/Week 5/2026-04-28 Tue - Jerk + Strict Press + Ring MU.md",
-    "Training Program/Week 5/Trip Mobility Protocol (2026-04-30 to 2026-05-05).md",
     "Training Program/Phase 1 - Weeks 5-8.md",
     "Training Program/Week 5/2026-05-08 Fri - Bridge - Squat Clean + BSS + Mobility.md",
     "Training Program/Week 5/2026-05-07 Thu - Snatch + C&J + HS Walk.md",
@@ -237,8 +249,6 @@
     "Training Program/Week 4/2026-04-20 Mon - Light Snatch + Back Squat.md",
     "Training Program/Week 4/2026-04-21 Mon - Light Snatch + Back Squat.md",
     "Training Program/Week 4/2026-04-25 Fri - Light Snatch + C&J + HS Walk.md",
-    "Training Program/Phase 1 - Weeks 1-4.md",
-    "Training Program/Week 3/Week 3 Summary.md",
     "Training Program/Week 4",
     "Training Program/Week 3",
     "Training Program/Week 2",

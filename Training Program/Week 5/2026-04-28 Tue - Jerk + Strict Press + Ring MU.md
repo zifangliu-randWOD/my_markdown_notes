@@ -39,9 +39,29 @@ tags:
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
-> **Front rack stretch with barbell:** weekly check on left arm thoracic restriction. Compare today's elbow height to Wk 3's baseline. Has it improved? The Wk 4 mobility circuit (especially thoracic extension over bench) was specifically targeting this; the carryover should be visible.
+> **90/90 breathing — 2 min**
+> Same reset as Monday. Ribs down, lower back flat, breath into the posterior ribs. This matters on jerk day because a rib-flared setup turns the dip into a low-back extension pattern, and that feeds both right erector tonus and forward bar drift.
 >
-> **Jerk footwork drills:** the wider stance is your default — set up the +5 cm wider stance from the very first drill. Don't drift to the old narrow stance under fatigue or absent attention. Build muscle memory at the right stance every rep.
+> **Right lumbar erector foam roll — 60 sec**
+> Gentle pressure, right side only unless the left also feels unusually tight. The goal is to reduce guarding before overhead work, not to make the tissue sore. If the right erector feels calmer after Monday's belted squats, note that — it confirms the protocol is doing useful work.
+>
+> **Couch stretch — 60 sec each side**
+> Squeeze the back-leg glute and keep the ribs stacked. A good couch stretch should make the jerk dip feel more vertical because the pelvis is not being pulled forward by tight hip flexors.
+>
+> **Banded lat stretch — 45 sec each side**
+> Band overhead or slightly forward, thumb up, ribcage down. This is for overhead stack and front rack tolerance. Give the left side the cleaner setup and a slower exit; left thoracic/shoulder restriction is still the side that most affects jerk receiving quality.
+>
+> **Front rack stretch with barbell — 60 sec**
+> Weekly check on left arm thoracic restriction. Bar in the rack, fingers under, elbows driven forward and up. Compare today's elbow height to Wk 3's baseline. Do not force the wrist into extension to fake elbow height — the win is thoracic extension plus shoulder external rotation, not wrist discomfort.
+>
+> **Thoracic rotation on wall — 8 each side**
+> Hips square, ribs down, rotate through the upper back. The left side may feel slower. Pause one breath at end range rather than bouncing. This prepares the torso to stay tall in the dip and stable under the press.
+>
+> **Push press empty bar — 10 reps**
+> Use this as dip rehearsal, not shoulder warm-up only. Heels heavy, knees track forward just enough, torso vertical. If you feel the dip pushing you onto the toes, widen the stance before the jerk work starts.
+>
+> **Jerk footwork drills — 10 each side**
+> The wider stance is your default — set up the +5 cm wider stance from the very first drill. Don't drift to the old narrow stance under fatigue or absent attention. Build muscle memory at the right stance every rep. Each rep should finish with the bar path stacked over midfoot and the left knee quiet.
 
 ---
 
@@ -70,6 +90,15 @@ tags:
 > - Wider stance naturally shifts COM toward the heels during the dip — protects the patellar tracking on the left knee
 > - Bar drift toward the fingers (cosmetic Wk 4 pattern) — pre-grip check before each set, seat the bar in the palm not the finger base
 >
+> **Set-up sequence before every set:**
+> 1. Walk out and plant the wider stance before the bar leaves the rack.
+> 2. Bar seated in the palm, elbows slightly forward, chest tall but ribs down.
+> 3. Big breath into the beltless brace, glutes lightly on, heels heavy.
+> 4. Dip straight down no deeper than needed; drive before the knees slide forward.
+> 5. Lock out fast, then re-rack only after the bar is stable.
+>
+> **What the wider stance should feel like:** more room for the knees, less forward pressure behind the left kneecap, and a cleaner vertical drive. It may feel less explosive at first because it is less familiar, but it should feel safer and more centered. If the stance feels wide but the knee still complains, the dip is probably too deep or the torso is tipping.
+>
 > **Heavy clean stand-up breathing — applied to jerk dip:**
 > - In the dip: brace, hold air
 > - As you initiate the drive: controlled exhale through pursed lips
@@ -79,6 +108,8 @@ tags:
 > **If knee discomfort appears at any rep:** stop the set, check the stance width (it may have drifted narrower), check the dip depth (too deep = COM forward). Do not push through. Drop load 5–10% if needed and continue.
 >
 > **RPE target:** 7. If a set climbs above 7.5, reset stance + breathing and continue at the same load. If two consecutive sets at 8+, reduce to 88 kg and finish remaining sets there.
+>
+> **Between-set note to capture:** after each set, write one word for knee feel: quiet, pressure, or pain. This is more useful than only logging a final 1-5 because jerk knee symptoms can appear briefly and then disappear by the end of the session.
 
 ---
 
@@ -104,7 +135,11 @@ tags:
 >
 > **Bar path:** straight up the face. Move the head out of the way as the bar passes the chin, then bar finishes overhead with shoulders shrugged into the ears. Do not press the bar forward and around.
 >
-> **If 65 kg feels harder than RPE 7 by set 2:** drop to 60 kg for sets 3–4 and note it. Press strength is a Phase 2 buildable; don't grind the first session.
+> **If 65 kg feels harder than RPE 7 by set 2:** drop to 60 kg for sets 3–4 and note it. Press strength is a buildable support quality; don't grind the first heavier press session of Block 2.
+>
+> **How the set should feel:** first 2 reps crisp, rep 3 work begins, reps 4-5 require bracing but no layback fight. If the low back starts arching to finish reps, the press is no longer training the shoulders cleanly — squeeze glutes harder first, then reduce load if it persists.
+>
+> **Athlete-specific note:** this is not the place to chase a press PR. The strict press supports jerk lockout and ring support strength. Any anterior shoulder pull, biceps tendon sensation, or wrist strain gets logged and the next set drops 5 kg.
 
 ---
 
@@ -125,6 +160,15 @@ tags:
 > - Cue: pull the rings to the hips, not the rings to the chest. The transition is a hip drive into a press-out, not a continuous pull.
 >
 > **False grip stamina:** if the grip slips by rep 3, that's the limiter, not pulling strength. Use a band on rep 4–5 to keep the false grip activation pattern intact rather than dropping the false grip.
+>
+> **Deep ring dips — execution standard:**
+> Rings close to ribs on the way down, shoulders below elbows only if the anterior shoulder feels clean, then press out with rings turned slightly out at the top. The 3-sec eccentric is there to build bottom-position control for the muscle-up transition. If the anterior shoulder feels stretched in the bottom, shorten the range by 2-3 cm and keep tension.
+>
+> **False grip pull-ups — what counts:**
+> Wrist crease stays over the ring through the whole rep. Chin over ring height is less important than keeping the false grip. A rep that becomes a normal grip halfway up does not count as a muscle-up progression rep.
+>
+> **Transition reps — rhythm cue:**
+> Pull rings to low ribs/hips, sit chest over the rings, then press out. Do not try to curl the rings to the chest. If the transition feels impossible with the lighter band, use the stronger band and make the pathway perfect.
 
 ---
 
@@ -142,6 +186,10 @@ tags:
 > **Prone Y-T-W raises:** lower trap + rhomboid activation. Without these the jerk lockout leans on the deltoids and biceps and the bar drifts forward at heavier loads. Slow, controlled, no momentum.
 >
 > **External rotation with band:** rotator cuff posterior chain. Two sets at 15 reps is maintenance; today bumps to 3 sets at 15 reps because Wk 5+ the OHS and snatch start loading the cuff more.
+>
+> **Pigeon stretch:** left first, full 60 sec. This is not directly a jerk accessory, but it keeps the left hip ER closing trend moving so tomorrow's squat clean receive has a better base. If the left side feels like the old "rust gear" again, add a second 30-sec left-side hold.
+>
+> **Accessory RPE cap:** all shoulder accessories should feel like quality activation, RPE 5–6. If the jerk or press already left the shoulders fatigued, keep the band tension light and prioritize range plus control.
 
 ---
 

@@ -43,17 +43,35 @@ tags:
 >
 > **The extended warm-up is intentional today.** 6 days off means the body needs more time to find positions. 15 minutes vs the usual 12. Don't rush it.
 >
+> **90/90 breathing — 2 min**
+> Treat this as the first re-entry diagnostic. If the low back flattens easily and the breath expands into the back ribs, the trip protocol probably kept the lumbar-pelvic system quiet. If this feels stiff or shallow, do not rush to the bar; add 4-5 extra breaths.
+>
 > **Right lumbar foam roll — first dose since the trip:**
 > - Notice if the right erector feels different from Apr 29 (last session pre-trip)
 > - The 6 days of trip protocol (foam roll daily + couch stretch daily + 90/90) should have moved the needle
 > - If it feels noticeably better → confirm the trip protocol worked. If unchanged → log it; we adjust if needed.
+>
+> **Couch stretch — 60 sec each side**
+> Same pelvis-management role as before the trip. A useful re-entry check: if the stretch feels dramatically tighter than pre-trip, travel sitting likely reloaded the hip flexors. That does not mean strength is gone; it means the warm-up needs to be respected.
+>
+> **Thoracic foam roll — 2 min**
+> Two full minutes because front squat and OHS both depend on thoracic extension today. Work T1-T9, one segment at a time. The OHS will reveal any missed range immediately, so do the quiet work before the bar tells you loudly.
 >
 > **Front rack stretch with barbell — post-trip baseline:**
 > - Compare elbow drive height to last session (Apr 29 squat clean front rack)
 > - Trip mobility (banded overhead distractions, dislocates, thoracic foam roll daily) may have improved this
 > - This is your check on whether the mobility work actually translated
 >
+> **Ankle dorsiflexion wall stretch — 30 sec each side**
+> Short dose, just enough to restore squat depth after travel. Keep heel down and knee tracking over the toes. If the left knee feels pressure here, widen stance slightly in the front squat warm-up.
+>
 > **Empty-bar work (goblet, OHS, front squat):** position rehearsal. The first heavy reps will feel rusty; the empty-bar work primes the patterns.
+>
+> **OHS empty bar — 5 reps**
+> This is the trip-mobility audit for the left shoulder. Hook grip, ribs down, eyes on wall, knuckles to ceiling. If the left arm feels less restricted than Wk 4 Thursday, log it — that is a real win from the travel protocol.
+>
+> **Front squat empty bar — 5 reps**
+> Full depth, elbows high, one breath between reps. Rehearse the exact posture you want at 108 kg: eyes on wall, elbows reset at top, no breath released in the descent.
 
 ---
 
@@ -87,6 +105,13 @@ tags:
 > **No tempo drift:** "tempo 3-0-0" means 3-second eccentric, no pause, drive up. At 108 kg this should be smooth, not labored. If you're struggling to hit the tempo on the way down, the load is too much for re-entry day — drop to 100 kg.
 >
 > **If RPE ≥7.5 on set 2:** drop to 100 kg for sets 3–4. Note it. End the session after the FS — skip the OHS.
+>
+> **Rep-by-rep execution:**
+> At the top, take a full breath into the belt, elbows high, eyes fixed on the wall. Descend for 3 seconds with the torso vertical. Drive up without letting the elbows drop. At the top, fully stand, take 1-2 breaths, then re-brace. The re-entry mistake is to rush rep 2 because rep 1 felt fine; don't let the set tempo disappear.
+>
+> **What to monitor today:** left knee should be 5/5 because this load is conservative and the belt is back. Right lumbar should feel quieter than Apr 29 if the trip protocol worked. Front rack should not be perfect, but it should be available; if the bar is rolling into the fingers by set 2, thoracic restriction is still the limiting factor.
+>
+> **Green-light standard for tomorrow:** not just "completed." The standard is 108 kg for all four sets at RPE ≤7, no right-lumbar escalation, and front rack not worsening set to set. If all three are true, Thursday's full prescribed snatch/C&J loads make sense.
 
 ---
 
@@ -114,6 +139,10 @@ tags:
 > **Test: can you feel the trip mobility work?** The banded overhead distractions Apr 30–May 5 specifically targeted the bilateral thoracic + shoulder restriction (worse on left). Notice if the left arm feels more mobile in the catch position than it did Wk 4 Thursday at 58 kg. This is one of the cleaner ways to measure if the trip protocol moved the needle.
 >
 > **No metcon today** — re-entry session, mobility circuit replaces it.
+>
+> **Execution detail:** keep the OHS slower than normal. It is not a leg-strength movement today; it is the deepest diagnostic of snatch receive position after travel. Pause one breath at the bottom of rep 1 each set to confirm bar-over-midfoot, then finish the set smoothly.
+>
+> **If the left arm is the limiter:** take one extra banded overhead distraction set before sets 3-4 instead of grinding through a forward bar path. A clean 62 kg at RPE 5 is useful; a fought 62 kg at RPE 7 just adds noise.
 
 ---
 
@@ -142,6 +171,15 @@ tags:
 > - Pigeon: left hip ER smoother?
 >
 > All of these are direct metrics for whether the trip mobility protocol worked. Log honestly.
+>
+> **Thoracic extension over bench with barbell:**
+> Bar held in front rack or overhead-support position depending on comfort. Sink the chest, exhale, keep ribs down. The target is upper-back extension, not lumbar arching. Compare depth to Wk 4 Thursday.
+>
+> **Banded overhead distraction:**
+> Thumb up, band pulling the arm into flexion, ribcage down. Left gets extra time. This should create a clean stretch in lat/shoulder capsule, not anterior shoulder pinch.
+>
+> **Pigeon + 90/90:**
+> Left first. The hip should feel smoother than the Wk 3 Sat "rust gear" baseline. If it regressed during travel, keep pigeon in the warm-up for May 7 and May 8 rather than only accessory.
 
 ---
 

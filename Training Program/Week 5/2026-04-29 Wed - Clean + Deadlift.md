@@ -16,7 +16,7 @@ tags:
 [[00 - Program Overview]] | [[Phase 1 - Weeks 5-8]]
 
 > [!tip] Day Focus
-> **The biggest session of the block.** Three things converge today, and any one of them would justify careful framing on its own. First, the anterior shoulder finding gets its closure point: the data trail runs Wk 3 Fri 98 kg present → Wk 3 Sat 85 kg absent → Wk 4 Wed 100 kg absent → Wk 4 Fri 90 kg absent, with the standing verdict "closed pending Wk 5 100+ kg fresh confirm." Today is that confirm — the first 105 kg squat clean of program history; absent again and the limiter comes off the active list permanently. Second, the right erector tonus management protocol gets its real Phase 2 test: Wk 4 Wed's deadlift came in at RPE 6 with only 140 kg belt-less and no tempo (Wk 3's 5×5 tempo DL fatigue residue still in the system), and today is +20 kg with the same 3-0-3 tempo plus the belt — **Phase 1's heaviest tempo deadlift**, four sets of five at 160 kg with each rep ~7 seconds under load. The belt-on protocol exists precisely for this scenario; check the right erector between sets honestly — "warmed-out" is fine, "tight and building tonus" means stop and reduce. Third, the heavy clean stand-up breathing protocol gets its first real heavy application — Friday's near-syncope happened at 90 kg, today is 105 kg paused + squat. The cue, rep by rep, from set 1: at the bottom of the catch hold the brace, then **controlled exhale through pursed lips during the rise — ~50% of breath out by the time you're standing tall**, finish exhale at the top, one quick refill, set the bar down with control. Never Valsalva-and-release at the top — that's the exact mechanism that dimmed your vision Friday. Bar drop from the front rack to the platform between every rep, no exceptions — it feels less polished, but this is the direct fix for the bar-lowering anterior shoulder hypothesis and a habit worth installing today, not in Phase 2. Pace accordingly: more positional content than any Phase 1 session so far, the pause clean enforces patience off the floor by design, and 3:00 minimum between cleans is non-negotiable — no rushing the breathing or the receive position to save time. By the end of session you'll have four clean data points: the anterior shoulder verdict at 105 kg fresh, the right erector response to belted heavy tempo DL, the breathing protocol's effectiveness at heavy load, and the BSS progression decision (17 kg held or 15 kg defended). Walk in with intent — this is the session the whole block has been building toward.
+> **The biggest session of the block.** Three things converge today, and any one of them would justify careful framing on its own. First, the anterior shoulder finding gets its closure point: the data trail runs Wk 3 Fri 98 kg present → Wk 3 Sat 85 kg absent → Wk 4 Wed 100 kg absent → Wk 4 Fri 90 kg absent, with the standing verdict "closed pending Wk 5 100+ kg fresh confirm." Today is that confirm — the first 105 kg squat clean of program history; absent again and the limiter comes off the active list permanently. Second, the right erector tonus management protocol gets its real Block 2 test: Wk 4 Wed's deadlift came in at RPE 6 with only 140 kg belt-less and no tempo (Wk 3's 5×5 tempo DL fatigue residue still in the system), and today is +20 kg with the same 3-0-3 tempo plus the belt — **Phase 1's heaviest tempo deadlift**, four sets of five at 160 kg with each rep ~7 seconds under load. The belt-on protocol exists precisely for this scenario; check the right erector between sets honestly — "warmed-out" is fine, "tight and building tonus" means stop and reduce. Third, the heavy clean stand-up breathing protocol gets its first real heavy application — Friday's near-syncope happened at 90 kg, today is 105 kg paused + squat. The cue, rep by rep, from set 1: at the bottom of the catch hold the brace, then **controlled exhale through pursed lips during the rise — ~50% of breath out by the time you're standing tall**, finish exhale at the top, one quick refill, set the bar down with control. Never Valsalva-and-release at the top — that's the exact mechanism that dimmed your vision Friday. Bar drop from the front rack to the platform between every rep, no exceptions — it feels less polished, but this is the direct fix for the bar-lowering anterior shoulder hypothesis and a habit worth installing now, before Phase 2 loads arrive. Pace accordingly: more positional content than any Phase 1 session so far, the pause clean enforces patience off the floor by design, and 3:00 minimum between cleans is non-negotiable — no rushing the breathing or the receive position to save time. By the end of session you'll have four clean data points: the anterior shoulder verdict at 105 kg fresh, the right erector response to belted heavy tempo DL, the breathing protocol's effectiveness at heavy load, and the BSS progression decision (17 kg held or 15 kg defended). Walk in with intent — this is the session the whole block has been building toward.
 
 ---
 
@@ -42,7 +42,25 @@ tags:
 >
 > **Right lumbar foam roll + couch stretch:** especially important today. Heavy DL + the eccentric tempo load the erectors directly; pre-warming the right side reduces the local tonus accumulation during the session.
 >
+> **90/90 breathing — 2 min**
+> This is the brace rehearsal before the heaviest clean/deadlift day of the block. Flatten the low back, breathe into the belt-line, and feel the ribs come down. If you cannot find the low-back-flat position here, you will likely over-extend in the clean pull or deadlift lockout; take an extra 30 seconds before moving on.
+>
+> **Right lumbar foam roll — 60 sec**
+> Work slowly along the right erector, not directly on the spine. The right side may feel more rope-like than the left; that is the known pattern. The target is a softer, warmer sensation after the minute. If it becomes sharper or more localized with pressure, skip the post-session second dose and log the change.
+>
+> **Couch stretch — 60 sec each side**
+> Glute squeezed, pelvis tucked, ribs down. This is a lumbar-management drill today: looser hip flexors reduce anterior pelvic tilt, which reduces how much the erectors have to hold before the bar even leaves the floor.
+>
+> **Hip circles — 10 each direction**
+> Slow enough to feel the left hip external rotation segment. The left hip ER finding is closing; today is a good stress test because squat cleans ask for symmetric hip rotation in the receive. If the left hip feels rough, add one 30-sec pigeon hold before the barbell warm-up.
+>
 > **Banded good mornings:** posterior chain warm-up — hamstrings + glutes + erectors. Light tension band, 10 reps. Sets up the deadlift hip hinge pattern at zero load.
+>
+> **Clean-grip deadlift to knee — 5 reps**
+> Bar close, shoulders just ahead of bar, pause briefly at knee. This is the empty-bar version of the pause clean. If the hips shoot up here, they will shoot up at 105 kg. Reset each rep until the chest and hips rise together.
+>
+> **Hang muscle clean — 5 reps**
+> Tall finish, fast elbows, bar close to the shirt. This warms the front rack and the anterior shoulder without the squat receive. Any anterior shoulder sensation here would be unusual; if it appears, note it before loading.
 >
 > **Front squat with empty bar:** specifically for the squat clean receive position today. Full depth, elbows driven up. Notice the front rack feel (left vs right) — this is your weekly baseline check.
 
@@ -75,6 +93,8 @@ tags:
 > - From the pause, finish the pull explosively — second pull takes over from the static position.
 > - This is the most direct corrective for the early hip rise pattern flagged in Wk 4 Wed.
 >
+> **Build-up plan:** empty bar complex x2, 60 kg x1, 80 kg x1, 95 kg x1, 100 kg x1, then 105 kg working sets. The 100 kg rep is the exact Wk 4 Wed diagnostic load; it should feel familiar and clean. If 100 kg feels worse than Wk 4, do not force 105 kg for five sets — take 102.5 kg and preserve the diagnostic quality.
+>
 > **Squat Clean (after the pause clean):**
 > - Standard full squat clean from the floor.
 > - Apply the patience the pause just rehearsed.
@@ -96,6 +116,12 @@ tags:
 > - This is the protocol fix for the bar-lowering anterior shoulder hypothesis. From today onward, drop bumpers from the front rack at any clean ≥80%.
 >
 > **If RPE climbs above 7.5 by set 3:** rest 4:00 instead of 3:00 between remaining sets. If still above 7.5 at set 4, drop to 100 kg for set 5.
+>
+> **What a good set looks like:**
+> The pause clean should feel almost like a positional primer, not a max-effort pull from the knee. The squat clean should be faster under the bar than the pause clean because the first rep rehearsed patience. Stand-up should feel controlled, no lightheadedness, and the bar should be dropped cleanly from front rack after the top position.
+>
+> **If the anterior shoulder is present:**
+> Mark which part of the rep caused it: pull-under, receive, stand-up, or bar descent. That distinction matters. Pull-under/receive points to bar path or front rack; bar descent points to the Wk 4 bar-lowering hypothesis. Stop the complex for that set, reduce to 95 kg for remaining sets, and keep the drop-from-rack protocol strict.
 
 ---
 
@@ -127,6 +153,14 @@ tags:
 > **Eye gaze:** straight ahead, neutral neck. Do not look up at the ceiling on the lockout (causes lumbar hyperextension + bar drift back). Do not look at the floor (causes thoracic flexion).
 >
 > **If the right erector lights up beyond "warmed-out" by set 2:** stop. Drop to 145 kg for sets 3–4. Note the response. The deadlift is not worth aggravating the lumbar pattern; we manage carefully and load when ready.
+>
+> **Start position checklist:**
+> Midfoot under bar, clean grip set, lats tight enough that the bar wants to touch the shin, shoulders slightly ahead of the bar, ribs down. Take the breath into the belt before the bar moves. The first 5 cm off the floor should feel patient; if it pops fast and the hips shoot up, reset and slow the first pull.
+>
+> **Tempo discipline:**
+> Count the concentric as "one-one-thousand, two-one-thousand, three" until lockout, then lower the same way. Do not make the first rep a normal-speed rep and only slow the later reps. The tempo is the stimulus; the load is not the whole prescription.
+>
+> **Expected set shape:** Set 1 around RPE 7, set 2 around 7.5, set 3 could touch 8, set 4 should not exceed 8. If set 1 is already 8, the load is wrong for today — reduce immediately rather than discovering it after 20 tempo reps.
 
 ---
 
@@ -150,6 +184,11 @@ tags:
 > **Hip flexor stretch:** carries the couch stretch theme — anteriorly tight hip flexors = anteriorly tilted pelvis = loaded erectors. 60 sec each side.
 >
 > **Post-session foam roll:** second dose today because the deadlift loaded the erectors heavily. 60 sec on the right side, gentle.
+>
+> **Single-leg RDL — execution note:**
+> Contralateral hold if possible, soft knee, hips square to the floor. The goal is to train balance and posterior-chain control without feeding the right erector. If the torso twists open or the right low back grips, reduce load and use a light fingertip touch on a rack for balance.
+>
+> **Accessory decision rule:** If deadlift set 4 was RPE 8 or the right erector is below 4/5, cut accessory volume to 2 sets each. The accessories support the knee/hip rehab; they should not turn the session into a second fatigue peak.
 
 ---
 
@@ -184,3 +223,4 @@ tags:
 > 2. **Right erector under heavy DL with belt:** how did the erector respond to belted heavy DL vs Wk 4's belt-less moderate squat? This is the test of the bracing protocol's effectiveness.
 > 3. **Stand-up breathing protocol — first heavy application:** did the controlled exhale prevent any lightheadedness? Was it natural or did it feel forced?
 > 4. **BSS progression decision:** if 17 kg held RPE ≤7, that's the new working weight for the rest of Phase 1.
+> 5. **Load readiness for post-trip re-entry:** if today's deadlift or clean produces an unexpected lumbar or shoulder response, May 6 stays conservative and May 7 loads should not be auto-green-lit.

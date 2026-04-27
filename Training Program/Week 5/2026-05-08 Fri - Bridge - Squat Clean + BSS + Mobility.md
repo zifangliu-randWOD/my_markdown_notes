@@ -36,6 +36,26 @@ tags:
 - [ ] Hang muscle clean with empty bar: 5 reps
 - [ ] Front squat with empty bar: 5 reps (full depth)
 
+> [!info]- Warm-up Movement Guide (click to expand)
+>
+> **90/90 breathing — 2 min**
+> Start by checking whether the week left any lumbar guarding. Low back flat, slow breath into posterior ribs. This is a bridge day, so the warm-up should make you feel calmer and more organized, not activated for a max attempt.
+>
+> **Right lumbar erector foam roll — 60 sec**
+> Gentle right-side dose. Compare to May 6 and May 7. If it has improved across the three post-trip sessions, the management protocol is working. If it is worse today, cut the squat clean volume to 3x3 and spend the saved time on the mobility circuit.
+>
+> **Couch stretch — 60 sec each side**
+> Same pelvis-reset role. Keep glute squeezed and ribs down. This should make the squat clean receive feel more vertical and reduce the tendency to overextend the low back during the stand.
+>
+> **Hip circles — 10 each direction**
+> Slow diagnostic for left hip ER. The clean catch needs both hips to open symmetrically; if the left side catches or grinds, add 60 sec pigeon on the left before the barbell warm-up.
+>
+> **Hang muscle clean — 5 reps**
+> Fast elbows with no squat. The purpose is turnover speed and front-rack arrival, not power. Bar should stay close enough that it brushes the shirt.
+>
+> **Front squat empty bar — 5 reps**
+> Full depth, elbows high, eyes on wall. This is the exact bottom position you will pause in at 95 kg. If the empty bar position is not calm, the paused clean will not be calm either.
+
 ---
 
 ## Primary: Squat Clean Catch-Up
@@ -59,6 +79,8 @@ tags:
 > **Why this session:**
 > The Phase 1 squat clean structural gap (power-clean-dominant Wednesdays for Wk 1–4) has been partially addressed by Wk 3 Sat (20 reps), Wk 4 Wed (6 reps), Wk 5 Wed (5 reps). Today adds 12 more reps in the receiving position.
 >
+> **Build-up plan:** empty bar x3, 60 kg x2, 80 kg x1, 90 kg x1, then 95 kg working sets. Keep the build-up deliberately boring. A bridge session succeeds by making 95 kg feel routine.
+>
 > **Why 95 kg:**
 > 68% of PR = light enough to focus entirely on receiving position quality, heavy enough to be a real squat clean (not a positional drill). With the 1-sec pause at the bottom, every rep is a positional check.
 >
@@ -72,6 +94,11 @@ tags:
 > Even at 95 kg, drop the bar from the front rack between reps. The Wk 4 review's hypothesis is that catch-at-pelvis on the descent stresses the anterior shoulder; building the drop-from-rack habit at moderate loads makes it automatic at heavy loads.
 >
 > **RPE target:** 5–6. If a set hits RPE 7, that's the signal to stop and assess. This is a maintenance-quality session, not a stimulus session.
+>
+> **Rep quality standard:**
+> Each rep is a full squat clean with a one-second pause in the bottom. Elbows stay high enough that the bar rests on the shelf, not in the hands. Stand with the controlled exhale, then drop the bar from front rack. No touch-and-go, no rushed triples, no power catches.
+>
+> **What to watch today:** if the first pull feels slow, that is fine. If the catch feels unstable or high, that is not fine — reduce to 90 kg and keep the pauses perfect. The point is to finish Wk 5 with clean receiving reps, not to prove 95 kg is light.
 
 ---
 
@@ -101,6 +128,13 @@ tags:
 > **Left first:** always train the weaker, more vulnerable side before the right.
 >
 > **Knee tracking:** if any patellar discomfort appears on the left, more toe-out (15–20°) usually resolves it. If still present, drop to bodyweight and note it.
+>
+> **Set-up details:**
+> Front foot far enough forward that the shin can stay controlled, rear foot relaxed on the bench, torso vertical. Descend for a true 3 seconds. The left knee tracks over the second/third toe; do not let it collapse inward or drift into the old sensitive path.
+>
+> **Expected feel:** left leg may feel less powerful than right, but it should not feel painful or unstable. The target is RPE 6.5-7 if using 17 kg, slightly lower if using 15 kg. If the right leg is dramatically easier, note the asymmetry; that is still useful data.
+>
+> **Progression rule:** 17 kg becomes the Phase 1 working load only if all three left-leg sets hold clean knee tracking and RPE ≤7. A single ugly set means 15 kg stays the default and the progression waits.
 
 ---
 
@@ -123,6 +157,18 @@ tags:
 > - Left hip in pigeon: cleaner than Wk 4 Wednesday?
 >
 > All of these should be noticeably better given the cumulative effect of Wk 4 mobility + trip protocol + Wk 5 training.
+>
+> **Thoracic extension over bench with barbell:**
+> Ten slow breaths per set. Exhale, ribs down, let the upper back extend without dumping into lumbar extension. This is direct carryover to front rack, OHS, and jerk lockout.
+>
+> **Banded overhead distraction:**
+> Left side gets extra time because it is the more restricted side. The stretch should feel like lat/capsule opening, not a pinch at the front of the shoulder. If anterior shoulder sensation appears, reduce band tension and change the angle slightly overhead rather than straight forward.
+>
+> **Pigeon stretch + 90/90 hip rotation:**
+> Left first. Compare the left hip to Wk 4 Wednesday and to the trip tracking table. You are looking for smoother entry/exit, not a heroic stretch depth.
+>
+> **Right erector post-session roll + couch stretch:**
+> This is the closing dose for the week. The goal is to walk into Wk 6 Monday with the right side quiet. If it takes more than 60 sec to calm down, note that in the daily log because it may affect Monday's squat load.
 
 ---
 
