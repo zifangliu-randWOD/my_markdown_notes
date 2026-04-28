@@ -1,6 +1,6 @@
 # Athlete State
 
-> **Last updated:** 2026-04-24 (initial migration from CLAUDE.md, post Wk 4 Fri Coach's Review)
+> **Last updated:** 2026-04-28 (Wk 5 Tue Coach's Review — jerk 93 kg 5×3 knee 5/5, press dropped to 60 kg, ring MU volume bump)
 > **Update trigger:** every Coach's Review when state changes — new finding, limiter status change (active → managing → closing → closed), protocol added/removed/modified, calendar shift, decision created/changed/resolved.
 
 ---
@@ -74,6 +74,7 @@ These apply to every training day from Wk 5 onward (carried from Wk 4 review 202
 6. **Pre-bed mobility (training days only):** 5 min cat-cow + child's pose + supine spinal rotation.
 7. **Wider jerk stance default:** +5 cm outside hip-width on all jerk work (rack and from clean).
 8. **Bodyweight tracking:** first thing in the morning, post-pee, pre-food, naked. Baseline 92 kg.
+9. **Back squat bar position:** High bar only (committed 2026-04-27). Do not switch to low bar mid-session or across sessions. High bar aligns with front squat receiving position and Oly mechanics; low bar + 3-sec eccentric + current thoracic profile is a poor pairing for this programme.
 
 ---
 
@@ -108,3 +109,5 @@ See `Training Program/Phase 1 - Weeks 5-8.md` (Wk 5 callout) for trip accommodat
 
 - **Bodyweight 91.8 kg** (Wk 4 Thu Apr 23) — single reading, ~200 g below 92 kg baseline. Monitoring trend over coming weeks; if trends below 91 kg, food intake needs attention before Phase 2 loads start climbing.
 - **Sleep deficit pattern Wk 4 Mon + Thu** — both sessions came in 1+ RPE point above target with poor sleep cited; Friday's 8-hour sleep cleared it. Watch.
+- **Wk 5 Mon (2026-04-27):** Snatch complex at 82 kg (beat target by 1 kg); squat snatch, explosive third pull with visible jump, flat RPE 6.5 → 7 across 5 sets — technique holding. No anterior shoulder sensation. Back squat dropped to 133 kg (from 143 kg prescribed); 3-sec eccentric adaptation still in progress; high bar committed (felt better than low bar immediately). Knee 5/5, right lumbar 5/5 (belt + knee sleeves — confirms belt protocol effective vs. Wk 4 belt-less discomfort). Overall RPE 7 = right on target. All accessories and pre-bed mobility done.
+- **Wk 5 Tue (2026-04-28):** Jerk from rack at 93 kg (beat 92 kg target by 1 kg); 5×3, RPE 6.5 flat across sets 1–4, 7 on set 5 — best jerk RPE profile logged. Knee 5/5 across all five sets (heaviest jerk-from-rack in programme; wider stance fix fully embedded). Right lumbar 5/5. Strict press: dropped from 65 kg to 60 kg (65 kg grinding from rep 1); 4×5 @ 60 kg, RPE 7→8 gradient — pressing endurance confirmed as the limiter, no pain. Ring MU volume bump (3 sets each) completed. Front rack 4/5 (left behind right — consistent). Overall RPE 7 on target. Pre-bed mobility to be completed tonight.

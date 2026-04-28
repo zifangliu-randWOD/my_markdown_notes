@@ -28,14 +28,14 @@ tags:
 
 ## Warm-up (12 min)
 
-- [ ] 90/90 breathing: 2 min
-- [ ] **Right lumbar erector foam roll: 60 sec** (NEW)
-- [ ] **Couch stretch: 60 sec each side** (NEW)
-- [ ] Banded lat stretch: 45 sec each side
-- [ ] Front rack stretch with barbell: 60 sec
-- [ ] Thoracic rotation on wall: 8 each side
-- [ ] Push press with empty bar: 10 reps
-- [ ] Jerk footwork drills (split or power — whichever you use): 10 each side
+- [x] 90/90 breathing: 2 min ✅ 2026-04-28
+- [x] **Right lumbar erector foam roll: 60 sec** (NEW) ✅ 2026-04-28
+- [x] **Couch stretch: 60 sec each side** (NEW) ✅ 2026-04-28
+- [x] Banded lat stretch: 45 sec each side ✅ 2026-04-28
+- [x] Front rack stretch with barbell: 60 sec ✅ 2026-04-28
+- [x] Thoracic rotation on wall: 8 each side ✅ 2026-04-28
+- [x] Push press with empty bar: 10 reps ✅ 2026-04-28
+- [x] Jerk footwork drills (split or power — whichever you use): 10 each side ✅ 2026-04-28
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -75,11 +75,11 @@ tags:
 
 | Set | Weight | Reps | RPE | Knee (1-5) | Notes |
 | --- | ------ | ---- | --- | ---------- | ----- |
-| 1   | 92 kg  | /3   |     |            |       |
-| 2   | 92 kg  | /3   |     |            |       |
-| 3   | 92 kg  | /3   |     |            |       |
-| 4   | 92 kg  | /3   |     |            |       |
-| 5   | 92 kg  | /3   |     |            |       |
+| 1   | 93 kg  | 3/3  | 6.5 | 5          |       |
+| 2   | 93 kg  | 3/3  | 6.5 | 5          |       |
+| 3   | 93 kg  | 3/3  | 6.5 | 5          |       |
+| 4   | 93 kg  | 3/3  | 6.5 | 5          |       |
+| 5   | 93 kg  | 3/3  | 7   | 5          |       |
 
 > [!info]- Jerk — Mechanism & Coaching Notes (click to expand)
 >
@@ -111,6 +111,10 @@ tags:
 >
 > **Between-set note to capture:** after each set, write one word for knee feel: quiet, pressure, or pain. This is more useful than only logging a final 1-5 because jerk knee symptoms can appear briefly and then disappear by the end of the session.
 
+
+**Athlete Notes:** Felt great on jerk from rack today. Caught the feel of heel-heavy through the dip; no COM shift; no knee pain on either side; slightly wider grip than usual; drive felt strong. Used 93 kg — beat the target by 1 kg.
+
+
 ---
 
 ## Secondary: Strict Press
@@ -120,12 +124,12 @@ tags:
 - Rest 2:00 between sets
 - Focus: tight glutes + tight quads to prevent hyperextension; full reach overhead
 
-| Set | Weight | Reps | RPE | Notes |
-| --- | ------ | ---- | --- | ----- |
-| 1   | 65 kg  | /5   |     |       |
-| 2   | 65 kg  | /5   |     |       |
-| 3   | 65 kg  | /5   |     |       |
-| 4   | 65 kg  | /5   |     |       |
+| Set | Weight | Reps | RPE | Notes              |
+| --- | ------ | ---- | --- | ------------------ |
+| 1   | 60 kg  | 5/5  | 7   | dropped from 65 kg |
+| 2   | 60 kg  | 5/5  | 7.5 |                    |
+| 3   | 60 kg  | 5/5  | 7.5 |                    |
+| 4   | 60 kg  | 5/5  | 8   |                    |
 
 > [!info]- Strict Press — Coaching Notes (click to expand)
 >
@@ -141,15 +145,17 @@ tags:
 >
 > **Athlete-specific note:** this is not the place to chase a press PR. The strict press supports jerk lockout and ring support strength. Any anterior shoulder pull, biceps tendon sensation, or wrist strain gets logged and the next set drops 5 kg.
 
+**Athlete Notes:** 65 kg felt like grinding from the first rep, so dropped to 60 kg and worked through all 4 sets there. Nothing particularly uncomfortable — just a clear lack of pressing strength at this load.
+
 ---
 
 ## Gymnastics Skill: Ring Muscle-Up Progressions (5–10 min)
 
 **3 sets each — quality over quantity. Stop each set 1–2 reps short of failure.**
 
-- [ ] Deep ring dips: 3 × 8 (3-sec eccentric, full depth — rings outside armpits at bottom)
-- [ ] False grip pull-ups: 3 × 3–5 (unassisted if possible; band assist if needed; maintain false grip throughout)
-- [ ] Banded ring MU transitions: 4 × 2–3 (reduce band assistance from Wk 3 if possible)
+- [x] Deep ring dips: 3 × 8 (3-sec eccentric, full depth — rings outside armpits at bottom) ✅ 2026-04-28
+- [x] False grip pull-ups: 3 × 3–5 (unassisted if possible; band assist if needed; maintain false grip throughout) ✅ 2026-04-28
+- [x] Banded ring MU transitions: 4 × 2–3 (reduce band assistance from Wk 3 if possible) ✅ 2026-04-28
 
 > [!info]- Ring MU — Coaching Notes (click to expand)
 >
@@ -170,14 +176,15 @@ tags:
 > **Transition reps — rhythm cue:**
 > Pull rings to low ribs/hips, sit chest over the rings, then press out. Do not try to curl the rings to the chest. If the transition feels impossible with the lighter band, use the stronger band and make the pathway perfect.
 
+
 ---
 
 ## Accessory Window (15–20 min)
 
-- [ ] Banded front rack stretch: 2 × 60 sec each side (extra time on left)
-- [ ] Prone Y-T-W raises: 3 × 10 each position (1–2 kg each hand)
-- [ ] External rotation with band: 3 × 15 each arm
-- [ ] **Pigeon stretch: 60 sec each side** (left hip ER maintenance)
+- [x] Banded front rack stretch: 2 × 60 sec each side (extra time on left) ✅ 2026-04-28
+- [x] Prone Y-T-W raises: 3 × 10 each position (1–2 kg each hand) ✅ 2026-04-28
+- [x] External rotation with band: 3 × 15 each arm ✅ 2026-04-28
+- [x] **Pigeon stretch: 60 sec each side** (left hip ER maintenance) ✅ 2026-04-28
 
 > [!info]- Accessory — Coaching Notes (click to expand)
 >
@@ -203,14 +210,33 @@ tags:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10 (target 7)
-- Left knee feel (1-5, 5=no pain): _
-- Right lumbar feel today (1-5): _
-- Jerk notes (wider stance natural? Knee response across 5 sets? Stand-up breathing applied?):
-- Press notes (where did it become hard?):
-- Ring MU notes (band reduction worked? False grip held?):
-- Front rack feel (1-5, 5=no restriction): _
+- [x] Session completed ✅ 2026-04-28
+- RPE (overall): 7 /10 (target 7)
+- Left knee feel (1-5, 5=no pain): 5
+- Right lumbar feel today (1-5): 5
+- Jerk notes (wider stance natural? Knee response across 5 sets? Stand-up breathing applied?): Wider stance felt natural. Heel-heavy dip clicked today — no COM shift. Knee 5/5 every set. Drive strong throughout.
+- Press notes (where did it become hard?): Hard from the first rep at 65 kg — dropped to 60 kg. Pressing endurance is the clear limiter, not a shoulder pain issue.
+- Ring MU notes (band reduction worked? False grip held?): All progressions completed.
+- Front rack feel (1-5, 5=no restriction): 4 — left side still has less ROM than right.
 - Pre-session fueling done? Y/N: _
 - Pre-bed mobility done? Y/N: _
-- General notes:
+- General notes: Overall a strong session. Felt strong today — particularly pleased with how the jerk clicked.
+
+**Athlete Notes:** Will do pre-bed mobility later tonight.
+
+---
+
+> [!note] Coach's Review — Day 23 (Week 5 Tue)
+>
+> **Jerk from Rack @ 93 kg — Best jerk session logged this programme.** Beat the 92 kg target by 1 kg, went 5×3 at RPE 6.5 across sets 1–4 and only climbed to 7 on the final set. That is the flattest RPE profile a jerk session has produced — no within-set drift, no technique erosion across five heavy sets. More importantly, the athlete self-identified five technique elements clicking simultaneously: heel-heavy dip, no COM shift, wider grip, strong drive, and zero knee pain. That convergence is not coincidental — it is the accumulated positional work from 5 weeks of heel-heavy cueing, wider stance drilling, and thoracic extension building becoming expressed at heavier load. Knee 5/5 across all five sets at 93 kg is the primary success metric: this was the heaviest jerk-from-rack tested in the programme, and the wider stance fix held without drift or intervention. The Wk 3 Tue failure mode (3.5/5 knee at 90 kg, COM forward) did not reappear. The left knee patellar tracking limiter is functionally managed for jerk loading at current Phase 1 percentages.
+>
+> **Strict Press @ 60 kg — Drop was correct, limiter is now precisely characterised.** The coaching callout explicitly flagged dropping to 60 kg if 65 kg felt above RPE 7 by set 2 — the athlete executed that protocol exactly as intended. The RPE gradient at 60 kg (7 → 7.5 → 7.5 → 8) tells the full story: shoulder pressing endurance, not max strength, is the binding constraint. This is expected for an athlete with a 120 kg jerk whose pressing has been largely incidental to Oly and bodybuilding work. No pain, no anterior shoulder sensation, no wrist strain reported — clean limiter, buildable quality. Recommendation: hold 60 kg for the next 2 weeks; only advance to 62.5 kg when set 4 sits consistently below RPE 7.5. Don't chase 65 kg until 60 kg feels like RPE 6 across all four sets.
+>
+> **Ring MU progressions — volume bump held.** All three movements completed at full Wk 5 volume (3×8 ring dips, 3×3–5 false grip pull-ups, 4×2–3 banded transitions). No specific data on band selection or false grip stability logged — next session note whether the false grip held through full reps or slipped by rep 3+, and which band was used for transitions. That data drives next week's progression decision.
+>
+> **Front rack 4/5** — left side behind right for the third consecutive session. This is the expected trajectory with the thoracic restriction still managing; no regression, just slow progress. Keep extra time on the left during banded front rack stretch through Wk 5–6.
+>
+> **Two-day pattern: Mon + Tue, both RPE 7 overall.** Monday the Oly lift was excellent and the squat auto-regulated down; today the jerk was excellent and the press auto-regulated down. Both sessions landed exactly on the RPE target by prioritising the primary lift and managing the secondary. This is correct programme execution — Oly-First means the Oly work gets the best energy and the secondary lifts absorb whatever auto-regulation is needed to protect the overall RPE target. No concern.
+>
+> **Wednesday:** Squat clean formal closure test for the anterior shoulder limiter — three prior sessions at 85/100/90 kg clean with no sensation; Wednesday is 100+ kg again. Belt on, drop bar protocol from front rack active. Log any anterior shoulder sensation, even subtle. If it's clean, the limiter closes. BSS hits 17 kg test — note left vs right RPE difference carefully to track the knee asymmetry trend.
+

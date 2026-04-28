@@ -22,8 +22,8 @@ tags:
 
 ## Pre-Session (60–90 min before training)
 
-- [ ] 500 ml water
-- [ ] ~30 g carbs (banana / rice cake / equivalent)
+- [x] 500 ml water ✅ 2026-04-27
+- [x] ~30 g carbs (banana / rice cake / equivalent) ✅ 2026-04-27
 
 ---
 
@@ -77,11 +77,11 @@ tags:
 
 | Set | Weight | Pull-Knee | Hang Snatch | Snatch | RPE | Notes |
 | --- | ------ | --------- | ----------- | ------ | --- | ----- |
-| 1   | 81 kg  | /         | /           | /      | 6.5 |       |
-| 2   | 81 kg  | /         | /           | /      | 7   |       |
-| 3   | 81 kg  | /         | /           | /      | 7   |       |
-| 4   | 81 kg  | /         | /           | /      | 7   |       |
-| 5   | 81 kg  | /         | /           | /      | 7   |       |
+| 1   | 82 kg  | ✓         | ✓           | ✓      | 6.5 |       |
+| 2   | 82 kg  | ✓         | ✓           | ✓      | 7   |       |
+| 3   | 82 kg  | ✓         | ✓           | ✓      | 7   |       |
+| 4   | 82 kg  | ✓         | ✓           | ✓      | 7   |       |
+| 5   | 82 kg  | ✓         | ✓           | ✓      | 7   |       |
 
 > [!info]- Snatch Complex — Mechanism & Coaching Notes (click to expand)
 >
@@ -114,7 +114,7 @@ tags:
 >
 > **Anterior shoulder check:** No anterior shoulder discomfort during the catch. If you feel anything, note it — but the deload + 3 clean fresh data points strongly suggests it's gone. Wednesday's 105 kg squat clean is the natural retest.
 
-note: made all complex, feel strong on this part of the workout.  feel stable 
+**Athlete Notes:** All 5 complexes completed at 82 kg (1 kg above target). Pause position stable, hang snatch above knee with high power position, fast transition. Did squat snatch throughout (not power snatch). On the final snatch from floor, felt explosive — could feel leaving the ground slightly on the third pull. Overall strong and not overly demanding.
 
 ---
 
@@ -128,10 +128,10 @@ note: made all complex, feel strong on this part of the workout.  feel stable
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 143 kg | /5   |     |       |
-| 2   | 143 kg | /5   |     |       |
-| 3   | 143 kg | /5   |     |       |
-| 4   | 143 kg | /5   |     |       |
+| 1   | 133 kg | 5/5  | 7.5 | Low bar |
+| 2   | 133 kg | 5/5  | 8   | Low bar |
+| 3   | 133 kg | 5/5  | 8   | High bar (switched) |
+| 4   | 133 kg | 5/5  | 7   | High bar; no bottom pause |
 
 > [!info]- Back Squat — Mechanism & Coaching Notes (click to expand)
 >
@@ -156,14 +156,16 @@ note: made all complex, feel strong on this part of the workout.  feel stable
 >
 > **Expected feel:** Set 1 should feel controlled and slightly conservative. Set 2 is the truth-set: if the belt and breathing are working, it should still sit around RPE 7. Set 4 can climb, but it should not become a grind. Right lumbar should feel supported, not like it is doing the whole job.
 
+**Athlete Notes:** 143 kg felt like a grind on the first attempt, so dropped to 133 kg for all 4 working sets. Even at 133 kg, the 3-sec eccentric felt like a real struggle — couldn't feel strong enough to do it cleanly. Sets 1–2 were low bar; switched to high bar on set 3 and it felt noticeably better. Not sure which position to commit to going forward. Set 4: too exhausted to hold the 1-sec bottom pause, so removed it and did straight 5 reps at 3-sec eccentric only — RPE dropped a little.
+
 ---
 
 ## Accessory Window (15–20 min)
 
-- [ ] Peterson step-downs: 3 × 12 each leg (with DB or KB, 8–10 kg)
-- [ ] Spanish squat iso hold: 3 × 40 sec
-- [ ] Thoracic extension over foam roller: 3 × 10 breaths
-- [ ] **Pigeon stretch: 60 sec each side** (added — left hip ER maintenance)
+- [x] Peterson step-downs: 3 × 12 each leg (with DB or KB, 8–10 kg) ✅ 2026-04-27
+- [x] Spanish squat iso hold: 3 × 40 sec ✅ 2026-04-27
+- [x] Thoracic extension over foam roller: 3 × 10 breaths ✅ 2026-04-27
+- [x] **Pigeon stretch: 60 sec each side** (added — left hip ER maintenance) ✅ 2026-04-27
 
 > [!info]- Accessory — Coaching Notes (click to expand)
 >
@@ -181,21 +183,48 @@ note: made all complex, feel strong on this part of the workout.  feel stable
 
 ## Pre-Bed (5 min, training days only — NEW protocol)
 
-- [ ] Cat-cow: 10 reps slow
-- [ ] Child's pose: 60 sec
-- [ ] Supine spinal rotation: 5 each side, slow
+- [x] Cat-cow: 10 reps slow ✅ 2026-04-27
+- [x] Child's pose: 60 sec ✅ 2026-04-27
+- [x] Supine spinal rotation: 5 each side, slow ✅ 2026-04-27
 
 ---
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10 (target 7–7.5)
-- Left knee feel (1-5, 5=no pain): _
-- Right lumbar feel during/after squat (1-5, 5=no discomfort): _
-- Snatch complex notes (positions clean? Pause at knee held? Bar path?):
-- Back squat notes (belt feel? Right lumbar response with belt vs Wk 4 without?):
-- Anterior shoulder (any sensation during snatch catch?): _
-- Pre-session fueling done? Y/N: _
-- Pre-bed mobility done? Y/N: _
+- [x] Session completed ✅ 2026-04-27
+- RPE (overall): 7 /10 (target 7–7.5)
+- Left knee feel (1-5, 5=no pain): 5
+- Right lumbar feel during/after squat (1-5, 5=no discomfort): 5
+- Snatch complex notes (positions clean? Pause at knee held? Bar path?): All clean — see Athlete Notes above. 82 kg, squat snatch, explosive.
+- Back squat notes (belt feel? Right lumbar response with belt vs Wk 4 without?): Belt + knee sleeves used. No lumbar discomfort either side — belt doing its job.
+- Anterior shoulder (any sensation during snatch catch?): None — clean.
+- Pre-session fueling done? Y/N: Y
+- Pre-bed mobility done? Y/N: Y
 - General notes (Block 2 opening — energy, recovery, anything unexpected):
+
+
+**Athlete Notes:** Felt fresh, sharp, and powerful today. Struggled during the squat block but not overly fatigued afterward — overall a great session feeling. Asking for a deeper diagnosis on the squat: missed all targets there despite feeling stronger on the Oly side. Not sure why the discrepancy exists.
+
+---
+
+> [!note] Coach's Review — Day 22 (Week 5 Mon)
+>
+> **Snatch Complex @ 82 kg — Excellent.** Beat the target by 1 kg and ran all 5 complexes as squat snatch (not power). The RPE profile (6.5 → 7 flat across sets 2–5) is the ideal outcome: a steady state with no within-session climb means bar path held through all five sets without leaking. The detail about feeling the jump off the floor on the third pull is real signal — that's the explosive hip extension the Phase 1 complex work is designed to build, and it's showing up right on schedule. All three components of the complex — pause-at-knee, hang snatch above knee, snatch from floor — were described as clean and strong. No anterior shoulder sensation noted during any overhead catch = the seventh consecutive clean data point. The limiter is closing; Wednesday's 105 kg squat clean is the formal retest.
+>
+> **Back Squat @ 133 kg — Under target, but here is the four-part answer:**
+>
+> You asked for a deep diagnosis, so here it is:
+>
+> **1. Order tax.** A 5-movement snatch complex at 82% of your PR draws a real neural and glycolytic cost. You squat last because the Oly work is the priority and gets the freshest CNS — that's not an accident, it's the programme design. But that priority has a price: every back squat session in Phase 1 starts with a tab already running. Today's 133 kg struggled partly because the best fuel was already spent on the snatch complex.
+>
+> **2. Tempo squatting is a skill you haven't trained.** The 3-sec eccentric at 133 kg is physically harder than raw 133 kg — it's sustained isometric deceleration for 3 full seconds per rep. Your background (4+ years bodybuilding, 2+ CrossFit) favours controlled-but-faster descents; you don't have a bank of slow-tempo exposure. RPE 7.5–8 at 70% with 3-sec eccentric is not a strength deficit — it's an adaptation lag. This normalises in 2–3 weeks as the tempo pattern embeds. "Don't feel strong enough" at 133 kg with slow eccentric is accurate right now; it won't be accurate in three weeks.
+>
+> **3. Bar position: commit to high bar from this point forward.** Low bar on sets 1–2, high bar on set 3 and felt noticeably better — that's your answer. High bar is the right choice for this programme: it's closer to the front squat and clean receiving position, it loads the thoracic extension you're actively improving, and it won't conflict with the Oly mechanics you're building. Low bar + 3-sec eccentric + your current thoracic mobility profile is a poor pairing. The switch mid-session also added a technique tax — you got the fatigue from the low bar sets and then had to recalibrate to a different pattern. Pick high bar, practice it consistently, and watch the tempo work start to feel more manageable.
+>
+> **4. Last-set modification was correct auto-regulation.** Removing the 1-sec bottom pause when deep into set 4 at RPE 8 was the right call — you kept the 3-sec eccentric (the primary driver of the adaptation) and dropped one layer. The RPE response (7) confirms the modification was proportionate, not excessive.
+>
+> **Is this an issue?** No. The programme is Oly-First. The back squat in Phase 1 is base volume at moderate percentages — it's supposed to be challenging, not easy, but it's also not the peak stressor. Dropping from 143 to 133 kg was sensible auto-regulation given the RPE signal. Wednesday has no back squat, so Thursday's 4×5 arrives with 72 hours of recovery. If 133 kg with 3-sec eccentric high bar still hits RPE 8 then, accept it, complete the sets, and trust the adaptation — don't drop further.
+>
+> **Knee and lumbar — both 5/5.** Left knee pain-free throughout (5/5), right lumbar no discomfort either side (5/5) with belt + knee sleeves on. This is exactly the data point we were tracking: Wk 4 Mon was belt-less and the right erector was louder; today with the belt it was silent. The belt protocol is doing its job on day one of Block 2. Knee sleeves were used comfortably — no finding there either.
+>
+> **Going into Wednesday:** Anterior shoulder retest at 105 kg squat clean. No expectation of failure — just log any sensation. Belt on for all clean working sets. High bar for any squat work.
