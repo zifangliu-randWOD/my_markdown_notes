@@ -11,24 +11,14 @@
             "id": "188a8c50c3c10f2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Training Program/Week 5/2026-04-29 Wed - Clean + Deadlift.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".memory/state.md",
+                "bFile": ".memory/state.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-04-29 Wed - Clean + Deadlift"
+              "icon": "diff",
+              "title": "Diff: state  (Working Tree)"
             }
           }
         ]
@@ -200,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,13 +209,15 @@
   },
   "active": "188a8c50c3c10f2d",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Training Program/Week 5/Trip Mobility Protocol (2026-04-30 to 2026-05-05).md",
+    "Training Program/Week 5/2026-04-29 Wed - Clean + Deadlift.md",
+    "Training Program/Week 5/2026-05-06 Wed - Front Squat + OHS (Re-entry).md",
     "Training Program/Week 5/2026-04-28 Tue - Jerk + Strict Press + Ring MU.md",
     "Training Program/Week 5/2026-04-27 Mon - Snatch Complex + Back Squat.md",
     "Training Program/Week 3/2026-04-13 Mon - Snatch Complex + Back Squat.md",
-    "Training Program/Week 5/Trip Mobility Protocol (2026-04-30 to 2026-05-05).md",
     "Agent.md",
     "docs/README.md",
-    "CLAUDE.md",
     "docs/specs/2026-04-24-claude-md-memory-split-design.md",
     "docs/plans/2026-04-24-claude-md-memory-split-plan.md",
     "docs/plans",
@@ -234,8 +226,6 @@
     "Training Program/Phase 1 - Weeks 5-8.md",
     "Training Program/Week 5/2026-05-08 Fri - Bridge - Squat Clean + BSS + Mobility.md",
     "Training Program/Week 5/2026-05-07 Thu - Snatch + C&J + HS Walk.md",
-    "Training Program/Week 5/2026-05-06 Wed - Front Squat + OHS (Re-entry).md",
-    "Training Program/Week 5/2026-04-29 Wed - Clean + Deadlift.md",
     "Training Program/Week 5",
     "Training Program/Week 4/Week 4 Summary.md",
     "Training Program/Week 4/2026-04-24 Fri - Light Snatch + C&J + HS Walk.md",

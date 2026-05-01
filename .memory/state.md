@@ -1,6 +1,6 @@
 # Athlete State
 
-> **Last updated:** 2026-04-28 (Wk 5 Tue Coach's Review — jerk 93 kg 5×3 knee 5/5, press dropped to 60 kg, ring MU volume bump)
+> **Last updated:** 2026-04-29 (Wk 5 Wed Coach's Review — clean 105 kg 5×(1+1) all sets, anterior shoulder present mild (bar drop not applied), DL tempo capacity established ~140–145 kg, new right hip finding flagged)
 > **Update trigger:** every Coach's Review when state changes — new finding, limiter status change (active → managing → closing → closed), protocol added/removed/modified, calendar shift, decision created/changed/resolved.
 
 ---
@@ -37,12 +37,12 @@
 - **Red flags (would change plan):** sharp/electrical pain, referral into glute/leg, worse with cough/sneeze, can't tolerate sitting → stop loading and see clinician
 
 ### Anterior shoulder pull on heavy squat clean
-- **Status:** closed pending Wk 5 Wed Apr 29 final 100+ kg confirm
+- **Status:** watch — retest May 8 bridge session (95 kg squat clean, strict bar drop)
 - **Original finding (Wk 3 Fri):** stretch/pull sensation on anterior shoulder during pull-under at ~98 kg
-- **Closure data (3 fresh data points absent):** Wk 3 Sat 85 kg, Wk 4 Wed 100 kg, Wk 4 Fri 90 kg
-- **Verdict:** Wk 3 Friday occurrence was load + fatigue + decayed pull-under pattern — NOT structural
-- **Athlete insight (Wk 4 Wed):** bar-lowering / catch-at-pelvis on the descent identified as probable additional aggravator
-- **Permanent cue carried forward:** drop bar from front rack to platform at clean ≥80%
+- **Closure data trail:** Wk 3 Sat 85 kg absent, Wk 4 Wed 100 kg absent, Wk 4 Fri 90 kg absent
+- **Wk 5 Wed 105 kg:** present (mild, 4.5/5) — bar drop protocol NOT fully applied (slightly controlled descent). Confounding variable means this is not clean closure data.
+- **Hypothesis still active:** partial bar control → anterior shoulder sensation; drop-from-rack protocol fix still in place
+- **Next retest:** May 8 bridge session at 95 kg squat clean — bar drop must be strict. If absent, close permanently.
 
 ### Left hip ER (external rotation) stiffness
 - **Status:** closing
@@ -50,6 +50,13 @@
 - **Progress:** reduced after pigeon stretch by Wk 4 Wed
 - **Maintenance:** pigeon stretch + 90/90 hip rotation in accessory window
 - **Next check:** if stays clean through Wk 5, comes off active list
+
+### Right hip deep pain under slow concentric DL
+- **Status:** monitoring (first occurrence Wk 5 Wed Apr 29)
+- **Pattern:** deep, sharp sensation in right hip during 3-second concentric at 150 kg deadlift. Absent at normal rep speed. Not reproduced in BSS or single-leg RDL at lower loads same session.
+- **Hypothesis:** femoroacetabular loading or deep external rotator irritation (piriformis/obturator group) under sustained high hip-flexion angle; the slow tempo is the trigger — normal speed reps pass through the angle too quickly to aggravate it.
+- **Red flags (stop and see clinician):** radiation down leg, locking/clicking, groin pain, inability to weight-bear normally.
+- **Management:** monitor through trip (log any hip flexion/rotation symptoms at bodyweight in trip protocol); re-assess at Wk 6 Wed DL (145 kg adjusted load). If present again, reduce load further and add deep hip external rotator work (pigeon, 90/90 rotation) as a corrective.
 
 ### Snatch efficiency gap
 - **Status:** active (technique-limited, confirmed)
@@ -111,3 +118,4 @@ See `Training Program/Phase 1 - Weeks 5-8.md` (Wk 5 callout) for trip accommodat
 - **Sleep deficit pattern Wk 4 Mon + Thu** — both sessions came in 1+ RPE point above target with poor sleep cited; Friday's 8-hour sleep cleared it. Watch.
 - **Wk 5 Mon (2026-04-27):** Snatch complex at 82 kg (beat target by 1 kg); squat snatch, explosive third pull with visible jump, flat RPE 6.5 → 7 across 5 sets — technique holding. No anterior shoulder sensation. Back squat dropped to 133 kg (from 143 kg prescribed); 3-sec eccentric adaptation still in progress; high bar committed (felt better than low bar immediately). Knee 5/5, right lumbar 5/5 (belt + knee sleeves — confirms belt protocol effective vs. Wk 4 belt-less discomfort). Overall RPE 7 = right on target. All accessories and pre-bed mobility done.
 - **Wk 5 Tue (2026-04-28):** Jerk from rack at 93 kg (beat 92 kg target by 1 kg); 5×3, RPE 6.5 flat across sets 1–4, 7 on set 5 — best jerk RPE profile logged. Knee 5/5 across all five sets (heaviest jerk-from-rack in programme; wider stance fix fully embedded). Right lumbar 5/5. Strict press: dropped from 65 kg to 60 kg (65 kg grinding from rep 1); 4×5 @ 60 kg, RPE 7→8 gradient — pressing endurance confirmed as the limiter, no pain. Ring MU volume bump (3 sets each) completed. Front rack 4/5 (left behind right — consistent). Overall RPE 7 on target. Pre-bed mobility to be completed tonight.
+- **Wk 5 Wed (2026-04-29):** Clean complex 105 kg 5×(1+1), all sets completed, RPE 6.5 flat — best clean session of the block. Stand-up breathing protocol held (no lightheadedness at 105 kg). Anterior shoulder present (mild, 4.5/5) — bar drop protocol not fully applied; limiter stays on watch, retest May 8. Deadlift: 160 kg attempted but only 3 reps; auto-regulated to 150/150/140 kg (RPE 9/9/8.5/8); tempo held throughout; right erector 5/5 (belt protocol confirmed effective under maximum Phase 1 load). **New finding: deep sharp right hip pain during 3s concentric at 150 kg DL — first occurrence, monitoring.** BSS 16 kg RPE 8.5 (fatigued post-DL); 17 kg deferred to May 8. Left knee 5/5. Overall RPE 7.5, on target. Wk 6 DL adjusted to 145 kg in phase file.

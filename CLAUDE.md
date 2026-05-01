@@ -88,9 +88,27 @@ When the athlete shares a daily note with workout results (completed checkboxes,
 ### Daily Note Template Requirements
 Every daily training note must include:
 - A **Day Focus tip** (`> [!tip]`) at the top — 2-3 sentences framing the session's intent and what to focus on
-- **Coaching callout blocks** (`> [!info]-` collapsed) after each section (warm-up, each primary/secondary lift, gymnastics skill, accessories) containing:
-  - **Why** this movement is in the program, tied to the athlete's specific limiters and goals (consult `.memory/state.md` for current limiters)
-  - **How to execute** with detailed cues and setup instructions
-  - **Athlete-specific notes** referencing left knee, thoracic restriction, or other relevant limiters
-  - **Expected RPE/feel** at the prescribed load so the athlete can self-calibrate
+- **Coaching callout blocks** (`> [!info]-` collapsed) after each section (warm-up, each primary/secondary lift, gymnastics skill, accessories)
 - These callouts use the collapsed format (`> [!info]-`) so they don't clutter the page but are always available for reference
+
+#### Day Focus tip standard
+The tip is not a generic summary of what's in the session. It must answer: *what is the one or two things the athlete should hold in mind before starting?* Useful tips include:
+- The session's place in the training arc (e.g. "this is the first time you're seeing this weight — here's what to expect")
+- A specific technical cue carried forward from the last session's Coach's Review
+- A load-management warning if accumulated fatigue, a new finding, or a recent limiter makes an auto-regulation note necessary
+- What "success" looks like for this session in concrete terms (RPE target, movement quality marker, not just "do the work")
+
+Keep it 2–4 sentences. It should read like something a coach would say to an athlete in the 2 minutes before they touch the bar — specific, grounded in recent history, actionable.
+
+#### Coaching callout standard
+Each callout covers one movement or section. Generic execution descriptions are not sufficient. Every callout must include:
+
+**Why this movement is in the program right now** — tied to the athlete's specific limiters and goals from `.memory/state.md`. Not "this builds leg strength" but "this is in the program because your snatch-to-squat ratio is 55% and the limiting factor is positional timing, not strength — this drill isolates the third pull without the squat catch so you can drill turnover speed in isolation." If the movement is a corrective, name the limiter it addresses and why this exercise specifically targets it.
+
+**How to execute** — specific setup instructions and movement cues. Include: starting position, grip width or stance, tempo if prescribed, what the movement should feel like at each phase, and the 1–2 cues that distinguish a good rep from a mediocre one. Do not just describe the movement mechanically — explain what the athlete should be thinking about during it.
+
+**Athlete-specific notes** — reference the active limiters from `.memory/state.md` as they apply to this movement. How does the left knee behave in this pattern? Does the thoracic restriction show up in the catch or overhead position? Is this movement contraindicated, modified, or specifically beneficial given the current limiter status? This section makes the callout specific to this athlete rather than generic coaching content.
+
+**Expected feel / RPE** — what should the prescribed load feel like? Give a specific RPE and describe what that RPE feels like in this movement at this weight. Include a calibration cue: "if it feels heavier than this, here's why and what to do." This allows the athlete to self-regulate without waiting for a review.
+
+**Stop signals or adjustment conditions** — for any movement where a limiter could be aggravated, state the specific signal to stop or modify: what sensation, at what point in the movement, means to back off. "Stop if it hurts" is not sufficient — name the sensation (sharp vs dull, localized vs diffuse, which structure) and the appropriate response.

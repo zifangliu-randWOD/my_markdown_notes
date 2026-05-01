@@ -279,8 +279,9 @@
 - The added front squat builds receiving position strength
 
 **Secondary: Deadlift**
-- Clean-grip deadlift: 4 x 4 @ 82% (164 kg)
+- Clean-grip deadlift: 4 x 4 @ **145 kg** *(adjusted from 164 kg — Wk 5 Wed established tempo capacity at ~140–145 kg; load corrected to target RPE 7.5–8)*
 - Tempo: 3-0-3
+- **Monitor right hip:** if deep/sharp sensation returns during slow concentric, stop, reduce load, log and note whether it's loading-related or positional. Does not need to be a session-stopper unless red flags appear (radiation, locking, groin pain).
 
 **Accessory Window:**
 - Bulgarian split squat: 3 x 10 each (heavy)

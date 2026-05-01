@@ -29,14 +29,14 @@ tags:
 
 ## Warm-up (12 min)
 
-- [ ] 90/90 breathing: 2 min
-- [ ] **Right lumbar erector foam roll: 60 sec** (NEW)
-- [ ] **Couch stretch: 60 sec each side** (NEW)
-- [ ] Hip circles: 10 each direction
-- [ ] Banded good mornings: 10 reps
-- [ ] Clean-grip deadlift to knee: 5 reps with empty bar
-- [ ] Hang muscle clean: 5 reps with empty bar
-- [ ] Front squat with empty bar: 5 reps (full depth, elbows high — front rack check)
+- [x] 90/90 breathing: 2 min ✅ 2026-04-29
+- [x] **Right lumbar erector foam roll: 60 sec** (NEW) ✅ 2026-04-29
+- [x] **Couch stretch: 60 sec each side** (NEW) ✅ 2026-04-29
+- [x] Hip circles: 10 each direction ✅ 2026-04-29
+- [x] Banded good mornings: 10 reps ✅ 2026-04-29
+- [x] Clean-grip deadlift to knee: 5 reps with empty bar ✅ 2026-04-29
+- [x] Hang muscle clean: 5 reps with empty bar ✅ 2026-04-29
+- [x] Front squat with empty bar: 5 reps (full depth, elbows high — front rack check) ✅ 2026-04-29
 
 > [!info]- Warm-up Movement Guide (click to expand)
 >
@@ -77,11 +77,11 @@ tags:
 
 | Set | Weight | Pause Clean | Squat Clean | RPE | Anterior Shoulder | Notes |
 | --- | ------ | ----------- | ----------- | --- | ----------------- | ----- |
-| 1   | 105 kg | /           | /           |     | absent / present  |       |
-| 2   | 105 kg | /           | /           |     | absent / present  |       |
-| 3   | 105 kg | /           | /           |     | absent / present  |       |
-| 4   | 105 kg | /           | /           |     | absent / present  |       |
-| 5   | 105 kg | /           | /           |     | absent / present  |       |
+| 1   | 105 kg | 1/1         | 1/1         | 6.5 | present (mild)    |       |
+| 2   | 105 kg | 1/1         | 1/1         | 6.5 | present (mild)    |       |
+| 3   | 105 kg | 1/1         | 1/1         | 6.5 | present (mild)    |       |
+| 4   | 105 kg | 1/1         | 1/1         | 6.5 | present (mild)    |       |
+| 5   | 105 kg | 1/1         | 1/1         | 6.5 | present (mild)    |       |
 
 > [!info]- Clean Complex — Mechanism & Coaching Notes (click to expand)
 >
@@ -123,6 +123,9 @@ tags:
 > **If the anterior shoulder is present:**
 > Mark which part of the rep caused it: pull-under, receive, stand-up, or bar descent. That distinction matters. Pull-under/receive points to bar path or front rack; bar descent points to the Wk 4 bar-lowering hypothesis. Stop the complex for that set, reduce to 95 kg for remaining sets, and keep the drop-from-rack protocol strict.
 
+
+**Athlete Notes:** Made all 5 sets. Slight anterior shoulder sensation throughout (~4.5/5 — barely there, not concerning). Transition felt fast, elbows up in the catch, stand-up strong with no lightheadedness. Back angle held well through the 2-second pause at the knee. Bar descent was slightly controlled rather than fully dropped — possible contributor to the shoulder sensation. Overall felt powerful at 105 kg.
+
 ---
 
 ## Secondary: Clean-Grip Deadlift
@@ -135,10 +138,10 @@ tags:
 
 | Set | Weight | Reps | RPE | Notes |
 | --- | ------ | ---- | --- | ----- |
-| 1   | 160 kg | /5   |     |       |
-| 2   | 160 kg | /5   |     |       |
-| 3   | 160 kg | /5   |     |       |
-| 4   | 160 kg | /5   |     |       |
+| 1   | 160 kg | 3/5  | 9   | Too heavy — stopped at 3, dropped weight |
+| 2   | 150 kg | 5/5  | 9   |                                          |
+| 3   | 150 kg | 3/5  | 8.5 |                                          |
+| 4   | 140 kg | 5/5  | 8   |                                          |
 
 > [!info]- Deadlift — Mechanism & Coaching Notes (click to expand)
 >
@@ -162,14 +165,16 @@ tags:
 >
 > **Expected set shape:** Set 1 around RPE 7, set 2 around 7.5, set 3 could touch 8, set 4 should not exceed 8. If set 1 is already 8, the load is wrong for today — reduce immediately rather than discovering it after 20 tempo reps.
 
+**Athlete Notes:** Could not hit the prescribed load. Started at 160 kg but stopped at 3 reps — too heavy for the tempo. Dropped to 150 kg for sets 2–3 (5 reps, then 3 reps), then finished at 140 kg for 5 reps. RPE: 9 / 9 / 8.5 / 8. Tempo was held (3s up, 3s down) across all sets — that's the main win here. Lower back felt tired post-session but no pain and no stiffness. **New finding:** during the slow 3-second concentric at 150 kg, a slight deep sharp pain in the right hip appeared — not present with quick reps. First time noticing this. Overall felt a lack of raw deadlift strength to complete the prescribed loads.
+
 ---
 
 ## Accessory Window (15–20 min)
 
-- [ ] Bulgarian split squat: 3 × 10 each leg @ 15–17 kg KB front-loaded, 3-sec descending tempo (left leg first)
-- [ ] Single-leg RDL: 3 × 10 each leg @ 12–15 kg KB
-- [ ] Hip flexor stretch: 60 sec each side
-- [ ] **Right lumbar erector foam roll: 60 sec** (post-session — second dose today given heavy DL load)
+- [x] Bulgarian split squat: 3 × 10 each leg @ 15–17 kg KB front-loaded, 3-sec descending tempo (left leg first) ✅ 2026-04-29
+- [x] Single-leg RDL: 3 × 10 each leg @ 12–15 kg KB ✅ 2026-04-29
+- [x] Hip flexor stretch: 60 sec each side ✅ 2026-04-29
+- [x] **Right lumbar erector foam roll: 60 sec** (post-session — second dose today given heavy DL load) ✅ 2026-04-29
 
 > [!info]- Accessory — Coaching Notes (click to expand)
 >
@@ -202,18 +207,18 @@ tags:
 
 ## Daily Log
 
-- [ ] Session completed
-- RPE (overall): _ /10 (target 7–8 — heaviest session of the block)
-- Left knee feel (1-5): _
-- Right lumbar feel during session (1-5, 5=no discomfort): _
-- Right lumbar feel post-session (1-5): _
-- **Anterior shoulder at 105 kg squat clean: ABSENT / PRESENT** (per-set log in table; summary here): _
-- Clean notes (pause at knee positional? Stand-up breathing applied? Bar drop to platform?):
-- Deadlift notes (tempo held? Erector response? Belt feel?):
-- BSS notes (15 kg or 17 kg? RPE per leg?):
+- [x] Session completed ✅ 2026-04-29
+- RPE (overall): 7.5 /10 (target 7–8 — heaviest session of the block)
+- Left knee feel (1-5): 5
+- Right lumbar feel during session (1-5, 5=no discomfort): 5
+- Right lumbar feel post-session (1-5): 5
+- **Anterior shoulder at 105 kg squat clean: ABSENT / PRESENT** (per-set log in table; summary here): a slight pull, very slight. watch for a little longer.
+- Clean notes (pause at knee positional? Stand-up breathing applied? Bar drop to platform?): not directly, slightly controlled, but not full control, maybe this caused the pull on shoulder. 
+- Deadlift notes (tempo held? Erector response? Belt feel?): tempo hold, just cant do with 160kg.
+- BSS notes (15 kg or 17 kg? RPE per leg?): 16 for both leg, RPE: 8.5, very tired with tempo control, but not grinding. 
 - Pre-session fueling done? Y/N: _
 - Pre-bed mobility done? Y/N: _
-- General notes:
+- General notes: overall sharp & strong, but deadlift is grinding, and noticed some discomfort on the right hip, deep. not sure what it is.
 
 ---
 
@@ -224,3 +229,31 @@ tags:
 > 3. **Stand-up breathing protocol — first heavy application:** did the controlled exhale prevent any lightheadedness? Was it natural or did it feel forced?
 > 4. **BSS progression decision:** if 17 kg held RPE ≤7, that's the new working weight for the rest of Phase 1.
 > 5. **Load readiness for post-trip re-entry:** if today's deadlift or clean produces an unexpected lumbar or shoulder response, May 6 stays conservative and May 7 loads should not be auto-green-lit.
+
+---
+
+> [!note] Coach's Review — Wk 5 Wed (Apr 29)
+>
+> **Clean — 105 kg Pause + Squat Complex: Best technical session yet, but the shoulder closure is held open**
+>
+> All 5 sets at 105 kg, RPE 6.5 flat — the most consistent clean RPE profile logged. The stand-up breathing protocol worked: no lightheadedness at 105 kg, which definitively confirms the Wk 4 Fri near-syncope was a protocol failure, not a structural response. Pause mechanics held, back angle clean through the 2-second position, transition fast, elbows up in the catch. That's a strong technical outcome.
+>
+> The anterior shoulder is marked present (mild, 4.5/5) across all sets. That keeps the limiter open. Critically, the bar drop protocol was not fully applied — the athlete describes "slightly controlled rather than full drop." That breach is the most likely driver: the bar-lowering hypothesis was never disproven, and today's session replicated the exact scenario that would produce a low-level re-aggravation. The sensation itself (4.5/5) is not alarming, but the confounding variable means we can't call this clean data. **Limiter stays on watch.** Retest is May 8 bridge session at 95 kg squat clean — bar drop protocol must be strict, no exceptions. If absent then, the limiter closes permanently.
+>
+> **Deadlift — 160 kg @ 3-0-3: Load was overestimated; actual tempo capacity now established**
+>
+> The prescription assumed tempo DL capacity scales linearly off the 200 kg PR. It doesn't. Today reveals the working tempo DL ceiling is approximately 140–145 kg for RPE 7.5–8 — that's where the athlete finished (140 kg × 5 @ RPE 8), and it's the only set inside the target RPE window. The RPE 9s at 160 and 150 kg are not a failure of effort; they're useful calibration data. The bigger win: tempo discipline held across all sets (3s concentric, 3s eccentric) even when loads were adjusted mid-session. Right erector 5/5 under the heaviest loading of Phase 1 — belt protocol confirmed effective. Wk 6 DL has been adjusted to 145 kg (from 164 kg) to reflect actual capacity.
+>
+> **New finding: right hip deep/sharp pain during slow concentric — monitoring required**
+>
+> First occurrence: a deep, sharp sensation in the right hip appearing during the 3-second concentric at 150 kg, absent at normal rep speed. The slow tempo holds the hip in high flexion under sustained load, which is the likely trigger — consistent with femoroacetabular loading or deep hip rotator irritation (piriformis, obturator group). It's a single data point under peak-fatigue conditions at the end of a grinding session, so it may be load/fatigue related rather than structural. **Red flags that require stopping and seeing a clinician:** pain radiating down the leg, locking or clicking sensation, groin pain, inability to weight-bear normally. If none of those appear, monitor through the trip — any hip flexion pain at bodyweight during mobility work should be logged in the trip protocol notes.
+>
+> **Accessories: BSS at 16 kg, RPE 8.5 — 17 kg deferred**
+>
+> After the heaviest session of Phase 1, RPE 8.5 on BSS is expected and acceptable. Tempo control held, which is the measure that matters. 17 kg confirmation deferred to May 8 bridge session when legs are fresher. Single-leg RDL completed — no hip issues noted there, which is useful context (the right hip symptom appears to be load- and tempo-specific to the DL pattern).
+>
+> **Summary of state changes:**
+> 1. Anterior shoulder: stays on watch — bar drop protocol breach was the confounding variable; retest May 8 at 95 kg with strict drop protocol.
+> 2. New potential limiter: right hip deep/sharp sensation during slow concentric DL — monitor through trip and during May 6 re-entry.
+> 3. Wk 6 DL adjusted to 145 kg (from 164 kg) — actual tempo capacity established today.
+> 4. Right erector management: confirmed effective under maximum Phase 1 load (5/5 throughout). Belt protocol non-negotiable for Phase 2.
